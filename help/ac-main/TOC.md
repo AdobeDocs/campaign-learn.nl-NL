@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Tutorials
 user-guide-description: Adobe Campaign stelt marketers in staat om ervaringen van verschillende klanten te ontwerpen en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: ae1ab8936ff47600640c6f4a448c80adc1f1a210
+source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 36%
+ht-degree: 35%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 36%
    + [Inleiding tot Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
    + [De Adobe Campaign-client installeren en instellen](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [De Adobe Campaign-gebruikersinterface verkennen](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [Marketingcampagnes beheren](/help/getting-started/manage-marketing-campaigns.md)
+   + [Marketing campagnes beheren](/help/getting-started/manage-marketing-campaigns.md)
    + [ Marketingplannen, -programma’s en -campagnes maken](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Door gebeurtenis geactiveerde campagnes maken](/help/getting-started/create-event-triggered-campaigns.md)
 + Profielbeheer {#profile-management}
