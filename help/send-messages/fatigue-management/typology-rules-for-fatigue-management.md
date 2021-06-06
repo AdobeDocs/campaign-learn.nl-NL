@@ -1,32 +1,29 @@
 ---
-title: Hoe stelt u vermoeidheidsbeheer in met behulp van typologische regels.
+title: Vermoeidheid beheren met behulp van typologische regels.
 description: Leer hoe u vermoeidheidsbeheer implementeert door typologische regels toe te passen.
 feature: Beheer van moeheidsregels
 kt: 7959
+thumbnail: 333787.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '87'
+ht-degree: 8%
 
 ---
 
 
-# Moeilijkheidsbeheer instellen met behulp van typologische regels
+# Vermoeidheid beheren met behulp van typologische regels
 
 Het beheer van de vermoeidheid controleert frequentie en hoeveelheid overseinen om te vermijden overbevraging van ontvangers en wordt vaak toegepast gebruikend een typologieregel.
 
-De regels van de typologie staan marketers toe om bedrijfspraktijken over alle leveringen efficiënter te standaardiseren om campagneoverseinen aan klanten te controleren. De typologische regels maken het niet nodig om uitzonderingen of algemeen gebruikte regels op elke afzonderlijke campagne toe te passen. Ontvangers die voldoen aan criteria binnen een *typologieregel* worden uitgesloten van de levering tijdens de analysefase.
+Leer hoe u vermoeidheidsbeheer in Adobe Campaign implementeert met behulp van typologische regels.
 
-Gewoonlijk wordt een reeks typologieregels gegroepeerd binnen een *typologie* om veelvoudige het filtreren regels op een levering in één keer gemakkelijk toe te passen. De groepering in typologieën elimineert extra stappen wanneer het creëren van veelvoudige campagnes en werkschema&#39;s en helpt ervoor zorgen dat de juiste bevolking op de juiste tijd wordt gericht.
-
-In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign kunt implementeren met behulp van typologische regels.
-
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
 
 ## Aanvullende bronnen
 
