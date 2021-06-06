@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Tutorials
 user-guide-description: Adobe Campaign stelt marketers in staat om ervaringen van verschillende klanten te ontwerpen en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 35%
+source-wordcount: '300'
+ht-degree: 36%
 
 ---
 
@@ -59,8 +59,8 @@ ht-degree: 35%
       + [Eigenschappen van leveringssjablonen instellen](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering implementeren](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Beheer van moeheidsregels{#fatigue-management}
-      + [Typologische regels gebruiken](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [Vooraf gedefinieerde filters gebruiken](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [Typologieregels](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [Vooraf gedefinieerde filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Abonnementsservices configureren en beheren](/help/send-messages/configure-and-manage-subscription-services.md)
 + Procesbeheer en -automatisering{#process-management}
    + [Een workflow maken](/help/process-management/create-a-workflow.md)
