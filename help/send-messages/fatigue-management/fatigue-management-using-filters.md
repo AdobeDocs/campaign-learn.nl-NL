@@ -1,5 +1,5 @@
 ---
-title: Vermoediging van het op de markt brengen met drukregels beheren
+title: Vermoeidheid beheren met behulp van vooraf gedefinieerde filters
 description: Leer hoe u moeheidsbeheer in Adobe Campaign implementeert met behulp van filters.
 feature: Beheer van moeheidsregels
 kt: 7958
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Business Practitioner, Developer, Administrator
 level: Experienced
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '64'
 ht-degree: 10%
 
 ---
 
 
-# Beheren van vermoeidheid instellen met behulp van vooraf gedefinieerde filters
+# Vermoeidheid beheren met behulp van vooraf gedefinieerde filters
 
 Het beheer van de vermoeidheid controleert frequentie en hoeveelheid overseinen om te vermijden overdrijving van ontvangers.
 Leer hoe u moeheidsbeheer in Adobe Campaign implementeert met behulp van filters.
