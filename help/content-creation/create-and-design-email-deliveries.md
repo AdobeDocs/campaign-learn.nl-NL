@@ -1,5 +1,5 @@
 ---
-title: E-mailleveringen ontwerpen en maken
+title: E-mailverzendingen maken en ontwerpen
 description: Begrijp het proces van het maken van een e-mailverzending en leer e-mailcontent ontwerpen en personaliseren.
 feature: E-mail, e-mailontwerp, personalisatie
 kt: 7847
@@ -9,15 +9,15 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
-source-git-commit: 30e16faef1a85a0854b7e4d8fe0177833c631565
+source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 
-# E-mailleveringen ontwerpen en maken
+# E-mailverzendingen maken en ontwerpen
 
 Begrijp het proces van het maken van een e-mailverzending en leer e-mailcontent ontwerpen en personaliseren.
 
