@@ -6,10 +6,10 @@ feature: Overzicht
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
+source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 14%
+source-wordcount: '271'
+ht-degree: 20%
 
 ---
 
@@ -19,8 +19,59 @@ Adobe Campaign biedt een platform voor het ontwerpen van klantervaringen over me
 
 >[!NOTE]
 > Campagne v8 is momenteel alleen beschikbaar als een beheerde Cloud Service en kan niet worden geïmplementeerd op een onpremise of hybride omgeving. Migratie vanuit een bestaande Campaign Classic v7-omgeving is nog niet beschikbaar.
->Raadpleeg de [Classic v7 naar V8 productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-classic/start/capability-matrix.html?lang=en#start) voor meer informatie over de verschillen tussen de twee versies. Zie ook de sectie [Campaign Classic V7 zelfstudies](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) voor video&#39;s.
+>Raadpleeg de [Classic v7 naar V8 productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) voor meer informatie over de verschillen tussen de twee versies. Zie ook de sectie [Campaign Classic V7 zelfstudies](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) voor video&#39;s.
 
 ## Nieuwe functies
 
-[Belangrijkste mogelijkheden](https://experienceleague.adobe.com/docs/campaign/campaign-classic/start/whats-new.html?lang=en#start)
+[Belangrijkste mogelijkheden](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+
+## Aanbevolen door medewerkers van Adobe
+
+<table>
+<tr>
+  <td>
+    <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+      <img alt="Een marketingplan, -programma en -campagnes maken (video)" src="./assets/333810.jpg"/>
+    </a>
+    <div>
+      <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+    <strong>Een marketingplan maken</strong>
+    </a>
+    </div>
+    <p>
+    <em>Leer hoe u een marketingplan, -programma en -campagne maakt.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./content-creation/create-and-design-email-deliveries.md">
+      <img alt="E-mailleveringen maken en ontwerpen (video)" src="./assets/333476.jpg" />
+    </a>
+    <div>
+      <a href="../content-creation/create-and-design-email-deliveries.md">
+    <strong>E-mailverzendingen maken en ontwerpen</strong>
+    </a>
+    </div> 
+    <p>
+    <em>Krijg inzicht in hoe een e-mailverzending wordt gemaakt en leer hoe u e-mailcontent ontwerpt en personaliseert.
+</em>
+    <p>
+  </td>
+  <td>
+    <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
+      <img alt="Vermoeidheid beheren met behulp van typologische regels (video)" src="./assets/333787.jpg" />
+    </a>
+    <div>
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+    <strong>Vermoeidheid beheren met behulp van typologische regels</strong>
+    </a>
+    </div>
+    <p>
+    <em>Leer hoe u vermoeidheidsbeheer in Adobe Campaign implementeert met behulp van typologische regels.  </em>
+    <p>
+  </td>
+</tr>
+</table>
+
+## Aanvullende resources
+
+* [Documentatie](https://experienceleague.adobe.com/docs/campaign-v8.html)
