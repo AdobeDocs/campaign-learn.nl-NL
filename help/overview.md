@@ -6,10 +6,10 @@ feature: Overzicht
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: bdf29c4f660743d0f5d76a3df5425eeff86acd8e
+source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 20%
+source-wordcount: '293'
+ht-degree: 18%
 
 ---
 
@@ -70,6 +70,22 @@ Adobe Campaign biedt een platform voor het ontwerpen van klantervaringen over me
     <p>
   </td>
 </tr>
+<tr>
+</td>
+  <td>
+    <a href="./reporting/generate-a-descriptive-analysis-report.md">
+      <img alt="Een beschrijvend analyserapport genereren" src="./assets/333994.jpg" />
+    </a>
+    <div>
+      <a href="./reporting/generate-a-descriptive-analysis-report.md">
+    <strong>Een beschrijvend analyserapport genereren</strong>
+    </a>
+    </div>
+    <p>
+    <em>Leer hoe u een [!UICONTROL-beschrijvend analyserapport] genereert op basis van een workflow.</em>
+    <p>
+  </td>
+
 </table>
 
 ## Aanvullende resources
