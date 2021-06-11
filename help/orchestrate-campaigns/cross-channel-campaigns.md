@@ -12,15 +12,15 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 # Cross-channel campagnes maken
 
-In een campagne voor meerdere kanalen gebruikt één marketingmededeling meerdere kanalen om een groter doelpubliek te bereiken op basis van het voorkeurskanaal voor ontvangers.
+In een cross-channel campagne worden voor één marketingcommunicatie meerdere kanalen gebruikt om een grotere doelgroep te bereiken op basis van het voorkeurskanaal voor ontvangers.
 
-Leer hoe u een campagne voor meerdere kanalen kunt maken met e-mail, SMS en direct mail.
+Leer een multi-channel campagne maken met gebruik van e-mail, sms en direct-mailleveringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
