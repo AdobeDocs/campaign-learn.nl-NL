@@ -1,6 +1,6 @@
 ---
 title: Workflow HeatMap
-description: Leer hoe u het laden op de instantie kunt controleren en werkstroomschema's dienovereenkomstig kunt plannen.
+description: Leer hoe u de belasting op de instantie kunt controleren en workflowschema's dienovereenkomstig kunt plannen.
 feature: Heatmap
 kt: 7970
 doc-type: feature video
@@ -10,14 +10,14 @@ role: Administrator
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '35'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
 # Workflow HeatMap
 
-Leer hoe u het laden op de instantie kunt controleren en werkstroomschema&#39;s dienovereenkomstig kunt plannen.
+Leer hoe u de belasting op de instantie kunt controleren en workflowschema&#39;s dienovereenkomstig kunt plannen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
