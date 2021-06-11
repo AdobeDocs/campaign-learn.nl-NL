@@ -1,7 +1,7 @@
 ---
 title: Verrijkingsactiviteiten configureren
-description: Leer hoe te om een verrijkingsactiviteit te vormen die op de informatie van het leveringslogboek wordt gebaseerd.
-feature: Werkstromen, verrijkingsactiviteiten
+description: Leer hoe u een verrijkingsactiviteit kunt configureren op basis van het leveringslogboek.
+feature: Workflows, verrijkingsactiviteit
 kt: 7990
 doc-type: feature video
 activity: use
@@ -9,17 +9,17 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Verrijkingsactiviteiten configureren
 
-De verrijkingsactiviteit is een werkschemavoorwerp dat gegevens aan de het werk lijst toevoegt. Met behulp van de verrijkingsactiviteit kunt u kolommen toevoegen aan een tabel die aanvullende gegevens opslaat of nieuwe koppelingen naar andere bestaande gegevens definieert.
+De verrijkingsactiviteit is een workflowobject dat gegevens aan de werktabel toevoegt. Met de verrijkingsactiviteit kunt u kolommen aan een tabel toevoegen die aanvullende gegevens opslaan of nieuwe koppelingen naar andere bestaande gegevens definiëren.
 
-Leer hoe te om een verrijkingsactiviteit te vormen die op de informatie van het leveringslogboek wordt gebaseerd.
+Leer hoe u een verrijkingsactiviteit kunt configureren op basis van het leveringslogboek.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
