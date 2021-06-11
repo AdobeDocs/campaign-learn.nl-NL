@@ -1,6 +1,6 @@
 ---
 title: Direct-mailleveringen maken
-description: Leer hoe u een directe-maillevering maakt, opmaakt en uitvoert.
+description: Leer hoe u een direct-maillevering maakt, opmaakt en uitvoert.
 feature: Direct mail
 kt: 7795
 thumbnail: 333401.jpg
@@ -11,14 +11,14 @@ role: Business Practitioner
 level: Beginner
 exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Direct-mailleveringen maken
 
-Begrijp hoe [!UICONTROL direct mail] in [!UICONTROL Adobe Campaign] werkt en leer hoe te om [!UICONTROL direct mail ]levering te creëren, te formatteren en uit te voeren.
+Begrijp hoe [!UICONTROL direct mail] werkt in [!UICONTROL Adobe Campaign] en leer hoe u een [!UICONTROL direct-mail]-levering te kunt maken, opmaken en uitvoeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12)
