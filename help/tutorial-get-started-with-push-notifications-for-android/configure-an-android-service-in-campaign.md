@@ -1,6 +1,6 @@
 ---
-title: Een Android™-service configureren en een mobiele Android™-toepassing maken in Campagne
-description: Leer hoe u een Android™-service configureert en een mobiele Android™-toepassing maakt in Campagne.
+title: Een Android™-service configureren en een mobiele Android™-applicatie maken in Campaign
+description: Leer hoe u een Android™-service configureert en een mobiele Android™-applicatie maakt in Campaign.
 feature: Push
 kt: 7965
 thumbnail: 327788.jpg
@@ -10,23 +10,23 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Configureer een [!DNL Android™]-service en maak een [!DNL Android™] mobiele toepassing in Campagne
+# Een [!DNL Android™]-service configureren en een mobiele [!DNL Android™]-applicatie maken in Campaign
 
-Leer hoe u een [!DNL Android™]-service configureert en een [!DNL Android™] mobiele toepassing maakt in Campagne. Deze stap is vereist, zodat u de mobiele doeltoepassing voor de pushmelding kunt definiëren.
+Leer hoe u een [!DNL Android™]-service configureert en een mobiele [!DNL Android™]-applicatie maakt in Campaign. Deze stap is vereist, zodat u de mobiele doelapplicatie voor de pushmelding kunt bepalen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 **Vorige stap**
 
-Stap 1: [Het schema van het app-abonnement uitbreiden om pushmeldingen aan te passen](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
+Stap 1: [het schema voor app-lidmaatschappen voor het personaliseren van pushmeldingen uitbreiden](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
 
 **Volgende stap**
 
-Stap 3: [Pushmeldingen configureren en verzenden](/help/tutorial-get-started-with-push-notifications-for-android/configure-and-send-push-notifications.md)
+Stap 3: [pushmeldingen configureren en verzenden](/help/tutorial-get-started-with-push-notifications-for-android/configure-and-send-push-notifications.md)
