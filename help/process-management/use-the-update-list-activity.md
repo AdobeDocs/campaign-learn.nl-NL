@@ -1,7 +1,7 @@
 ---
-title: Gebruik de activiteit van de updatelijst om een lijst met een werkschema tot stand te brengen
-description: Begrijp het concept lijsten in Adobe Campaign en leer hoe te om een lijst tot stand te brengen gebruikend de activiteit van de updatelijst in een werkschema.
-feature: Workflows, doelactiviteit, Query-editor
+title: De activiteit voor lijst bijwerken gebruiken om een lijst met een workflow te maken
+description: Begrijp het concept van lijsten in Adobe Campaign en leer hoe u een lijst kunt maken met de activiteit van de updatelijst in een workflow.
+feature: Workflows, doelactiviteit, query-editor
 kt: 7988
 thumbnail: 35620.jpg
 doc-type: feature video
@@ -10,21 +10,21 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# Gebruik de activiteit van de updatelijst om een lijst met een werkschema tot stand te brengen
+# De activiteit voor lijst bijwerken gebruiken om een lijst met een workflow te maken
 
-Begrijp het concept lijsten in Adobe Campaign en leer hoe te om een lijst tot stand te brengen gebruikend de activiteit van de updatelijst in een werkschema.
+Begrijp het concept van lijsten in Adobe Campaign en leer hoe u een lijst kunt maken met de activiteit van de updatelijst in een workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
 ## Aanvullende bronnen
 
-* [Profielen targeten in een workflow](/help/profile-management/target-profiles-in-a-workflow.md)
+* [Targetprofielen in een workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 * [Doelen verfijnen door queryresultaten te combineren](/help/process-management/refine-targets-by-combining-query-results.md)
 * [Doelen verfijnen door queryresultaten uit te sluiten](/help/process-management/refine-targets-by-excluding-query-results.md)
