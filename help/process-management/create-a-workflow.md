@@ -1,5 +1,5 @@
 ---
-title: Maak een workflow
+title: Een workflow maken
 description: In deze video wordt uitgelegd hoe u een workflow kunt maken.
 feature: Workflows
 kt: 7989
@@ -9,18 +9,18 @@ team: DOC
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 
-# Maak een workflow
+# Een workflow maken
 
-Adobe Campaign bevat een workflowmodule waarmee u het volledige scala aan processen en taken in de verschillende modules van de toepassingsserver kunt ordenen. Met deze uitgebreide grafische omgeving kunt u processen ontwerpen, zoals segmentatie, uitvoering van campagnes, bestandsverwerking, participatie van mensen enzovoort. Deze processen worden uitgevoerd en bijgehouden door de workflowengine.
+Adobe Campaign bevat een workflowmodule om het volledige scala aan processen en taken in de verschillende modules van de applicatieserver te organiseren. Met deze uitgebreide grafische omgeving kunt u processen ontwerpen, waaronder segmentatie, uitvoering van campagnes, bestandsverwerking, menselijke participatie, enzovoort. Deze processen worden uitgevoerd en bijgehouden door de workflowengine.
 
-Workflows vinden plaats in verschillende contexten en fasen van het campagnebeheerproces.
+Workflows vinden plaats in verschillende contexten en fasen van het campagnemanagementproces.
 
 In deze video wordt uitgelegd hoe u een workflow maakt in Adobe Campaign.
 
