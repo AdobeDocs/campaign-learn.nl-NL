@@ -1,6 +1,6 @@
 ---
 title: 'Eigenschappen van leveringssjablonen instellen '
-description: Leer hoe te om de eigenschappen van het leveringsmalplaatje te vormen.
+description: Leer de eigenschappen van het leveringssjabloon configureren.
 feature: Leveringssjablonen
 kt: 7964
 thumbnail: 24067.jpg
@@ -10,15 +10,15 @@ team: TM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Eigenschappen van leveringssjablonen instellen {#set-the-delivery-template-properties}
 
-Leer hoe u de eigenschappen van de leveringssjabloon instelt en elke eigenschap in detail verklaart.
+Hier leert u hoe u de eigenschappen van het leveringssjabloon kunt instellen en wordt elke eigenschap in detail verklaard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
