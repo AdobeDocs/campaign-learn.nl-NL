@@ -1,7 +1,7 @@
 ---
-title: Een meertalige nieuwsbrief maken met voorwaardelijke inhoud
-description: Leer hoe u voorwaardelijke inhoud aan een levering kunt toevoegen op het voorbeeld van een meertalige nieuwsbrief.
-feature: Dynamische inhoud
+title: Een meertalige nieuwsbrief maken met voorwaardelijke content
+description: Deze video laat zien hoe u voorwaardelijke content aan een levering kunt toevoegen, bijvoorbeeld aan een meertalige nieuwsbrief.
+feature: Dynamische content
 kt: 7792
 thumbnail: 24926.jpg
 doc-type: feature video
@@ -10,18 +10,18 @@ team: TM
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 
-# Een meertalige nieuwsbrief maken met voorwaardelijke inhoud
+# Een meertalige nieuwsbrief maken met voorwaardelijke content
 
-Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personalisatie tot stand brengen. Volledige tekstblokken en/of afbeeldingen worden vervangen wanneer aan een bepaalde voorwaarde wordt voldaan.
+Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personalisaties maken. Volledige tekstblokken en/of afbeeldingen worden vervangen wanneer aan een bepaalde voorwaarde wordt voldaan.
 
-Leer hoe u voorwaardelijke inhoud aan een levering kunt toevoegen op het voorbeeld van een meertalige nieuwsbrief.
+Deze video laat zien hoe u voorwaardelijke content aan een levering kunt toevoegen, bijvoorbeeld aan een meertalige nieuwsbrief.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
