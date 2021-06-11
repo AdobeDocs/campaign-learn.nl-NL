@@ -6,14 +6,14 @@ breadcrumb-url: /docs/campaign-learn/get-started-with-push-notifications-for-and
 source-git-commit: 404d77c2fafa408c53a8b23794422cbbd38f76ee
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 34%
+ht-degree: 100%
 
 ---
 
 
-# Aan de slag met pushberichten voor Android™ {#get-started-with-push-notifications-for-android}
+# Aan de slag met pushmeldingen voor Android™ {#get-started-with-push-notifications-for-android}
 
-+ [Aan de slag met pushmeldingen voor Android - Inleiding](/help/tutorial-get-started-with-push-notifications-for-android/introduction.md)
-+ [Stap 1: Het schema voor app-abonnementen uitbreiden om pushmeldingen aan te passen](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
-+ [Stap 2: Een Android™-service configureren en een mobiele Android™-toepassing maken in Campagne](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
++ [Aan de slag met pushmeldingen voor Android: inleiding](/help/tutorial-get-started-with-push-notifications-for-android/introduction.md)
++ [Stap 1: Het schema voor app-lidmaatschappen voor het personaliseren van pushmeldingen uitbreiden](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
++ [Stap 2: Een Android-service configureren en een mobiele Android-applicatie maken in Campaign](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
 + [Stap 3: Pushmeldingen configureren en verzenden](/help/tutorial-get-started-with-push-notifications-for-android/configure-and-send-push-notifications.md)
