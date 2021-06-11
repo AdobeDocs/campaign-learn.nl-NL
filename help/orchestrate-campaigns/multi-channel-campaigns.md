@@ -1,6 +1,6 @@
 ---
 title: Multi-channel campagnes maken
-description: Leer hoe u een multikanaalscampagne kunt maken met e-mail, SMS en een direct mail.
+description: Leer hoe u een multi-channel campagne kunt maken met gebruik van e-mail, sms en direct-maillevering.
 feature: Workflows
 kt: 7794
 thumbnail: 24981.jpg
@@ -11,19 +11,19 @@ role: Business Practitioner
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
 source-git-commit: 88c2e8d387203cbd725efcef18052ae431b6d2b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
 # Multi-channel campagnes maken
 
-In een campagne met meerdere kanalen gebruikt één marketingmededeling meerdere kanalen om een groter doelpubliek te bereiken op basis van het voorkeurskanaal van de ontvanger.
+In een cross-channel campagne gebruikt een enkele marketingcommunicatie meerdere kanalen om een grotere doelgroep te bereiken op basis van het voorkeurskanaal van de ontvanger.
 
-Verzendingen met meerdere kanalen worden ontworpen en uitgevoerd in één workflow.
+Multi-channel verzendingen worden ontworpen en uitgevoerd in één workflow.
 
-Leer hoe u een multikanaalscampagne kunt maken met e-mail, SMS en een direct mail.
+Leer hoe u een multi-channel campagne kunt maken met gebruik van e-mail, sms en direct-maillevering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
