@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot Adobe Campaign V8
-description: Begrijp hoe Adobe Campaign past in het Adobe Digital Experience-portfolio en leer over de belangrijkste functies en mogelijkheden.
+description: Begrijp hoe Adobe Campaign past in de Adobe Digital Experience-portfolio en leer over de belangrijkste functies en mogelijkheden.
 feature: Overzicht
 kt: 7822
 thumbnail: 35129.jpg
@@ -14,13 +14,13 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
 # Inleiding tot Adobe Campaign V8
 
-Begrijp hoe Adobe Campaign past in het Adobe Digital Experience-portfolio en leer over de belangrijkste functies en mogelijkheden.
+Begrijp hoe Adobe Campaign past in de Adobe Digital Experience-portfolio en leer over de belangrijkste functies en mogelijkheden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
