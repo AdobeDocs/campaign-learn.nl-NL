@@ -1,6 +1,6 @@
 ---
 title: De Adobe Campaign-client installeren en instellen
-description: Leer hoe u de Adobe Campaign Client Console downloadt en installeert, uw verbindingen maakt en beheert met meerdere omgevingen en de toegang tot de Adobe Campaign Client Console verifieert.
+description: Leer hoe u de Adobe Campaign-clientconsole kunt downloaden en installeren, hoe u uw verbindingen met meerdere omgevingen kunt maken en beheren en hoe u de toegang tot de Adobe Campaign-clientconsole kunt bepalen.
 feature: Clientconsole
 kt: 7827
 thumbnail: 35124.jpg
@@ -14,7 +14,7 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
