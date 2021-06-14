@@ -1,7 +1,7 @@
 ---
 title: Dynamische inhoud configureren
-description: Begrijp de verschillende soorten dynamische inhoud en leer hoe creeer en pas verpersoonlijkingsblokken en voorwaardelijke verklaringen op een levering toe.
-feature: Dynamische inhoud, persoonlijke instellingen, e-mail
+description: Begrijp de verschillende soorten dynamische content en leer personalisatieblokken en voorwaardelijke verklaringen maken en toepassen op een levering.
+feature: Dynamische content, personalisatie, e-mail
 kt: 7789
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -15,13 +15,13 @@ hidefromtoc: true
 source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 # Dynamische inhoud configureren
 
-Begrijp de verschillende soorten dynamische inhoud en leer hoe creeer en pas verpersoonlijkingsblokken en voorwaardelijke verklaringen op een levering toe.
+Begrijp de verschillende soorten dynamische content en leer personalisatieblokken en voorwaardelijke verklaringen maken en toepassen op een levering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
