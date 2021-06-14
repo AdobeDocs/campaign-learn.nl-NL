@@ -12,13 +12,13 @@ level: Beginner
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
 # Een beschrijvend analyserapport genereren
 
-Leer hoe te om een [!UICONTROL beschrijvend analyserapport] van een werkschema te produceren.
+Leer hoe u een [!UICONTROL beschrijvend analyserapport] uit een workflow kunt genereren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12)
