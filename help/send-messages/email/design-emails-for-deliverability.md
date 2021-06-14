@@ -9,14 +9,14 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
 
 ---
 
 
-# E-mails ontwerpen voor aflevering
+# E-mails ontwerpen voor afleverbaarheid
 
 Leer best practices voor aflevering toepassen op uw e-mailleveringen.
 
