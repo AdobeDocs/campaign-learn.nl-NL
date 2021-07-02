@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: ee567c5fbe90ddce24617b3d5a8210c04728b4db
+source-git-commit: 18b670cf4cd375dfaa741f91524783f4043ecfee
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '304'
 ht-degree: 96%
 
 ---
@@ -75,7 +75,8 @@ ht-degree: 96%
 + Data management {#data-management}
    + [Profielen importeren](/help/data-management/import-profiles.md)
 + Verbinden met andere oplossingen {#connect}
-   + [Beheer van big data op [!DNL Snowflake]](/help/connect/big-data-segmentation-on-snowflake.md)
+   + [Beheer van big data in Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
+   + [Gegevensreplicatie](help/data-management/data-replication.md)
    + [Integreren met Dynamics 365](/help/connect/dynamics365-integration.md)
 + Rapportage {#reporting}
    + [Ingebouwde rapporten openen](/help/reporting/access-built-in-reports.md)
