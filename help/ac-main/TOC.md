@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
+source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 92%
@@ -48,7 +48,7 @@ ht-degree: 92%
       + [E-mails ontwerpen voor leverbaarheid](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
    + Sms {#sms}
-      + [Een sms-levering maken](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [Maak een sms-levering](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Het mobiele-appkanaal installeren](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
