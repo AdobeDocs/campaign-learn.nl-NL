@@ -3,14 +3,14 @@ title: Een meertalige nieuwsbrief maken met voorwaardelijke content
 description: Deze video laat zien hoe u voorwaardelijke content aan een levering kunt toevoegen, bijvoorbeeld aan een meertalige nieuwsbrief.
 feature: Dynamische content
 kt: 7792
-thumbnail: 24926.jpg
+thumbnail: 335682.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: d139ae2c913c4b46d1683a2f1a30b9cb30988d09
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
@@ -23,7 +23,7 @@ Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personali
 
 Deze video laat zien hoe u voorwaardelijke content aan een levering kunt toevoegen, bijvoorbeeld aan een meertalige nieuwsbrief.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12)
 
 ## Aanvullende bronnen
 
