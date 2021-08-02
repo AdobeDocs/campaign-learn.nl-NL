@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot multi-channel en cross-channel campagnes
-description: Begrijp het verschil tussen multi-channel en cross-channel campagnes en wat de gebruiksscenario's voor multi-channel en cross-channel campagnes zijn.
+description: Begrijp het verschil tussen multi-kanaal en dwars-kanaalcampagnes en de gebruiksgevallen.
 feature: Workflows
 kt: 7796
 thumbnail: 335610.jpg
@@ -8,16 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f7391930-f712-408a-8933-3225d10864e7
-source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
+source-git-commit: 876f452469c9ed1b8c470a736aee7d62c9df8f37
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Inleiding tot multi-channel en cross-channel campagnes
 
-Begrijp het verschil tussen multi-channel en cross-channel campagnes en wat de gebruiksscenario&#39;s voor multi-channel en cross-channel campagnes zijn.
+Begrijp het verschil tussen multi-kanaal en dwars-kanaalcampagnes en de gebruiksgevallen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12)
 
