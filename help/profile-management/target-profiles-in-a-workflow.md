@@ -1,7 +1,6 @@
 ---
 title: Profielen targeten in een workflow
-description: Begrijp het gebruik van campagneworkflows en leer hoe u een workflow maakt en profielen target in een workflow met gebruik van filtervoorwaarden.
-feature: Workflows
+description: Begrijp het gebruik van campagneworkflows en leer hoe u een workflow maakt en filtervoorwaarden gebruikt om profielen in een workflow als doel in te stellen.
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video
@@ -9,16 +8,16 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 08e46479272cd319377fdf27f8585acc47deea06
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 45%
 
 ---
 
 # Profielen targeten in een workflow
 
-Begrijp het gebruik van campagneworkflows en leer hoe u een workflow maakt en profielen target in een workflow met gebruik van filtervoorwaarden.
+Begrijp het gebruik van campagneworkflows en leer hoe u een workflow maakt en filtervoorwaarden gebruikt om profielen in een workflow als doel in te stellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
 
