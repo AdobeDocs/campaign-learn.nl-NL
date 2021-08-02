@@ -1,6 +1,6 @@
 ---
 title: Doelen verfijnen door queryresultaten te combineren
-description: Leer hoe u uw doel kunt verfijnen door queryresultaten te combineren in een workflow met behulp van de activiteiten voor doorsnede en unie.
+description: Leer hoe te om uw doel te verfijnen door intersection of verenigingsactiviteiten te gebruiken om vraagresultaten in een werkschema te combineren.
 feature: Workflows, doelactiviteit, query-editor
 kt: 7844
 thumbnail: 334304.jpg
@@ -10,16 +10,16 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 52%
 
 ---
 
 # Doelen verfijnen door queryresultaten te combineren
 
-Leer hoe uw doel verfijnen door queryresultaten in een workflow te combineren met behulp van **[!UICONTROL doorsnede]** of **[!UICONTROL unie]**-activiteiten.
+Leer hoe te om uw doel te verfijnen door intersection of verenigingsactiviteiten te gebruiken om vraagresultaten in een werkschema te combineren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
