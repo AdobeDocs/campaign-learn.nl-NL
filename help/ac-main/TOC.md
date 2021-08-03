@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 92%
+ht-degree: 90%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 92%
    + [Marketingcampagnes beheren](/help/get-started/manage-marketing-campaigns.md)
    + [Marketingplannen, -programma’s en -campagnes maken](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Door gebeurtenis geactiveerde campagnes maken](/help/get-started/create-event-triggered-campaigns.md)
-+ Profielbeheer {#profile-management}
++ Profielmanagement {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
    + [Profielen targeten in een workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Campagneorkestratie {#campaign-orchestration}
++ Campagneorchestratie {#campaign-orchestration}
    + [Een campagne uitvoeren](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Inleiding tot multi- en cross-campagnes](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Multi-channel campagnes maken](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -58,7 +58,7 @@ ht-degree: 92%
       + [Een leveringssjabloon maken](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering distribueren](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Vermoeidheidsbeheer{#fatigue-management}
+   + Moeilijkheidsbeheer{#fatigue-management}
       + [Typologieregels](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Lidmaatschapsservices configureren en beheren](/help/send-messages/configure-and-manage-subscription-services.md)
