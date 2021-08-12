@@ -6,16 +6,19 @@ feature: Overzicht
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
+source-git-commit: 813c9af51ac9605455d97e7a07c58d02520b62b1
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '339'
+ht-degree: 86%
 
 ---
 
 # Adobe Campaign V8-tutorials: overzicht
 
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign V8.
+
+>[!INFO]
+> Heb je vragen? Wilt u uw ervaring delen of gedachten uitwisselen met uw collega&#39;s? Of hebt u feedback over de leerinhoud voor het Adobe-team? Sluit u aan bij het gesprek in de [Adobe Campaign Learning Community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
 >[!NOTE]
 > Campaign V8 is momenteel alleen beschikbaar als een Managed Cloud Service en kan niet worden geïmplementeerd in een on-premise of hybride omgeving. Migratie vanuit een bestaande Campaign Classic v7-omgeving is nog niet beschikbaar.
