@@ -1,6 +1,6 @@
 ---
-title: Hoe te om een levering van SMS te creëren
-description: Leer hoe u een SMS-verzending maakt.
+title: Een sms-levering maken
+description: Leer hoe u een sms-levering maakt.
 feature: Sms
 kt: 7797
 thumbnail: 335706.jpg
@@ -9,14 +9,14 @@ activity: use
 team: TM
 exl-id: 7a19b3a5-e736-41c4-a443-7110e0dd45cd
 source-git-commit: e6a3f8d3afaa324bc003e7cf3d400d3bfde3ffbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '25'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
-# Maak een sms-levering
+# Een sms-levering maken
 
-Leer hoe u een SMS-verzending maakt.
+Leer hoe u een sms-levering maakt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335706)
