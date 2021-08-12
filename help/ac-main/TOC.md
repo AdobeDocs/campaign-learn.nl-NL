@@ -6,9 +6,9 @@ user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdend
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 90%
 + [Overzicht](/help/overview.md)
 + Aan de slag {#getting-started}
    + [Inleiding tot Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign Client Console installeren en instellen](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [Adobe Campaign-clientconsole installeren en instellen](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [De Adobe Campaign-gebruikersinterface verkennen](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Marketingcampagnes beheren](/help/get-started/manage-marketing-campaigns.md)
    + [Marketingplannen, -programma’s en -campagnes maken](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -26,7 +26,7 @@ ht-degree: 90%
 + Profielmanagement {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
    + [Profielen targeten in een workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Campagneorchestratie {#campaign-orchestration}
++ Campagneorkestratie {#campaign-orchestration}
    + [Een campagne uitvoeren](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Inleiding tot multi- en cross-campagnes](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Multi-channel campagnes maken](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
       + [E-mails ontwerpen voor leverbaarheid](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
    + Sms {#sms}
-      + [Maak een sms-levering](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Een sms-levering maken](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Het mobiele-appkanaal installeren](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -58,8 +58,8 @@ ht-degree: 90%
       + [Een leveringssjabloon maken](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering distribueren](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Moeilijkheidsbeheer{#fatigue-management}
-      + [Typologieregels](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+   + Vermoeidheidsbeheer{#fatigue-management}
+      + [Typologische regels](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Lidmaatschapsservices configureren en beheren](/help/send-messages/configure-and-manage-subscription-services.md)
 + Procesbeheer en -automatisering{#process-management}
@@ -74,7 +74,7 @@ ht-degree: 90%
    + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
 + Data management {#data-management}
    + [Profielen importeren](/help/data-management/import-profiles.md)
-   + [Gegevensreplicatie](/help/data-management/data-replication.md)
+   + [Datareplicatie](/help/data-management/data-replication.md)
 + Verbinden met andere oplossingen {#connect}
    + [Beheer van big data in Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integreren met Dynamics 365](/help/connect/dynamics365-integration.md)
