@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 >[!NOTE]
 > Campaign V8 is momenteel alleen beschikbaar als een Managed Cloud Service en kan niet worden geïmplementeerd in een on-premise of hybride omgeving. Migratie vanuit een bestaande Campaign Classic v7-omgeving is nog niet beschikbaar.
->Raadpleeg de [Classic v7 naar V8 productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) voor meer informatie over de verschillen tussen de twee versies. Zie ook de sectie [Campaign Classic V7-tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) voor video&#39;s.
+>Raadpleeg de [Classic v7 naar V8 productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=nl) voor meer informatie over de verschillen tussen de twee versies. Zie ook de sectie [Campaign Classic V7-tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) voor video&#39;s.
 
 ## Wat is nieuw?
 
-[Belangrijkste mogelijkheden](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[Belangrijkste mogelijkheden](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=nl)
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -48,11 +48,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
-    <strong>E-mailverzendingen maken en ontwerpen</strong>
+    <strong>E-mailleveringen maken en ontwerpen</strong>
     </a>
     </div> 
     <p>
-    <em>Krijg inzicht in hoe een e-mailverzending wordt gemaakt en leer hoe u e-mailcontent ontwerpt en personaliseert.
+    <em>Het proces van het maken van een e-maillevering begrijpen en leren hoe u e-mailcontent kunt ontwerpen en personaliseren.
 </em>
     <p>
   </td>
@@ -66,7 +66,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
     </a>
     </div>
     <p>
-    <em>Leer hoe u vermoeidheidsbeheer in Adobe Campaign implementeert met behulp van typologische regels.  </em>
+    <em>Leer hoe u vermoeidheidsbeheer in Adobe Campaign implementeert met behulp van typologische regels. </em>
     <p>
   </td>
 </tr>
@@ -82,12 +82,12 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
     </a>
     </div>
     <p>
-    <em>Leer hoe u een [!UICONTROL-beschrijvend analyserapport] genereert op basis van een workflow.</em>
+    <em>Leer hoe u een beschrijvend analyserapport kunt genereren op basis van een workflow.</em>
     <p>
   </td>
 
 </table>
 
-## Aanvullende resources
+## Aanvullende bronnen
 
-* [Documentatie](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [Documentatie](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=nl)
