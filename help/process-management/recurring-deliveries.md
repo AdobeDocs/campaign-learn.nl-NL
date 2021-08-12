@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 In deze tutorial wordt uitgelegd hoe u een terugkerende en continue levering instelt en wat de verschillen tussen de twee benaderingen zijn.
 
-## Terugkerende en ononderbroken leveringtracking {#recurring-and-continuous-delivery-tracking}
+## Terugkerende en doorlopende leveringtracking {#recurring-and-continuous-delivery-tracking}
 
 De terugkomende en ononderbroken leveringen verschillen in de manier waarop contactgegevens worden beheerd:
 
@@ -42,6 +42,6 @@ In de video wordt uitgelegd hoe u een terugkerende levering en een planneractivi
 
 ## Een doorlopende levering instellen {#how-to-set-up-a-continuous-delivery}
 
-Deze video laat zien hoe u een ononderbroken levering configureert met een stapsgewijze query.
+Deze video laat zien hoe u een doorlopende levering configureert met een stapsgewijze query.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
