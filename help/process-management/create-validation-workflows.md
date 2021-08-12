@@ -10,7 +10,7 @@ role: User
 level: Experienced
 exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ Voordat het marketingteam goedkeuringsstappen kan uitvoeren, moet het team afzon
 * De Adobe Campaign-reviewerrol binnen een goedkeuringsactiviteit kan één reviewer (operator) of een groep reviewers (operatorrol) zijn.
 * Om campagneontwikkelaars in staat te stellen om de reviewers als fiatteurs in een campagne of een levering te selecteren, moeten de reviewers en de reviewergroepen in Adobe Campaign door een beheerder worden geconfigureerd.
 
-## Goedkeuringen voor campagnes configureren   {#configuring-approvals-for-campaigns}
+## Goedkeuringen voor campagnes configureren  {#configuring-approvals-for-campaigns}
 
 Als u dezelfde set reviewers voor alle leveringen in uw campagneworkflow hebt, past u de goedkeuringsfunctionaliteit voor de campagne toe door goedkeuringen en reviewers op campagnereniveau in te stellen. De goedkeuringstaken en reviewers worden naar elke leveringsactiviteit van uw workflow verplaatst zodra de workflow wordt uitgevoerd.
 
@@ -41,7 +41,7 @@ U kunt goedkeuringen ook instellen op leveringsniveau. Als de stappen voor de go
 
 >[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
 
-## Een goedkeuringsactiviteit configfureren   {#configuring-an-approval-activity}
+## Een goedkeuringsactiviteit configureren  {#configuring-an-approval-activity}
 
 In tegenstelling tot de goedkeuring van leveringen of campagnes is het met de goedkeuringsactiviteit mogelijk om een goedkeuringsproces binnen een workflow te maken. Op deze manier kan de doelgerichte selectielogica worden goedgekeurd voordat de levering wordt gestart. Zo nodig is ook goedkeuring op veelvoudige niveaus binnen de workflow mogelijk.
 
