@@ -1,6 +1,6 @@
 ---
 title: Doelen verfijnen door queryresultaten te combineren
-description: Leer hoe te om uw doel te verfijnen door intersection of verenigingsactiviteiten te gebruiken om vraagresultaten in een werkschema te combineren.
+description: Leer hoe u uw doel kunt verfijnen door intersectie- of samenvoegingsactiviteiten te gebruiken om queryresultaten in een workflow te combineren.
 feature: Workflows, doelactiviteit, query-editor
 kt: 7844
 thumbnail: 334304.jpg
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
 # Doelen verfijnen door queryresultaten te combineren
 
-Leer hoe te om uw doel te verfijnen door intersection of verenigingsactiviteiten te gebruiken om vraagresultaten in een werkschema te combineren.
+Leer hoe u uw doel kunt verfijnen door intersectie- of samenvoegingsactiviteiten te gebruiken om queryresultaten in een workflow te combineren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
