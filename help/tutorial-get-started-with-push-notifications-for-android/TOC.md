@@ -1,11 +1,11 @@
 ---
-user-guide-title: Aan de slag met pushmeldingen voor Android in Campaign Classic
+user-guide-title: Aan de slag met pushmeldingen voor Android
 user-guide-description: Deze tutorial begeleidt u door de stappen voor het verzenden van pushmeldingen vanuit Adobe Campaign naar een Android-app.
 breadcrumb-title: Aan de slag met pushmeldingen voor Android
 breadcrumb-url: /docs/campaign-learn/get-started-with-push-notifications-for-android/introduction.html
-source-git-commit: 404d77c2fafa408c53a8b23794422cbbd38f76ee
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
