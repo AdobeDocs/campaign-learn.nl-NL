@@ -9,26 +9,22 @@ activity: setup
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 80d3fab30d8b440d82b3641cd86eca312e44de1a
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 35%
+source-wordcount: '222'
+ht-degree: 32%
 
 ---
 
 # Aan de slag met [!UICONTROL Configuratiescherm] {#control-panel}
-
->[!NOTE]
->
-> Het configuratiescherm is toegankelijk voor alle beheerders. De stappen om Admin toegang tot een gebruiker te verlenen zijn gedetailleerd in [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel).
->
-> Uw exemplaar moet op AWS worden gehost en worden bijgewerkt met de nieuwste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=nl)-build of de nieuwste [GA-build (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Leer hoe u uw versie kunt controleren in [dit gedeelte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Controleer of uw versie wordt gehost op AWS door de volgende stappen te volgen op [deze pagina](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
 Met het [!UICONTROL Configuratiescherm] kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de [!DNL SFTP]-opslag per instantie, het beheren van [!DNL GPG]-sleutels of [!UICONTROL subdomeinen] en [!UICONTROL certificaten].
 
 In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
 
 ## Toegang tot [!UICONTROL Configuratiescherm]
+
+Het configuratiescherm is toegankelijk voor alle beheerders. De stappen om Admin toegang tot een gebruiker te verlenen zijn gedetailleerd in [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel).
 
 Ga naar Experience Cloud Home voor toegang tot het Configuratiescherm: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
