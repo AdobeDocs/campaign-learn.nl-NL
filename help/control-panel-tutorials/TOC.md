@@ -7,10 +7,10 @@ index: true
 feature: 'Configuratiescherm '
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 46%
+source-wordcount: '89'
+ht-degree: 49%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 46%
 + [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/get-started.md)
 + SFTP-beheer {#sftp-management}
    + [Servercapaciteit bewaken](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [Voeg een IP waaier aan de lijst van gewenste personen toe](/help/control-panel-tutorials/sftp-management/add-ip-range-to-allowlist.md)
+   + [IP-bereiken van lijst van gewenste personen](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [Een SSH-sleutel genereren](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Verbinding maken met een SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Versie-instellingen {#instance-settings}
-   + [IP-adressen toevoegen aan lijsten van gewenste personen](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [IP-adressen van lijsten van gewenste personen](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [URL-machtigingen toevoegen](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + GPG-sleutelbeheer {#gpg-key-management}
       + [Overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
