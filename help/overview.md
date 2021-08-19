@@ -6,10 +6,10 @@ feature: Overzicht
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
+source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 77%
+source-wordcount: '364'
+ht-degree: 78%
 
 ---
 
@@ -25,8 +25,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 >Raadpleeg de [Classic v7 naar V8 productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=nl) voor meer informatie over de verschillen tussen de twee versies. Zie ook de sectie [Campaign Classic V7-tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) voor video&#39;s.
 
 ## Wat is nieuw?
-
-Overzicht over de [Belangrijke mogelijkheden](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=nl)van Adobe Campaign v8.
 
 * **[Configuratiescherm ](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
 
