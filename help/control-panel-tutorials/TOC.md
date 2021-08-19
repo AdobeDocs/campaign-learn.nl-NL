@@ -7,17 +7,17 @@ index: true
 feature: 'Configuratiescherm '
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 48%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 
 # Adobe Campaign-configuratiescherm - tutorials {#control-panel}
 
-+ [Overzicht van het configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
++ [Overzicht](/help/control-panel-tutorials/control-panel-overview.md)
 + [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/get-started.md)
 + SFTP-beheer {#sftp-management}
    + [Servercapaciteit bewaken](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -28,8 +28,8 @@ ht-degree: 48%
    + [IP-adressen toevoegen aan lijsten van gewenste personen](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [URL-machtigingen toevoegen](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + GPG-sleutelbeheer {#gpg-key-management}
-      + [GPG-sleutelbeheer - overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [GPG-sleutels voor gegevenscodering genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [Overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [GPG-toetsen genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [Een GPG-sleutel gebruiken om gegevens te coderen](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Gegevens decoderen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Prestatiecontrole {#performance-monitoring}
