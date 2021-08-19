@@ -1,32 +1,23 @@
 ---
 title: Overzicht van het Configuratiescherm
-description: Met het Adobe Campaign-configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of het beheren van subdomeinen en certificaten.
+description: Met Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 landing-page-description: Met het configuratiescherm kunnen Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag, GPG-sleutels of subdomeinen en certificaten.
 feature: 'Configuratiescherm '
-kt: 3262
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: e64bbfc8f0afd2e4a6b3bd98b261e0554ff51a78
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 84%
+source-wordcount: '212'
+ht-degree: 54%
 
 ---
 
 # Overzicht van het Configuratiescherm
 
-Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
-
-## Nieuwe functies
-
-* **[Databases controleren](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *Ontdek hoe u het databasegebruik van uw instanties kunt bewaken.*
+Met Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -46,11 +37,11 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
     <p>
   </td>
   <td>
-    <a href="./generate-and-install-gpg-keys-for-data-encryption.md">
+    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
       <img alt="Verbinding maken met een SFTP-server" src="./assets/36386.jpg" />
     </a>
     <div>
-      <a href="./generate-and-install-gpg-keys-for-data-encryption.md">
+      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
     <strong>GPG-sleutels voor gegevenscodering genereren en installeren</strong>
     </a>
     </div>
