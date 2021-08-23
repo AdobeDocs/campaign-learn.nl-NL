@@ -9,10 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 1febbcfc007f231ef797ef203830df9c0ef1a14e
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 57%
+ht-degree: 52%
 
 ---
 
@@ -25,7 +25,7 @@ Om toegang te krijgen tot SFTP-beheer in het Configuratiescherm gaat u naar:
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > kaart **Configuratiescherm** > kaart **SFTP**
 
    of
-* Rechtstreeks via de URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
+* Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## Verbinding maken met een SFTP-server
 
