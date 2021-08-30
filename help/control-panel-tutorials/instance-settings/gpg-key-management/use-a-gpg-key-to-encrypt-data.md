@@ -1,5 +1,5 @@
 ---
-title: 'Een GPG-sleutel gebruiken om gegevens te coderen '
+title: 'Een GPG-sleutel gebruiken om gegevens te versleutelen '
 description: Ontdek hoe u gegevens exporteert met een GPG-sleutel die is geïnstalleerd in het Configuratiescherm.
 feature: 'Configuratiescherm '
 kt: 8518
@@ -10,19 +10,19 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
-# Een GPG-sleutel gebruiken om gegevens te coderen
+# Een GPG-sleutel gebruiken om gegevens te versleutelen
 
 Ontdek hoe u gegevens exporteert met een GPG-sleutel die is geïnstalleerd in het Configuratiescherm.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [GPG-sleutelbeheer (video’s)](./gpg-key-management-overview.md)
-* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=nl)
