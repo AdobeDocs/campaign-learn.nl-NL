@@ -13,7 +13,7 @@ hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ AMP for Email is een nieuwe opensource-indeling waarmee ontwikkelaars dynamische
 
 Momenteel ondersteunen alleen Gmail, Outlook en Mail.ru de AMP-indeling.
 
-In de onderstaande video wordt uitgelegd hoe u AMP kunt activeren in Adobe Campaign en wordt u het gebruik ervan voorgesteld.
+In de onderstaande video wordt uitgelegd hoe u AMP in Adobe Campaign kunt activeren en krijgt u een voorbeeld van het gebruik.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
