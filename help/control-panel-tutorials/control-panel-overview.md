@@ -1,7 +1,7 @@
 ---
 title: Overzicht van het Configuratiescherm
-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het toevoegen van IP-adressen of het beheren van GPG-sleutels.
-landing-page-description: Met Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het toevoegen van IP-adressen of het beheren van GPG-sleutels.
+description: Met het configuratiescherm kunnen beheerders van Adobe Campaign belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per versie en lijsten van gewenste IP-adressen, of GPG-sleutels beheren.
+landing-page-description: Met het Adobe Campaign-configuratiescherm kunnen beheerders van Adobe Campaign belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van SFTP-opslag per versie en lijsten van gewenste IP-adressen, of GPG-sleutels beheren.
 feature: 'Configuratiescherm '
 doc-type: feature video
 activity: use
@@ -9,15 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
-# Overzicht van het Configuratiescherm
+# Overzicht van het configuratiescherm
 
-Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het toevoegen van IP-adressen of het beheren van GPG-sleutels.
+Met het configuratiescherm kunnen beheerders van Adobe Campaign belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per versie en lijsten van gewenste IP-adressen, of GPG-sleutels beheren.
 
 ## Aanbevolen door medewerkers van Adobe
 
@@ -29,11 +29,11 @@ Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elemente
     </a>
     <div>
       <a href="./get-started.md">
-    <strong>Aan de slag met Configuratiescherm</strong>
+    <strong>Aan de slag met configuratiescherm</strong>
     </a>
     </div>
     <p>
-    <em>Leer hoe u toegang krijgt tot het Configuratiescherm en welke voorwaarden u nodig hebt om met het Configuratiescherm te kunnen werken.  </em>
+    <em>Ontdek hoe u toegang krijgt tot het configuratiescherm en wat de vereisten zijn om met het configuratiescherm te kunnen werken. </em>
     <p>
   </td>
   <td>
@@ -42,11 +42,11 @@ Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elemente
     </a>
     <div>
       <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
-    <strong>GPG-sleutels voor gegevenscodering genereren en installeren</strong>
+    <strong>GPG-sleutels voor versleuteling van gegevens genereren en installeren</strong>
     </a>
     </div>
     <p>
-    <em>Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. </em>
+    <em>Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het configuratiescherm hebt opgeslagen. </em>
     <p>
   </td>
   <td>
@@ -65,6 +65,6 @@ Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elemente
 </tr>
 </table>
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Help Center voor het Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
