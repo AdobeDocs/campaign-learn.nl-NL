@@ -1,6 +1,6 @@
 ---
 title: Een SSH-sleutel genereren
-description: Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan.
+description: Ontdek hoe u een SSH-sleutel kunt genereren met behulp van een terminal en hoe u de openbare versie van de sleutel in het configuratiescherm kunt opslaan.
 feature: 'Configuratiescherm '
 kt: 8512
 thumbnail: 27259.jpg
@@ -10,15 +10,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 # Een SSH-sleutel genereren
 
-Genereer een SSH-toets en voeg vervolgens de openbare versie toe aan het Configuratiescherm.
+Genereer een SSH-sleutel en voeg vervolgens de openbare versie aan het configuratiescherm toe.
 
 ## Toegang tot SFTP-beheer in het Configuratiescherm
 
@@ -30,10 +30,10 @@ Om toegang te krijgen tot SFTP-beheer in het Configuratiescherm gaat u naar:
 
 * Rechtstreeks via de URL: [http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)
 
-## Hoe te om een sleutel van SSH te produceren
+## Een SSH-sleutel genereren
 
-Leer hoe te om een sleutel van SSH te produceren gebruikend een terminal en hoe te om de openbare versie van de sleutel in het Controlebord op te slaan.
+Ontdek hoe u een SSH-sleutel kunt genereren met behulp van een terminal en hoe u de openbare versie van de sleutel in het configuratiescherm kunt opslaan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 
-*Een SSH-toets maken (2:16 min)*
+*Een SSH-sleutel maken (2:16 min)*
