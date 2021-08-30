@@ -1,27 +1,27 @@
 ---
 title: GPG-sleutelbeheer - Overzicht
-description: 'Leer hoe te om openbare/privé zeer belangrijke paren op een gespecificeerde  [!DNL Campaign] instantie te produceren en te installeren. '
+description: 'Ontdek hoe u openbare/privé sleutelparen op een gespecificeerde [!DNL Campaign] versie kunt genereren en installeren. '
 feature: 'Configuratiescherm '
 team: TM
 role: Admin
 level: Experienced
 source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 # GPG-sleutelbeheer - Overzicht
 
-GPG (GnuPG) versleutelt berichten met behulp van asymmetrische individuele sleutelparen. Als u GPG-codering wilt implementeren met [!DNL Campaign], moeten GPG-sleutels rechtstreeks vanuit het Configuratiescherm worden geïnstalleerd en/of gegenereerd op een marketinginstantie.
+GPG (GnuPG) versleutelt berichten met behulp van asymmetrische individuele sleutelparen. Voor implementatie van GPG-versleuteling met [!DNL Campaign] moeten GPG-sleutels rechtstreeks vanuit het Configuratiescherm op een marketingversie worden geïnstalleerd en/of gegenereerd door een beheerder.
 
-Leer hoe te om een openbaar/privé zeer belangrijk paar op een gespecificeerde [!DNL Campaign] instantie te produceren en te installeren.
+Ontdek hoe u een openbaar/privé sleutelpaar op een gespecificeerde [!DNL Campaign] versie kunt genereren en installeren.
 
-1. [GPG-sleutels voor gegevenscodering genereren en installeren](./generate-and-install-gpg-keys.md)
-2. [Een GPG-sleutel gebruiken om gegevens te coderen](./use-a-gpg-key-to-encrypt-data.md)
-3. [Gegevens decoderen](./decrypt-data.md)
+1. [GPG-sleutels voor versleuteling van gegevens genereren en installeren](./generate-and-install-gpg-keys.md)
+2. [Een GPG-sleutel gebruiken om gegevens te versleutelen](./use-a-gpg-key-to-encrypt-data.md)
+3. [Gegevens ontsleutelen](./decrypt-data.md)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
-* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=nl)
