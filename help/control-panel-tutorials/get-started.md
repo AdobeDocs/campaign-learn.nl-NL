@@ -1,6 +1,6 @@
 ---
-title: Aan de slag met het Configuratiescherm
-description: Leer hoe u toegang krijgt tot het Configuratiescherm en welke voorwaarden u nodig hebt om met het Configuratiescherm te kunnen werken.
+title: Aan de slag met het configuratiescherm
+description: Ontdek hoe u toegang krijgt tot het configuratiescherm en wat de vereisten zijn om met het configuratiescherm te kunnen werken.
 feature: 'Configuratiescherm '
 kt: 8509
 thumbnail: kt-6385.jpg
@@ -10,28 +10,28 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 80d3fab30d8b440d82b3641cd86eca312e44de1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
-# Aan de slag met [!UICONTROL Configuratiescherm] {#control-panel}
+# Aan de slag met het [!UICONTROL Configuratiescherm] {#control-panel}
 
-Met het [!UICONTROL Configuratiescherm] kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de [!DNL SFTP]-opslag per instantie, het beheren van [!DNL GPG]-sleutels of [!UICONTROL subdomeinen] en [!UICONTROL certificaten].
+Met het [!UICONTROL Configuratiescherm] kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de [!DNL SFTP] opslag per versie, het beheren van [!DNL GPG] sleutels of het beheren van [!UICONTROL subdomeinen] en [!UICONTROL certificaten].
 
-In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
+In dit artikel wordt uitgelegd hoe u toegang krijgt tot het configuratiescherm en wat de vereisten zijn om met het configuratiescherm te kunnen werken.
 
-## Toegang tot [!UICONTROL Configuratiescherm]
+## Toegang tot het [!UICONTROL Configuratiescherm]
 
-Het configuratiescherm is toegankelijk voor alle beheerders. De stappen om Admin toegang tot een gebruiker te verlenen zijn gedetailleerd in [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel).
+Het configuratiescherm is toegankelijk voor alle beheerders. De stappen om beheerderstoegang aan een gebruiker te verlenen worden gedetailleerd beschreven in de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel).
 
-Ga naar Experience Cloud Home voor toegang tot het Configuratiescherm: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Ga naar Experience Cloud Home voor toegang tot het configuratiescherm: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
-* **[!UICONTROL Experience Cloud Home]**  >  **[!UICONTROL Snelle toegang]**
+* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Snelle toegang]**
 
    of
-* **[!UICONTROL Experience Cloud Home]**   >  [!UICONTROL Oplossingskiezer]:  **Campagne**  >  **[!UICONTROL Control ] Panelcard**
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Oplossingskiezer]: **Campaign** > **[!UICONTROL Configuratiescherm]-kaart**
 
    of
 
@@ -43,17 +43,17 @@ Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
 
 ### [!DNL IMS Org ID] bevestigen
 
-In de volgende video wordt beschreven waar u [!DNL IMS org ID] van uw instantie kunt opzoeken.
+In de volgende video wordt beschreven waar u de versies kunt zoeken[!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
 ### Beheerdersrechten
 
-Beheerdersrechten zijn vereist voor toegang tot het [!UICONTROL Configuratiescherm].
-De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt toevoegen
+Er zijn beheerdersrechten vereist voor de toegang tot het [!UICONTROL Configuratiescherm].
+In de volgende video ziet u hoe u een beheerder aan een Campaign-versie kunt toevoegen
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Help Center voor het Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
