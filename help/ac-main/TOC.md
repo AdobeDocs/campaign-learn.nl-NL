@@ -6,9 +6,9 @@ user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdend
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 96%
 # Adobe Campaign V8-tutorials {#tutorials}
 
 + [Overzicht](/help/overview.md)
-+ [Belangrijkste mogelijkheden van Campagne v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=nl)
++ [Belangrijkste mogelijkheden van Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=nl)
 + Aan de slag {#getting-started}
    + [Inleiding tot Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
    + [Adobe Campaign-clientconsole installeren en instellen](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
@@ -86,4 +86,4 @@ ht-degree: 96%
    + [Workflow heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring/audit-trail.md)
 + Beheer {#administration}
-   + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)
+   + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=nl)
