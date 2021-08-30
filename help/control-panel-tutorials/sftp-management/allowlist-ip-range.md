@@ -1,6 +1,6 @@
 ---
-title: IP-bereiken van lijst van gewenste personen
-description: Leer hoe u een IP adreswaaier aan een lijst van gewenste personen kunt toevoegen.
+title: IP-bereiken van een lijst met gewenste personen
+description: Ontdek hoe u een IP-adresbereik aan een lijst met gewenste personen kunt toevoegen.
 feature: 'Configuratiescherm '
 kt: 8511
 thumbnail: 41775.jpg
@@ -11,20 +11,20 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# IP-bereik van lijst van gewenste personen
+# IP-bereik van een lijst met gewenste personen
 
-Om met een server, of door een cliënttoepassing of API te verbinden, moet u opstelling een openbare sleutel van SSH en het IP adres toevoegen dat met uw server SFTP met de lijst van gewenste personen verbindt.
+Voor verbinding met een server via een cliënttoepassing of via een API moet u een openbare SSH-sleutel instellen en het IP-adres toevoegen dat verbinding maakt met uw SFTP-server en de lijst met gewenste personen.
 
-Leer hoe u een IP adreswaaier aan een lijst van gewenste personen kunt toevoegen.
+Ontdek hoe u een IP-adresbereik aan een lijst met gewenste personen kunt toevoegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
 ## Aanvullende bronnen
 
-* [IP-bereik staat aanbieding toe (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [Het IP-bereik van een lijst met gewenste personen (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=nl)
