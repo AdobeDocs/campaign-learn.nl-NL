@@ -1,7 +1,7 @@
 ---
-title: IP-adressen van lijsten van gewenste personen
-description: Leer hoe te om een IP waaier aan de lijsten van gewenste personen van de Instanties van de Campagne toe te voegen en hoe te om hen uit de lijst van gewenste personen te verwijderen gebruikend het controlepaneel.
-seo-description: In de onderstaande video wordt uitgelegd hoe u nieuwe verbindingen met uw instanties kunt maken door IP-adressen aan de lijst met toegestane adressen toe te voegen.
+title: IP-adressen van lijsten met gewenste personen
+description: Ontdek hoe u een IP-bereik aan de lijsten met gewenste personen in versies van Campaign kunt toevoegen en hoe u deze uit de lijsten met gewenste personen kunt verwijderen met behulp van het configuratiescherm.
+seo-description: In de onderstaande video wordt uitgelegd hoe u nieuwe verbindingen met uw versies kunt maken door de IP-adresbereiken van de lijsten met gewenste personen toe te staan.
 feature: 'Configuratiescherm '
 kt: 8515
 thumbnail: 28726.jpg
@@ -11,15 +11,15 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '208'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
-# IP-adressen van lijsten van gewenste personen
+# IP-adressen van lijsten met gewenste personen
 
-In het Configuratiescherm kunt u nieuwe verbindingen met uw instanties maken door IP-adressen aan de lijst met toegestane adressen toe te voegen. Een Adobe Campaign-instantie is standaard niet toegankelijk via verschillende IP-adressen. Daarom moet een IP adres aan de lijst van gewenste personen worden toegevoegd:
+In het configuratiescherm kunt u nieuwe verbindingen met uw versies maken door de IP-adresbereiken van de lijsten van gewenste personen toe te staan. Standaard is een Adobe Campaign-versie niet toegankelijk via verschillende IP-adressen. Daarom moet een IP-adres aan de lijst met gewenste personen worden toegevoegd:
 
 * Om toegang te verlenen tot de [!DNL Campaign]-instantie vanaf dit IP-adres
 * Om een API te verbinden met uw Berichtencentrum of marketinginstantie
@@ -28,13 +28,14 @@ In het Configuratiescherm kunt u nieuwe verbindingen met uw instanties maken doo
 
 Om toegang te krijgen tot subdomeinbeheer in het Configuratiescherm gaat u naar:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home)  > Oplossingskiezer:  **[!DNL Campaign]** >  **[!UICONTROL Control]** Panelcard >  **Instanties** Settings of
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > **[!UICONTROL Configuratiescherm]**-kaart > **Versie-instellingen**-kaart
+of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Voeg een IP waaier aan de lijst van gewenste personen van uw instantie toe
+## Een IP-bereik aan de lijst met gewenste personen van uw versie toevoegen
 
-Leer hoe te om een IP waaier aan de lijsten van gewenste personen van de Instanties van de Campagne toe te voegen en hoe te om hen uit de lijst van gewenste personen te verwijderen gebruikend het controlepaneel.
+Ontdek hoe u een IP-bereik aan de lijsten met gewenste personen in versies van Campaign kunt toevoegen en hoe u deze uit de lijsten met gewenste personen kunt verwijderen met behulp van het configuratiescherm.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Raadpleeg de [gedetailleerde productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html) voor meer informatie over het toevoegen van IP-adressen aan de lijst met toegestane IP-adressen.
+Raadpleeg de [gedetailleerde productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=nl) voor meer informatie over het toevoegen van IP-adressen aan de lijst met gewenste IP-adressen.
