@@ -1,6 +1,6 @@
 ---
-title: Databases bewaken
-description: Ontdek hoe u het databasegebruik van uw instanties kunt controleren.
+title: Databases controleren
+description: Ontdek hoe u het databasegebruik van uw versies kunt controleren.
 feature: 'Configuratiescherm '
 kt: 8519
 thumbnail: 327175.jpg
@@ -11,17 +11,17 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# Databases bewaken
+# Databases controleren
 
-De assets, workflows en gegevens van al uw Campaign-instanties worden opgeslagen in de database. De database die de maximale capaciteit bereikt, kan leiden tot problemen met uw exemplaar (niet-aanmelden, e-mails verzenden, enz.). Het is daarom van essentieel belang om regelmatig de databases van uw instanties te controleren om optimale prestaties te garanderen.
+De assets, workflows en gegevens van al uw Campaign-versies worden opgeslagen in de database. Als de database de maximale capaciteit bereikt, kan dit leiden tot problemen met uw versie (niet kunnen aanmelden, geen e-mails kunnen verzenden, enz.). Het is daarom van essentieel belang om regelmatig de databases van uw versie te controleren om optimale prestaties te garanderen.
 
-Ontdek hoe u het databasegebruik van uw instanties kunt controleren.
+Ontdek hoe u het databasegebruik van uw versie kunt controleren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
