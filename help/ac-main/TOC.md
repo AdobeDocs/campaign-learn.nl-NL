@@ -1,14 +1,14 @@
 ---
 product: adobe campaign
-sub-product: Campagne V8
+sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: bd4a1a00c23e70d7e59946255a93511ee7a65e79
+workflow-type: tm+mt
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -76,6 +76,7 @@ ht-degree: 100%
 + Data management {#data-management}
    + [Profielen importeren](/help/data-management/import-profiles.md)
    + [Datareplicatie](/help/data-management/data-replication.md)
+   + [Zelfstudie: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=en)
 + Verbinden met andere oplossingen {#connect}
    + [Beheer van big data in Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integreren met Dynamics 365](/help/connect/dynamics365-integration.md)
