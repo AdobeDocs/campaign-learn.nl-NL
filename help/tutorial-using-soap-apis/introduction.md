@@ -1,21 +1,23 @@
 ---
 title: SOAP-API's gebruiken in workflows - Inleiding
-description: Leer hoe u Adobe Campaign Soap API's kunt gebruiken en een geavanceerde leveringsworkflow kunt maken.
+description: Leer hoe u Adobe Campaign Soap API's kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen.
 feature: API
 kt: 7772
 thumbnail: 336639.jpg
 role: Admin, Developer
 level: Experienced
-source-git-commit: 8de1ac833bd1c5d3298f45cacca1f0ead4c77fb3
+exl-id: ad2e46b7-d5d1-4530-b126-62b8446d7e31
+source-git-commit: 708f78633c52f1ae65d424dfcb956abd2ceb48f4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-
 # SOAP-API&#39;s gebruiken in workflows - Inleiding
 
-Leer hoe u Adobe Campaign Soap API&#39;s kunt gebruiken en een geavanceerde leveringsworkflow kunt maken.
+Leer hoe u Adobe Campaign Soap API&#39;s kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12)
+
+Volgende video om te controleren: [Stap 1: Aan de slag met SOAP-API&#39;s](/help/tutorial-using-soap-apis/get-started-with-soap-apis.md)

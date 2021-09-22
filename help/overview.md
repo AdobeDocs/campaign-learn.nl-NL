@@ -1,15 +1,15 @@
 ---
 title: 'Adobe Campaign V8-tutorials: overzicht'
 description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
-sub-product: Campagne V8
-feature: Overzicht
+sub-product: Campaign V8
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '364'
-ht-degree: 100%
+source-git-commit: 3469a37e5142174d9dd69272397a7854bc1674fa
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,9 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
+* **[Zelfstudie: SOAP-API&#39;s gebruiken in workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+
+   *Leer hoe u Adobe Campaign Soap API&#39;s kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen.*
 * **[Configuratiescherm ](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=nl)**
 
    *Leer hoe u belangrijke assets kunt controleren en beheertaken kunt uitvoeren, zoals het beheren van de SFTP-opslag per versie, het weergeven van IP-adressen toestaan of het beheren van GPG-sleutels.*

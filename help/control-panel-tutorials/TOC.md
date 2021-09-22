@@ -1,15 +1,14 @@
 ---
 user-guide-title: Tutorials over het Adobe Campaign-configuratiescherm
 user-guide-description: Leer hoe u in het configuratiescherm de belangrijkste assets van uw Adobe Campaign-instanties kunt controleren en beheertaken kunt uitvoeren.
-breadcrumb-title: Tutorials voor het Configuratiescherm
-breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
+breadcrumb-title: Tutorials voor het configuratiescherm
 index: true
-feature: 'Configuratiescherm '
+feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '89'
+source-git-commit: a3339f32f8ea60dbde9405271b288aafa99e984c
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
