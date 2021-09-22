@@ -7,9 +7,9 @@ thumbnail: 336538.jpg
 role: Admin, Developer
 level: Experienced
 exl-id: 6bd2f88a-9da4-43ea-8b18-b51a4024ea2a
-source-git-commit: 708f78633c52f1ae65d424dfcb956abd2ceb48f4
+source-git-commit: 87844e888b88cd64b328b11bcfa481fdadf5ece4
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Leer hoe u een nieuwsbrief maakt en een ontvanger abonneert met SOAP API-aanroep
 
 >[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12)
 
-Doorgaan naar: [Stap4 - creeer een inhoudssamenvatting met een werkschema](/help/process-management/create-a-content-digest/create-a-content-digest-overview.md)
+Doorgaan naar: [Stap 4 - Een inhoudsoverzicht maken met een workflow](/help/tutorial-using-soap-apis/create-a-content-digest-overview.md)
