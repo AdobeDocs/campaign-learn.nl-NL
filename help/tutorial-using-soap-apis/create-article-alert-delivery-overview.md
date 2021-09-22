@@ -1,5 +1,5 @@
 ---
-title: Een e-mailbericht voor nieuwe artikelen maken voor abonnees - Overzicht
+title: Een artikel met een waarschuwingsbericht maken - Overzicht
 description: Leer hoe u een workflow maakt die ontvangers via e-mail op de hoogte brengt van nieuwe artikelen waarop ze zich hebben geabonneerd.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Een e-mailbericht voor nieuwe artikelen maken voor abonnees - Overzicht
+# Een artikel met een waarschuwingsbericht maken - Overzicht
 
 Leer hoe u een workflow maakt die ontvangers via e-mail op de hoogte brengt van nieuwe artikelen waarop ze zich hebben geabonneerd.
 
