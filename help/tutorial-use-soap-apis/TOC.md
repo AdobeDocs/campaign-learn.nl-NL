@@ -3,7 +3,7 @@ user-guide-title: Campagne SOAP API's gebruiken
 user-guide-description: Leer hoe u Adobe Campaign Soap API's kunt gebruiken en een geavanceerde leveringsworkflow kunt maken.
 breadcrumb-title: Campagne SOAP API's gebruiken
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 + Stap 4 - creeer een artikel waakzame levering{#article-alert-email}
    + [Een artikel met een waarschuwingsbericht maken](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
    + [Deel 1 - Query-artikelen en abonnementswaarden voor ontvangers](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [Deel 2 - Kolommen samenvoegen en e-maillevering verzenden](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+   + [Deel 2 - Een levering verzenden naar geabonneerde ontvangers](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
