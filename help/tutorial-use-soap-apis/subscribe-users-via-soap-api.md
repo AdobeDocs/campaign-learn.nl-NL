@@ -1,6 +1,6 @@
 ---
-title: Gebruikers abonneren via SOAP API
-description: Leer hoe u een nieuwsbrief maakt en een abonnement neemt voor SOAP API-aanroepen van ontvangers.
+title: Gebruikers lid maken via SOAP-API
+description: Leer hoe u een nieuwsbrief maakt en een ontvanger lid maakt met SOAP API-oproepen.
 feature: API
 kt: 8165
 thumbnail: 336538.jpg
@@ -8,15 +8,15 @@ role: Admin, Developer
 level: Experienced
 exl-id: 6bd2f88a-9da4-43ea-8b18-b51a4024ea2a
 source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Gebruikers abonneren via SOAP API
+# Gebruikers lid maken via SOAP-API
 
-Leer hoe u een nieuwsbrief maakt en een abonnement neemt voor SOAP API-aanroepen van ontvangers.
+Leer hoe u een nieuwsbrief maakt en een ontvanger lid maakt met SOAP API-oproepen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12)
 
