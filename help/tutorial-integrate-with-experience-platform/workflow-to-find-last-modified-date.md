@@ -1,6 +1,6 @@
 ---
-title: Een exportworkflow maken (deel 1) - De laatste gewijzigde datum zoeken voor een lijst met ontvangers
-description: In dit eerste deel van Create leert een zelfstudie van het Werkschema van de Uitvoer, hoe te om een werkschema tot stand te brengen dat de laatste gewijzigde datum voor een lijst van ontvangers vindt die van een segment van de Experience Platform worden gecreeerd.
+title: Een exportworkflow maken (deel 1) - De laatste wijzigingsdatum zoeken voor een lijst met ontvangers
+description: Leer in dit eerste deel van de tutorial Een exportworkflow maken hoe u een workflow kunt maken die de laatste wijzigingsdatum voor een lijst met ontvangers van een segment van Experience Platform zoekt.
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,19 +11,19 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Een exportworkflow maken (deel 1) - De laatste gewijzigde datum zoeken voor een lijst met ontvangers
+# Een exportworkflow maken (deel 1) - De laatste wijzigingsdatum zoeken voor een lijst met ontvangers
 
-In dit eerste deel van Create leert een zelfstudie van het Werkschema van de Uitvoer, hoe te om een werkschema tot stand te brengen dat de laatste gewijzigde datum voor een lijst van ontvangers vindt die van een segment van de Experience Platform worden gecreeerd.
+Leer in dit eerste deel van de tutorial Een exportworkflow maken hoe u een workflow kunt maken die de laatste wijzigingsdatum voor een lijst met ontvangers van een segment van Experience Platform zoekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
-## Activa
+## Assets
 
 JavaScript voor het instellen van datumbereiken:
 
@@ -64,4 +64,4 @@ JavaScript voor het instellen van datumbereiken:
 
 ## Volgende video
 
-[Een exportworkflow maken (deel 2) - Gegevens extraheren, opmaken en opslaan naar een externe account](extract-format-save-data-to-external-account.md)
+[Een exportworkflow maken (deel 2) - Gegevens extraheren, opmaken en opslaan naar een extern account](extract-format-save-data-to-external-account.md)
