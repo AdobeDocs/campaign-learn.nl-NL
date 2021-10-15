@@ -1,6 +1,6 @@
 ---
-title: Een schema en gegevensset voor campagnemarlogs maken in Adobe Experience Platform
-description: Leer hoe te om een schema en dataset in Adobe Experience Platform tot stand te brengen die kan worden gebruikt om campagneloggegevens in Platform in te voeren.
+title: Een campagnelogboekschema en campagnegegevensset in Adobe Experience Platform maken
+description: Leer hoe u een schema en dataset in Adobe Experience Platform kunt maken die kunnen worden gebruikt om campagnelogboekgegevens in Platform in te voeren.
 feature: Data Import/Export, Data Management
 kt: 8161
 thumbnail: 336903.jpg
@@ -11,14 +11,14 @@ role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Een schema en gegevensset voor campagnemarlogs maken in Adobe Experience Platform
+# Een campagnelogboekschema en campagnegegevensset in Adobe Experience Platform maken
 
-Leer hoe te om een schema en dataset in Adobe Experience Platform tot stand te brengen die kan worden gebruikt om campagneloggegevens in Platform in te voeren.
+Leer hoe u een schema en dataset in Adobe Experience Platform kunt maken die kunnen worden gebruikt om campagnelogboekgegevens in Platform in te voeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12)
