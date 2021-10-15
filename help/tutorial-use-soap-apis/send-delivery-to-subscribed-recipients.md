@@ -1,6 +1,6 @@
 ---
-title: Een levering verzenden naar geabonneerde ontvangers
-description: Leer hoe u gegevens samenvoegt tot twee segmenten, een e-mail met een artikelwaarschuwing maakt en deze personaliseert op basis van gegevens die zijn ontvangen van een externe API.
+title: Een levering naar ontvangers met lidmaatschap verzenden
+description: Leer hoe u gegevens tot twee segmenten samenvoegt, een e-mail met een artikelwaarschuwing maakt en deze op maat maakt op basis van gegevens die zijn ontvangen van een externe API.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
@@ -9,16 +9,16 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 3280371c-b088-4da9-bc2c-f7a401719db8
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Een levering naar ontvangers met lidmaatschap verzenden
 
-# Een levering verzenden naar geabonneerde ontvangers
-
-Leer hoe u gegevens samenvoegt tot twee segmenten, een e-mail met een artikelwaarschuwing maakt en deze personaliseert op basis van gegevens die zijn ontvangen van een externe API. De workflow die in de vorige stap is gemaakt, wordt verder opgebouwd: [Query-artikelen en abonnementswaarden voor ontvangers](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)-video.
+Leer hoe u gegevens tot twee segmenten samenvoegt, een e-mail met een artikelwaarschuwing maakt en deze op maat maakt op basis van gegevens die zijn ontvangen van een externe API. De workflow die in de vorige stap is gemaakt, wordt verder opgebouwd: video van [Query-artikelen en lidmaatschapswaarden voor ontvangers](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)
