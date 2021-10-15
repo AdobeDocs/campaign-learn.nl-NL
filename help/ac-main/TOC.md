@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '338'
+ht-degree: 100%
 
 ---
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 + Data management {#data-management}
    + [Profielen importeren](/help/data-management/import-profiles.md)
    + [Datareplicatie](/help/data-management/data-replication.md)
-   + [Zelfstudie: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
+   + [Tutorial: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=nl)
 + Verbinden met andere oplossingen {#connect}
    + [Beheer van big data in Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integreren met Dynamics 365](/help/connect/dynamics365-integration.md)
-   + [Integreren met Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integreren met Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=nl)
 + Rapportage {#reporting}
    + [Ingebouwde rapporten openen](/help/reporting/access-built-in-reports.md)
    + [Een beschrijvend analyserapport genereren](/help/reporting/generate-a-descriptive-analysis-report.md)
