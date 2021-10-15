@@ -1,6 +1,6 @@
 ---
-title: Een exportworkflow maken (deel 2) - Gegevens extraheren, opmaken en opslaan naar een externe account
-description: In dit tweede deel van de zelfstudie Een exportworkflow maken leert u hoe u de gegevens kunt opmaken voor export en hoe u de gegevens kunt opslaan in een externe account.
+title: Een exportworkflow maken (deel 2) - Gegevens extraheren, opmaken en opslaan naar een extern account
+description: Leer in dit tweede deel van de tutorial Een exportworkflow maken hoe u de exportgegevens kunt opmaken en hoe u de gegevens naar een extern account kunt opslaan.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -11,21 +11,21 @@ role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Een exportworkflow maken (deel 2): Gegevens extraheren, opmaken en opslaan naar een externe account
+# Een exportworkflow maken (deel 2): Gegevens extraheren, opmaken en opslaan naar een extern account
 
-In dit tweede deel van de zelfstudie Een exportworkflow maken leert u hoe u de gegevens kunt opmaken voor export en hoe u de gegevens kunt opslaan in een externe account.
+Leer in dit tweede deel van de tutorial Een exportworkflow maken hoe u de exportgegevens kunt opmaken en hoe u de gegevens naar een extern account kunt opslaan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
 
-## Activa
+## Assets
 
-JavaScript: Datum opslaan
+JavaScript: datum opslaan
 
 ```java
  logInfo("=====================")
