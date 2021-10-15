@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '424'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
-* **[Integreren met Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)**
+* **[Integreren met Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=nl)**
 
-   *Leer hoe u campagne- en Experience Cloud-gegevens importeert en exporteert, zodat de communicatie tussen de twee oplossingen mogelijk is.*
+   *Leer hoe u Campaign- en Experience Cloud-gegevens importeert en exporteert, zodat de communicatie tussen de twee oplossingen mogelijk is.*
 
-* **[Zelfstudie: SOAP-API&#39;s gebruiken in workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+* **[Tutorial: SOAP-API&#39;s in workflows gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=nl)**
 
-   *Leer hoe u Adobe Campaign Soap API&#39;s kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen.*
+   *Leer hoe u Soap-API&#39;s van Adobe Campaign kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen.*
 
 * **[Configuratiescherm ](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=nl)**
 
