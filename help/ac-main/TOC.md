@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: ht
-source-wordcount: '338'
-ht-degree: 100%
+source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 100%
    + [De activiteit van de updatelijst gebruiken](/help/process-management/use-the-update-list-activity.md)
    + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
 + Data management {#data-management}
+   + [Een schema maken en uitbreiden](/help/data-management/create-and-extend-a-schema.md)
    + [Profielen importeren](/help/data-management/import-profiles.md)
    + [Datareplicatie](/help/data-management/data-replication.md)
    + [Tutorial: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=nl)

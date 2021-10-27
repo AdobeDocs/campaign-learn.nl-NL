@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
-workflow-type: ht
-source-wordcount: '424'
-ht-degree: 100%
+source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+workflow-type: tm+mt
+source-wordcount: '407'
+ht-degree: 95%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
+* **[Een schema maken en uitbreiden](/help/data-management/create-and-extend-a-schema.md)**
+
+   *Leer hoe u een nieuw schema maakt en een bestaand schema uitbreidt.*
+
 * **[Integreren met Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=nl)**
 
    *Leer hoe u Campaign- en Experience Cloud-gegevens importeert en exporteert, zodat de communicatie tussen de twee oplossingen mogelijk is.*
@@ -34,9 +38,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
    *Leer hoe u Soap-API&#39;s van Adobe Campaign kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen.*
 
-* **[Configuratiescherm ](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=nl)**
-
-   *Leer hoe u belangrijke assets kunt controleren en beheertaken kunt uitvoeren, zoals het beheren van de SFTP-opslag per versie, het weergeven van IP-adressen toestaan of het beheren van GPG-sleutels.*
 
 ## Aanbevolen door medewerkers van Adobe
 
