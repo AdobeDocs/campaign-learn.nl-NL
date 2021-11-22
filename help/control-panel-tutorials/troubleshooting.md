@@ -1,16 +1,17 @@
 ---
 title: Problemen met het configuratiescherm oplossen
 description: Ontdek hoe u problemen met het configuratiescherm kunt oplossen
-feature: 'Configuratiescherm '
+feature: Control Panel
 kt: 8520
 doc-type: article
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
-workflow-type: ht
-source-wordcount: '340'
+exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '338'
 ht-degree: 100%
 
 ---
@@ -55,7 +56,7 @@ De beheerder moet de gebruiker toevoegen aan het productprofiel _Campaign-xxx-Ad
 ### Nuttige documentatie
 
 * [Het Configuratiescherm verkennen](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
-* [Machtigingen om het [!UICONTROL Configuratiescherm] te beheren](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
+* [Machtigingen om het [!UICONTROL Configuratiescherm] te beheren](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Verbinding met SFTP-server tot stand brengen (client of API)
 
@@ -67,4 +68,4 @@ Voor verbinding met SFTP-servers is het volgende vereist:
 
 ### Nuttige documentatie {#helpful-docs}
 
-* [Aanmelden bij uw SFTP-server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=nl)
+* [Aanmelden bij uw SFTP-server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

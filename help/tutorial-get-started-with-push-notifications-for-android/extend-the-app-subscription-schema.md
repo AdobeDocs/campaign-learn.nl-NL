@@ -1,7 +1,7 @@
 ---
 title: Het schema voor app-lidmaatschappen voor het personaliseren van pushmeldingen uitbreiden
 description: Leer hoe u het schema voor app-lidmaatschappen kunt uitbreiden om personalisatiewaarden op te slaan die Campaign ontvangt van een mobiele app.
-feature: Push, schema-uitbreiding
+feature: Push, Schema Extension
 kt: 7967
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '77'
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---

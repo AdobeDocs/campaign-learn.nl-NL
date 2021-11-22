@@ -1,7 +1,7 @@
 ---
 title: Problemen met de verzending van e-mail oplossen
 description: Leer hoe u problemen met de levering van e-mail kunt oplossen in Campaign.
-feature: E-mail, leverbaarheid
+feature: Email, Deliverability
 kt: 7785
 thumbnail: 334907.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: c98793f7-09cc-4afe-a089-4d31b9ea611f
 source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
-workflow-type: ht
-source-wordcount: '40'
+workflow-type: tm+mt
+source-wordcount: '38'
 ht-degree: 100%
 
 ---

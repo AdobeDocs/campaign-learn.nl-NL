@@ -3,7 +3,7 @@ user-guide-title: SOAP-API's gebruiken
 user-guide-description: Leer hoe u de Soap-API's van Adobe Campaign kunt gebruiken en een geavanceerde leveringsworkflow kunt maken.
 breadcrumb-title: SOAP-API's gebruiken
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 
