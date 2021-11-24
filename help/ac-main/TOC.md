@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
+source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '374'
+ht-degree: 91%
 
 ---
 
@@ -65,17 +65,22 @@ ht-degree: 0%
 + Procesbeheer en -automatisering{#process-management}
    + [Workflow maken](/help/process-management/create-a-workflow.md)
    + [Herhalende en doorlopende leveringen maken](/help/process-management/recurring-deliveries.md)
-   + [Doelworkflows maken](/help/process-management/create-a-targeting-workflow.md)
-   + [Doelen verfijnen door queryresultaten te combineren](/help/process-management/refine-targets-by-combining-query-results.md)
-   + [Doelen verfijnen door queryresultaten uit te sluiten](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [Goedkeuringen beheren](/help/process-management/manage-approvals.md)
-   + [De activiteit van de updatelijst gebruiken](/help/process-management/use-the-update-list-activity.md)
+   + Workflows voorbereiden {#targeting workflows}
+      + [Doelworkflows maken](/help/process-management/create-a-targeting-workflow.md)
+      + [Doelen verfijnen door queryresultaten te combineren](/help/process-management/refine-targets-by-combining-query-results.md)
+      + [Doelen verfijnen door queryresultaten uit te sluiten](/help/process-management/refine-targets-by-excluding-query-results.md)
+   + Workflows voor goedkeuring en validatie {#create-approvals-and-validation-workflows}
+   + [Hoe te om de activiteit van de updatelijst te gebruiken](/help/process-management/use-the-update-list-activity.md)
    + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
-   + Workflows voor goedkeuringsvalidatie maken {#create-validation-workflows}
+      + [Inleiding](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
+      + [Goedkeuringen beheren](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Goedkeuringen voor campagnes configureren](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
       + [Goedkeuringen voor leveringen configureren](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
       + [Een goedkeuringsproces maken in een workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + Data management {#data-management}
+   + [Goedkeuringen beheren](/help/process-management/manage-approvals.md)
+   + [De activiteit van de updatelijst gebruiken](/help/process-management/use-the-update-list-activity.md)
+   + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
    + [Een schema maken en uitbreiden](/help/data-management/create-and-extend-a-schema.md)
    + [Profielen importeren](/help/data-management/import-profiles.md)
    + [Datareplicatie](/help/data-management/data-replication.md)
