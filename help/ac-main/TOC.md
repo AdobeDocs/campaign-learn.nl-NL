@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
+source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 91%
+source-wordcount: '364'
+ht-degree: 92%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 91%
    + [Landingspagina’s configureren](/help/content-creation/configure-landingpages.md)
 + Berichten verzenden{#sending-messages}
    + E-mail {#email}
-      + [Proefdrukken voor e-maillevering verzenden en valideren ](/help/send-messages/email/send-and-validate-proofs.md)
+      + [Proefdrukken voor e-maillevering verzenden en valideren](/help/send-messages/email/send-and-validate-proofs.md)
       + [Controlegroepen gebruiken](/help/send-messages/email/use-control-groups.md)
       + [Problemen met de levering van e-mail oplossen](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [E-mails ontwerpen voor leverbaarheid](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -70,8 +70,6 @@ ht-degree: 91%
       + [Doelen verfijnen door queryresultaten te combineren](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Doelen verfijnen door queryresultaten uit te sluiten](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Workflows voor goedkeuring en validatie {#create-approvals-and-validation-workflows}
-   + [Hoe te om de activiteit van de updatelijst te gebruiken](/help/process-management/use-the-update-list-activity.md)
-   + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
       + [Inleiding](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Goedkeuringen beheren](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Goedkeuringen voor campagnes configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
