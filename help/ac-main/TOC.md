@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
+source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 91%
@@ -65,7 +65,7 @@ ht-degree: 91%
 + Procesbeheer en -automatisering{#process-management}
    + [Workflow maken](/help/process-management/create-a-workflow.md)
    + [Herhalende en doorlopende leveringen maken](/help/process-management/recurring-deliveries.md)
-   + Workflows voorbereiden {#targeting workflows}
+   + Workflows voorbereiden {#targeting-workflows}
       + [Doelworkflows maken](/help/process-management/create-a-targeting-workflow.md)
       + [Doelen verfijnen door queryresultaten te combineren](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Doelen verfijnen door queryresultaten uit te sluiten](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -74,9 +74,9 @@ ht-degree: 91%
    + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
       + [Inleiding](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Goedkeuringen beheren](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Goedkeuringen voor campagnes configureren](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Goedkeuringen voor leveringen configureren](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
-      + [Een goedkeuringsproces maken in een workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Goedkeuringen voor campagnes configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Goedkeuringen voor leveringen configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Een goedkeuringsactiviteit maken in een werkstroom](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Data management {#data-management}
    + [Goedkeuringen beheren](/help/process-management/manage-approvals.md)
    + [De activiteit van de updatelijst gebruiken](/help/process-management/use-the-update-list-activity.md)
