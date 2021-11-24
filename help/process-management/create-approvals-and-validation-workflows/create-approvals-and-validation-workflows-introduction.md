@@ -8,10 +8,10 @@ team: TM
 role: User
 level: Experienced
 exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
+source-git-commit: d4959c9a0559aca0ccaa02816690ed586aa5e201
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 64%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,8 +28,8 @@ Voordat het marketingteam goedkeuringsstappen kan uitvoeren, moet het team afzon
 
 ## Goedkeuringen configureren {#configuring-approvals}
 
-1. [Goedkeuringen voor campagnes configureren](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md): Als u dezelfde set controleurs voor alle leveringen in uw campagneworkflow hebt, past u de goedkeuringsfunctionaliteit voor de campagne toe door goedkeuringen en controleurs op campagnereniveau in te stellen. De goedkeuringstaken en reviewers worden naar elke leveringsactiviteit van uw workflow verplaatst zodra de workflow wordt uitgevoerd.
-2. [Goedkeuringen voor leveringen configureren](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md): U kunt goedkeuringen ook instellen op leveringsniveau. Als de stappen voor de goedkeuring van de levering en de reviewers afwijken van de stappen voor de goedkeuring van de campagne, hebben de leveringsinstellingen voorrang op de campagne-instellingen.
-3. [Een goedkeuringsproces maken in een workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md): Met de goedkeuringsactiviteit kan een goedkeuringsproces worden gemaakt binnen een workflow. Op deze manier kan de doelgerichte selectielogica worden goedgekeurd voordat de levering wordt gestart. Zo nodig is ook goedkeuring op veelvoudige niveaus binnen de workflow mogelijk.
+1. [Goedkeuringen voor campagnes configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md): Als u dezelfde set controleurs voor alle leveringen in uw campagneworkflow hebt, past u de goedkeuringsfunctionaliteit voor de campagne toe door goedkeuringen en controleurs op campagnereniveau in te stellen. De goedkeuringstaken en reviewers worden naar elke leveringsactiviteit van uw workflow verplaatst zodra de workflow wordt uitgevoerd.
+2. [Goedkeuringen voor leveringen configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md): U kunt goedkeuringen ook instellen op leveringsniveau. Als de stappen voor de goedkeuring van de levering en de reviewers afwijken van de stappen voor de goedkeuring van de campagne, hebben de leveringsinstellingen voorrang op de campagne-instellingen.
+3. [Een goedkeuringsproces maken in een workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md): Met de goedkeuringsactiviteit kan een goedkeuringsproces worden gemaakt binnen een workflow. Op deze manier kan de doelgerichte selectielogica worden goedgekeurd voordat de levering wordt gestart. Zo nodig is ook goedkeuring op veelvoudige niveaus binnen de workflow mogelijk.
 
 Raadpleeg voor meer informatie de [documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=nl).
