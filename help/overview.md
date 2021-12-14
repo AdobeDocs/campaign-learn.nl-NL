@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '388'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
+* **[mechanisme voor API-staging met FFDA](/help/data-management/api-staging-mechanism.md)**
+
+   *Leer hoe het mechanisme voor API-staging werkt met volledige FDA.*
+
 * **[Een schema maken en uitbreiden](/help/data-management/create-and-extend-a-schema.md)**
 
    *Leer hoe u een nieuw schema maakt en een bestaand schema uitbreidt.*
@@ -33,10 +37,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 * **[Integreren met Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=nl)**
 
    *Leer hoe u Campaign- en Experience Cloud-gegevens importeert en exporteert, zodat de communicatie tussen de twee oplossingen mogelijk is.*
-
-* **[Tutorial: SOAP-API&#39;s in workflows gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=nl)**
-
-   *Leer hoe u Soap-API&#39;s van Adobe Campaign kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen.*
 
 
 ## Aanbevolen door medewerkers van Adobe
