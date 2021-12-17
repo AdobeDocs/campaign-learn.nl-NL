@@ -7,7 +7,7 @@ breadcrumb-title: Tutorials
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 92%
+ht-degree: 99%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 92%
 + Procesbeheer en -automatisering{#process-management}
    + [Workflow maken](/help/process-management/create-a-workflow.md)
    + [Herhalende en doorlopende leveringen maken](/help/process-management/recurring-deliveries.md)
-   + Workflows voorbereiden {#targeting-workflows}
+   + Targetingworkflows {#targeting-workflows}
       + [Doelworkflows maken](/help/process-management/create-a-targeting-workflow.md)
       + [Doelen verfijnen door queryresultaten te combineren](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Doelen verfijnen door queryresultaten uit te sluiten](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -73,8 +73,8 @@ ht-degree: 92%
       + [Inleiding](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Goedkeuringen beheren](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Goedkeuringen voor campagnes configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Goedkeuringen voor leveringen configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
-      + [Een goedkeuringsactiviteit maken in een werkstroom](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Goedkeuringen voor leveringen configureren ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Een goedkeuringsactiviteit maken in een workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Data management {#data-management}
    + [De activiteit van de updatelijst gebruiken](/help/process-management/use-the-update-list-activity.md)
    + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
