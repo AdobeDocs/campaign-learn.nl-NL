@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 93%
+source-wordcount: '411'
+ht-degree: 78%
 
 ---
 
@@ -27,18 +27,17 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
+* **[De gegevensbron wijzigen](/help/data-management/change-data-source.md)**
+
+   *Leer hoe te om de gegevensbron van een werkschema werkende lijst te veranderen gebruikend de Activiteit van de Gegevensbron van de Verandering gegevens over verschillende gegevensbronnen zoals FDA, FFDA, en lokaal gegevensbestand flexibel te beheren.*
+
+* **[Grondbeginselen van gegevensbeheer met workflows](/help/data-management/data-management-fundamentals.md)**
+
+   *Leer welke het richten dimensies en het werken lijsten zijn, en hoe Adobe Campaign gegevens over verschillende gegevensbronnen beheert.*
+
 * **[mechanisme voor API-staging met FFDA](/help/data-management/api-staging-mechanism.md)**
 
    *Leer hoe het mechanisme voor API-staging werkt met volledige FDA.*
-
-* **[Een schema maken en uitbreiden](/help/data-management/create-and-extend-a-schema.md)**
-
-   *Leer hoe u een nieuw schema maakt en een bestaand schema uitbreidt.*
-
-* **[Integreren met Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=nl)**
-
-   *Leer hoe u Campaign- en Experience Cloud-gegevens importeert en exporteert, zodat de communicatie tussen de twee oplossingen mogelijk is.*
-
 
 ## Aanbevolen door medewerkers van Adobe
 
