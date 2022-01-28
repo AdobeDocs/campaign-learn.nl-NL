@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ Vermoeidheidsbeheer bepaalt de frequentie en de hoeveelheid van de berichten om 
 Leer hoe u vermoeidheidsbeheer in Adobe Campaign implementeert met behulp van typologische regels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
-
-## Aanvullende bronnen
-
-* [Campagnetypologieën](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=nl)
-* [Marketingmoeheid beheren met regels voor druk](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=nl)

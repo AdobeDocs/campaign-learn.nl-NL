@@ -6,9 +6,9 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ Ontdek hoe u een openbaar/privé sleutelpaar op een gespecificeerde [!DNL Campai
 1. [GPG-sleutels voor versleuteling van gegevens genereren en installeren](./generate-and-install-gpg-keys.md)
 2. [Een GPG-sleutel gebruiken om gegevens te versleutelen](./use-a-gpg-key-to-encrypt-data.md)
 3. [Gegevens ontsleutelen](./decrypt-data.md)
-
-## Aanvullende bronnen
-
-* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=nl)
