@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 source-git-commit: 7d998bc996a0123b051e7b9a5397cfd49e734eb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -76,14 +76,14 @@ ht-degree: 96%
       + [Goedkeuringen voor leveringen configureren ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Een goedkeuringsactiviteit maken in een workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Data management {#data-management}
-   + [Grondbeginselen van gegevensbeheer met workflows](/help/data-management/data-management-fundamentals.md)
-   + [De gegevensbron wijzigen](/help/data-management/change-data-source.md)
+   + [Grondbeginselen van data management met workflows](/help/data-management/data-management-fundamentals.md)
+   + [Databron wijzigen](/help/data-management/change-data-source.md)
    + [De activiteit van de updatelijst gebruiken](/help/process-management/use-the-update-list-activity.md)
    + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
    + [Een schema maken en uitbreiden](/help/data-management/create-and-extend-a-schema.md)
    + [Profielen importeren](/help/data-management/import-profiles.md)
    + [Datareplicatie](/help/data-management/data-replication.md)
-   + [API-staging](/help/data-management/api-staging-mechanism.md)
+   + [API-stagingmechanisme](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=nl)
 + Verbinden met andere oplossingen {#connect}
    + [Beheer van big data in Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
