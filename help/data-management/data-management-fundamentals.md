@@ -1,6 +1,6 @@
 ---
-title: Grondbeginselen van gegevensbeheer met Adobe Campaign-workflows
-description: Leer welke het richten dimensies en het werken lijsten zijn, en hoe Adobe Campaign gegevens over verschillende gegevensbronnen beheert.
+title: Grondbeginselen van data management met Adobe Campaign-workflows
+description: Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen.
 feature: Data Management
 kt: 9505
 thumbnail: 339992.jpg
@@ -8,15 +8,16 @@ doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Beginner
-source-git-commit: d64fe82304dec81ab14a2fb1a0808574c84644a1
-workflow-type: tm+mt
+exl-id: 48ea5e79-29b8-43a4-9cb4-d6dcb13e9068
+source-git-commit: 0124923f8aad93ffce48e9c40e6e25beb785e1f3
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grondbeginselen van gegevensbeheer met Adobe Campaign-workflows
+# Grondbeginselen van data management met Adobe Campaign-workflows
 
-Leer welke het richten dimensies en het werken lijsten zijn, en hoe Adobe Campaign gegevens over verschillende gegevensbronnen beheert.
+Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12)
