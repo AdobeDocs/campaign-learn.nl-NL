@@ -1,13 +1,13 @@
 ---
 title: E-mailleveringsactiviteit versus leveringsactiviteit
-description: Deze video verklaart hoe u een leveringssjabloon kunt configureren en gebruiken.
+description: Deze video laat zien hoe u een leveringssjabloon kunt configureren en gebruiken.
 feature: Delivery Templates
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
 
