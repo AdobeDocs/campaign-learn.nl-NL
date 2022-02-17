@@ -1,6 +1,6 @@
 ---
 title: Databases controleren
-description: Leer hoe u het databasegebruik van uw instanties kunt controleren.
+description: Ontdek hoe u het databasegebruik van uw versies kunt bewaken.
 feature: Control Panel
 kt: 8519
 thumbnail: 327175.jpg
@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 9451117b-f1ae-4d92-b75c-233fe8e76482
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 77%
 
 De assets, workflows en gegevens van al uw Campaign-versies worden opgeslagen in de database. Als de database de maximale capaciteit bereikt, kan dit leiden tot problemen met uw versie (niet kunnen aanmelden, geen e-mails kunnen verzenden, enz.). Het is daarom van essentieel belang om regelmatig de databases van uw versie te controleren om optimale prestaties te garanderen.
 
-Leer hoe u het databasegebruik van uw instanties kunt controleren.
+Ontdek hoe u het databasegebruik van uw versies kunt bewaken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
