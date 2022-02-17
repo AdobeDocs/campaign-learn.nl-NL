@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
-* **[De gegevensbron wijzigen](/help/data-management/change-data-source.md)**
+* **[De databron wijzigen](/help/data-management/change-data-source.md)**
 
-   *Leer hoe te om de gegevensbron van een werkschema werkende lijst te veranderen gebruikend de Activiteit van de Gegevensbron van de Verandering gegevens over verschillende gegevensbronnen zoals FDA, FFDA, en lokaal gegevensbestand flexibel te beheren.*
+   *Leer hoe u de databron van een werkende workflowtabel kunt wijzigen met behulp van de activiteit Databron wijzigen om flexibel gegevens over verschillende datrabonnen zoals FDA, FFDA en lokale database te beheren.*
 
-* **[Grondbeginselen van gegevensbeheer met workflows](/help/data-management/data-management-fundamentals.md)**
+* **[Grondbeginselen van data management met workflows](/help/data-management/data-management-fundamentals.md)**
 
-   *Leer welke het richten dimensies en het werken lijsten zijn, en hoe Adobe Campaign gegevens over verschillende gegevensbronnen beheert.*
+   *Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen..*
 
-* **[mechanisme voor API-staging met FFDA](/help/data-management/api-staging-mechanism.md)**
+* **[Mechanisme voor API-staging met FFDA](/help/data-management/api-staging-mechanism.md)**
 
    *Leer hoe het mechanisme voor API-staging werkt met volledige FDA.*
 
