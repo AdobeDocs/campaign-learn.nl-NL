@@ -1,6 +1,6 @@
 ---
 title: Interactieve e-mailcontent ontwerpen met AMP
-description: Leer de e-mailinhoud in AMP-formaat configureren.
+description: Leer hoe u e-mailcontent in AMP-indeling configureert.
 feature: Email, Email Design
 kt: 7946
 thumbnail: 29940.jpg
@@ -13,9 +13,9 @@ hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ In de onderstaande video wordt uitgelegd hoe u AMP in Adobe Campaign kunt active
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=nl#about-amp-for-email) voor meer informatie .
+Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=nl#about-amp-for-email) voor meer informatie.
