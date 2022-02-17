@@ -1,6 +1,6 @@
 ---
 title: Vermoeidheid beheren met behulp van vooraf gedefinieerde filters
-description: Leer hoe u moeheidsbeheer in Adobe Campaign implementeert met behulp van filters.
+description: Leer hoe u vermoeidheidsbeheer in Adobe Campaign implementeert met behulp van filters.
 feature: Fatigue Management
 kt: 7958
 thumbnail: 333778.jpg
@@ -11,7 +11,7 @@ role: User, Developer, Admin
 level: Experienced
 exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
