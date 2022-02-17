@@ -1,6 +1,6 @@
 ---
-title: mechanisme voor API-staging met FFDA
-description: Leer hoe het mechanisme voor API-staging werkt met volledige FDA. Begrijp waarom het opvoeren wordt gebruikt, de belangrijkste principes van het opvoeren in Adobe campagne en hoe te om het het opvoeren mechanisme voor een douanetabel te activeren.
+title: Mechanisme voor API-staging met FFDA
+description: Leer hoe het mechanisme voor API-staging werkt met volledige FDA. Ontdek waarom staging wordt gebruikt, wat de belangrijkste principes van staging in Adobe Campaign zijn en hoe u het stagingmechanisme voor een aangepaste tabel activeert.
 feature: Data Management
 kt: 7974
 thumbnail: 339276.jpg
@@ -10,14 +10,14 @@ role: Admin, Developer
 level: Beginner
 exl-id: f61a1d00-694a-4727-8a24-959cb0258046
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# mechanisme voor API-staging met FFDA
+# Mechanisme voor API-staging met FFDA
 
-Leer hoe het mechanisme voor API-staging werkt met volledige FDA. Begrijp waarom het opvoeren wordt gebruikt, de belangrijkste principes van het opvoeren in Adobe campagne en hoe te om het het opvoeren mechanisme voor een douanetabel te activeren.
+Leer hoe het mechanisme voor API-staging werkt met volledige FDA. Ontdek waarom staging wordt gebruikt, wat de belangrijkste principes van staging in Adobe Campaign zijn en hoe u het stagingmechanisme voor een aangepaste tabel activeert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12)
