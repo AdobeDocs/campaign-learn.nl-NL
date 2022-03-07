@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
-* **[Integreren met Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+* **[Integreren met Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=nl)**
 
-   *Leer hoe u Adobe Campaign met Adobe Experience Manager kunt verbinden om sjablonen, middelen en formulieren voor e-maillevering in Experience Manager te beheren.*
+   *Leer hoe u Adobe Campaign met Adobe Experience Manager kunt verbinden om sjablonen, assets en formulieren voor e-maillevering in Experience Manager te beheren.*
 
 * **[De databron wijzigen](/help/data-management/change-data-source.md)**
 
