@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 source-git-commit: 4f8599d375d98195b56bbb5d99e65243dbcdca94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '382'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -86,7 +86,7 @@ ht-degree: 96%
    + [API-stagingmechanisme](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=nl)
 + Verbinden met andere oplossingen {#connect}
-   + [Integreren met Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)
+   + [Integreren met Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=nl)
    + [Integreren met Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=nl)
    + [Integreren met Dynamics 365](/help/connect/dynamics365-integration.md)
 + Rapportage {#reporting}
