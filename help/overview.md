@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
-* **[Integreren met Adobe Target](/help/connect/target-integration.md)
+* **[Integreren met Adobe Target](/help/connect/target-integration.md)**
 
    *Leer hoe u een levering kunt personaliseren met dynamische inhoud van Adobe Target.*
 
@@ -65,7 +65,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>E-mailleveringen maken en ontwerpen</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>Het proces van het maken van een e-maillevering begrijpen en leren hoe u e-mailcontent kunt ontwerpen en personaliseren.
 </em>
