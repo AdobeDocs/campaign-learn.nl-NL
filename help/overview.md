@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
-* **[Integreren met Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=nl)**
+* **[Integreren met Adobe Target](/help/connect/target-integration.md)
+
+   *Leer hoe u een levering kunt personaliseren met dynamische inhoud van Adobe Target.*
+
+* **[Integreren met Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=nl)**
 
    *Leer hoe u Adobe Campaign met Adobe Experience Manager kunt verbinden om sjablonen, assets en formulieren voor e-maillevering in Experience Manager te beheren.*
 
 * **[De databron wijzigen](/help/data-management/change-data-source.md)**
 
    *Leer hoe u de databron van een werkende workflowtabel kunt wijzigen met behulp van de activiteit Databron wijzigen om flexibel gegevens over verschillende datrabonnen zoals FDA, FFDA en lokale database te beheren.*
-
-* **[Grondbeginselen van data management met workflows](/help/data-management/data-management-fundamentals.md)**
-
-   *Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen..*
 
 
 ## Aanbevolen door medewerkers van Adobe
@@ -97,10 +97,36 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
     </a>
     </div>
     <p>
-    <em>Leer hoe u een beschrijvend analyserapport kunt genereren op basis van een workflow.</em>
+    <em>Leer hoe u een beschrijvend analyserapport uit een workflow kunt genereren.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="Grondbeginselen van data management met workflows" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>Grondbeginselen van data management met workflows</strong>
+    </a>
+    </div>
+    <p>
+    <em>Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen..</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="Mechanisme voor API-staging met FFDA" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>Mechanisme voor API-staging met FFDA</strong>
+    </a>
+    </div>
+    <p>
+    <em>Leer hoe het mechanisme voor API-staging werkt met volledige FDA.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=nl) voor meer informatie over deze functie.
