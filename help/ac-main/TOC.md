@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
    + [Door gebeurtenis geactiveerde campagnes maken](/help/get-started/create-event-triggered-campaigns.md)
 + Profielmanagement {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
+   + [Profielen importeren](/help/profile-management/import-profiles.md)
    + [Profielen targeten in een workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Campagneorkestratie {#campaign-orchestration}
    + [Een campagne uitvoeren](/help/orchestrate-campaigns/execute-a-campaign.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [Workflow maken](/help/process-management/create-a-workflow.md)
    + [Herhalende en doorlopende leveringen maken](/help/process-management/recurring-deliveries.md)
    + Targetingworkflows {#targeting-workflows}
-      + [Doelworkflows maken](/help/process-management/create-a-targeting-workflow.md)
+      + [Een targetingworkflow maken](/help/process-management/create-a-targeting-workflow.md)
       + [Doelen verfijnen door queryresultaten te combineren](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Doelen verfijnen door queryresultaten uit te sluiten](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Workflows voor goedkeuring en validatie {#create-approvals-and-validation-workflows}
