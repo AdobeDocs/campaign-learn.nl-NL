@@ -11,13 +11,13 @@ role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
-# Audittrail
+# Audit Trail
 
 [!UICONTROL Audit Trail] legt in real time een uitgebreide lijst vast met acties en gebeurtenissen die plaatsvinden binnen Adobe Campaign.[!UICONTROL Audit Trail] bevat een manier om zelf toegang te krijgen tot een geschiedenis van gegevens om vragen te beantwoorden zoals:
 
