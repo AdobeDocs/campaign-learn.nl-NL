@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '475'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 * **[Integreren met Adobe Target](/help/connect/target-integration.md)**
 
-   *Leer hoe u een levering kunt personaliseren met dynamische inhoud van Adobe Target.*
+   *Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.*
 
 * **[Integreren met Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=nl)**
 
@@ -110,7 +110,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
     </a>
     </div>
     <p>
-    <em>Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen..</em>
+    <em>Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen.</em>
     <p>
   </td>
   <td>
