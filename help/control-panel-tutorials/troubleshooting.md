@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ Ontdek hoe u problemen met het configuratiescherm kunt oplossen.
 ### Probleem: kan niet aanmelden bij Experience Cloud
 
 **Wat moet u doen:**
-De gebruiker moet de IMS-organisatie-id (xxx) zoeken. De beheerder moet de gebruiker toevoegen aan het productprofiel ‘Campaign-xxx-Admins’ voor elke versie die deze wil beheren. Als de gebruiker een beheerder van alle versies is, moet deze ook zichzelf toevoegen als gebruiker.
+De gebruiker moet de ID van zijn organisatie (xxx) vinden. De beheerder moet de gebruiker toevoegen aan het productprofiel ‘Campaign-xxx-Admins’ voor elke versie die deze wil beheren. Als de gebruiker een beheerder van alle versies is, moet deze ook zichzelf toevoegen als gebruiker.
 
 ### Probleem: koppelingen in Experience Cloud Home voor toegang tot het [!UICONTROL Configuratiescherm] worden niet weergegeven voor een gebruiker
 
@@ -47,7 +47,7 @@ De beheerder moet de gebruiker toevoegen aan het productprofiel _Campaign-xxx-Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*IMS-organisatie-id controleren (00:26 min)*
+*Controleer de id van uw organisatie (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 

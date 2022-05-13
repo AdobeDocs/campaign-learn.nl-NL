@@ -1,22 +1,23 @@
 ---
-title: Terugkerende en doorlopende e-mailcampagnes instellen
+title: Herhalende en doorlopende e-mailleveringen maken
 description: Leer hoe u een terugkerende, continue levering instelt en begrijp de verschillen tussen de twee benaderingen.
 feature: Workflows
 kt: 7982
+thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 94%
 
 ---
 
-# Terugkerende en doorlopende e-mailcampagnes instellen
+# Herhalende en doorlopende e-mailleveringen maken
 
 In deze tutorial wordt uitgelegd hoe u een terugkerende en continue levering instelt en wat de verschillen tussen de twee benaderingen zijn.
 
@@ -38,10 +39,10 @@ De terugkomende en ononderbroken leveringen verschillen in de manier waarop cont
 
 In de video wordt uitgelegd hoe u een terugkerende levering en een planneractiviteit configureert.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
 
 ## Een doorlopende levering instellen {#how-to-set-up-a-continuous-delivery}
 
 Deze video laat zien hoe u een doorlopende levering configureert met een stapsgewijze query.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)
