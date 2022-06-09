@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
-* **[Integreren met Adobe Target](/help/connect/target-integration.md)**
+* **[Inleiding tot SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+   *Meer informatie over hoe SMS werkt en hoe Adobe Campaign SMS verzendt*
 
-   *Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.*
+* **[Een SMS-account instellen voor een standaard SMPP-provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[Integreren met Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=nl)**
+   *Leer hoe u de SMS-connector aanpast aan uw SMPP-provider. Pas uw SMS-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
 
-   *Leer hoe u Adobe Campaign met Adobe Experience Manager kunt verbinden om sjablonen, assets en formulieren voor e-maillevering in Experience Manager te beheren.*
+* **[Pas de SMS-aansluiting aan op uw SMPP-provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[De databron wijzigen](/help/data-management/change-data-source.md)**
+   *Leer hoe u uw SMS-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
 
-   *Leer hoe u de databron van een werkende workflowtabel kunt wijzigen met behulp van de activiteit Databron wijzigen om flexibel gegevens over verschillende datrabonnen zoals FDA, FFDA en lokale database te beheren.*
+* **[Maximaliseer uw ROI voor e-mail en leer beste praktijken voor abonneeherbetrokkenheid](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *Leer hoe u uw e-mailrendement kunt maximaliseren en de beste werkwijzen voor herbetrokkenheid van abonnees leert. Ontdek de strategieën om uw betrokkenheid van abonnees te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen.*
 
 ## Aanbevolen door medewerkers van Adobe
 
