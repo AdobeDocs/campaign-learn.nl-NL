@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: af1d6c836b2609c5abe2f82fd32eb7352d512543
+source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 100%
+source-wordcount: '405'
+ht-degree: 97%
 
 ---
 
@@ -99,3 +99,5 @@ ht-degree: 100%
    + [Audit Trail](/help/monitoring/audit-trail.md)
 + Beheer {#administration}
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=nl)
++ Strategie en leiderschap{#strategy}
+   + [Maximaliseer e-mailROI en beste praktijken voor abonneeherbetrokkenheid](/help/strategy/campaign-maximize-email-best-practices.md)
