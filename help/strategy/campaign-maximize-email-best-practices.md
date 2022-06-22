@@ -1,11 +1,12 @@
 ---
-title: Maximaliseer uw ROI voor e-mail en leer beste praktijken voor abonneeherbetrokkenheid
-description: 'Leer hoe u uw e-mailrendement kunt maximaliseren en de beste werkwijzen voor herbetrokkenheid van abonnees leert. Ontdek de strategieën om uw betrokkenheid van abonnees te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen. '
+title: Maximaliseer het rendement op investering van uw e-mail en leer praktische tips voor hernieuwde betrokkenheid van leden
+description: Leer hoe u rendement op investering van e-mail kunt maximaliseren en leer de aanbevolen methoden voor hernieuwde betrokkenheid lan keden. Ontdek de strategieën om uw betrokkenheid van leden te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen.
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 2%
 
 ---
 
@@ -135,3 +136,5 @@ Verdeel dit proces in twee aandachtsgebieden: a) het verzenden van e-mails en b)
 * **Testen en leren** - een goed testplan is belangrijk om ervoor te zorgen dat uw inspanningen het gewenste effect hebben. Leer wat werkt en wat niet is en voer de informatie dienovereenkomstig uit.
 
 Voor een overzicht van dit artikel en een live demo over het implementeren van strategieën voor herbetrokkenheid, bekijkt u onze [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
