@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '510'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -27,21 +27,21 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
-* **[Inleiding tot SMS](/help/tutorial-sms/introduction-to-sms.md)**
+* **[Inleiding tot sms](/help/tutorial-sms/introduction-to-sms.md)**
 
-   *Meer informatie over hoe SMS werkt en hoe Adobe Campaign SMS verzendt*
+   *Meer informatie over hoe sms werkt en hoe Adobe Campaign sms verzendt*
 
-* **[Een SMS-account instellen voor een standaard SMPP-provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
+* **[Een sms-account instellen voor een standaard SMPP-provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Leer hoe u de SMS-connector aanpast aan uw SMPP-provider. Pas uw SMS-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
+   *Leer hoe u de sms-connector aanpast aan uw SMPP-provider. Pas uw sms-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
 
-* **[Pas de SMS-aansluiting aan op uw SMPP-provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[Pas de sms-connector aan voor uw SMPP-provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-   *Leer hoe u uw SMS-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
+   *Leer hoe u uw sms-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
 
-* **[Maximaliseer uw ROI voor e-mail en leer beste praktijken voor abonneeherbetrokkenheid](/help/strategy/campaign-maximize-email-best-practices.md)**
+* **[Maximaliseer uw rendement op investering voor e-mail en leer best practices voor hernieuwde betrokkenheid van leden](/help/strategy/campaign-maximize-email-best-practices.md)**
 
-   *Leer hoe u uw e-mailrendement kunt maximaliseren en de beste werkwijzen voor herbetrokkenheid van abonnees leert. Ontdek de strategieën om uw betrokkenheid van abonnees te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen.*
+   *Leer hoe u uw e-mailrendement kunt maximaliseren en ontdek de best practices voor hernieuwde betrokkenheid van leden. Ontdek de strategieën om de betrokkenheid van uw leden te verbeteren en krijg inzicht in het algemene succes van uw e-mailcampagnes.*
 
 ## Aanbevolen door medewerkers van Adobe
 
