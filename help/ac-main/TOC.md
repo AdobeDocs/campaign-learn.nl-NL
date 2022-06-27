@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '417'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 94%
       + [Problemen met de levering van e-mail oplossen](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [E-mails ontwerpen voor leverbaarheid](/help/send-messages/email/design-emails-for-deliverability.md)
    + Sms {#sms}
-      + [SMS instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
       + [Een sms-levering maken](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Het mobiele-appkanaal installeren](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,7 +88,7 @@ ht-degree: 94%
    + [Tutorial: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=nl)
 + Verbinden met andere oplossingen {#connect}
    + [Integreren met Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=nl)
-   + [Integreren met Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integreren met Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=nl)
    + [Integreren met Adobe Target](/help/connect/target-integration.md)
    + [Integreren met Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Rapportage {#reporting}
@@ -99,6 +99,6 @@ ht-degree: 94%
    + [Audit Trail](/help/monitoring/audit-trail.md)
 + Beheer {#administration}
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=nl)
-+ Strategie en leiderschap{#strategy}
-   + [Maximaliseer e-mailROI en beste praktijken voor abonneeherbetrokkenheid](/help/strategy/campaign-maximize-email-best-practices.md)
++ Strategie &amp; leiderschap{#strategy}
+   + [Maximaliseer het rendement van investering van e-mail en best practices voor hernieuwde betrokkenheid van leden](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
