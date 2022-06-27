@@ -1,23 +1,23 @@
 ---
-title: Inleiding tot SMS
-description: Ontdek wat SMS is en hoe campagne SMS verwerkt
+title: Inleiding tot Sms
+description: Ontdek wat sms is en hoe Campaign sms verwerkt
 feature: SMS
 thumbnail: 340957.jpg
 kt: 9743
-source-git-commit: 6459a34562d34bf0baf1d5ca1da279ee995ca38a
-workflow-type: tm+mt
+exl-id: 267e8394-7499-45ef-8394-b216c513649a
+source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Inleiding tot Sms
 
-# Inleiding tot SMS
+![Geldt voor V7 en V8](../assets/V7-V8-stamp.png)
 
-![Van toepassing op V7 en V8](../assets/V7-V8-stamp.png)
-
-Leer wat SMS is, de rol van de dienstverlener van SMS, en hoe Adobe Campaign met de dienstverlener verbindt. Begrijp welke informatie door de dienstverlener wordt doorgegeven en welke technische nota&#39;s beschikbaar zijn.
+Ontdek sms, de rol van de serviceprovider van sms, en hoe Adobe Campaign verbinding maakt met de serviceprovider. Begrijp welke informatie door de serviceprovider wordt doorgegeven en welke technische notities beschikbaar zijn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12)
 
-Zie [Protocol en instellingen voor SMS-aansluiting](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=en#sending-messages) voor meer informatie over het protocol SMPP, details over externe rekeningsmontages, of het oplossen van problemen van de gemeenschappelijkste kwesties.
+Zie [Sms-connectorprotocol en instellingen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=nl#sending-messages) voor meer informatie over het SMPP-protocol, details over externe accountinstellingen of het oplossen van de meest voorkomende problemen.
