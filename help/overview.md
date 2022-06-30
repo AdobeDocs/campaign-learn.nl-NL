@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 94%
+source-wordcount: '505'
+ht-degree: 86%
 
 ---
 
@@ -27,13 +27,14 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Wat is nieuw?
 
-* **[Doorvoereenheden en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+
+   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw exemplaar te voorkomen.*
+
+* **[Configuratiescherm - Doorvoersnelheid en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
    *Leer hoe te om leveringsproductie en transactionele berichtlatentie van uw campagneinstantie te controleren.*
-
-* **[Inleiding tot sms](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=nl)**
-
-   *Meer informatie over hoe sms werkt en hoe Adobe Campaign een sms verzendt*
 
 * **[Inleiding tot sms](/help/tutorial-sms/introduction-to-sms.md)**
 
