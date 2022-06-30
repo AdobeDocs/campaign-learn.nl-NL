@@ -1,9 +1,9 @@
 ---
-title: Maximaliseer het rendement op investering van uw e-mail en leer praktische tips voor hernieuwde betrokkenheid van leden
-description: Leer hoe u rendement op investering van e-mail kunt maximaliseren en leer de aanbevolen methoden voor hernieuwde betrokkenheid lan keden. Ontdek de strategieën om uw betrokkenheid van leden te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen.
+title: Maximaliseer uw rendement op investering voor e-mail en leer best practices voor hernieuwde betrokkenheid van leden
+description: Leer hoe u uw e-mailrendement kunt maximaliseren en ontdek de best practices voor hernieuwde betrokkenheid van leden. Ontdek de strategieën om de betrokkenheid van uw leden te verbeteren en krijg inzicht in het algemene succes van uw e-mailcampagnes.
 solution: Campaign
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
+source-git-commit: f52e9f8cdb630c71af5e0a8c048c91a1db6b7d7b
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 2%
@@ -137,4 +137,4 @@ Verdeel dit proces in twee aandachtsgebieden: a) het verzenden van e-mails en b)
 
 Voor een overzicht van dit artikel en een live demo over het implementeren van strategieën voor herbetrokkenheid, bekijkt u onze [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
