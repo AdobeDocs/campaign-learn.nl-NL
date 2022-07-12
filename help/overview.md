@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '505'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -28,13 +28,13 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 ## Wat is nieuw?
 
 
-* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=nl){target=&quot;_blank&quot;}**
 
-   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw exemplaar te voorkomen.*
+   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
 
-* **[Configuratiescherm - Doorvoersnelheid en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=nl){target=&quot;_blank&quot;}**
 
-   *Leer hoe te om leveringsproductie en transactionele berichtlatentie van uw campagneinstantie te controleren.*
+   *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
 
 * **[Inleiding tot sms](/help/tutorial-sms/introduction-to-sms.md)**
 
