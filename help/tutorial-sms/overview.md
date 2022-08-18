@@ -3,10 +3,10 @@ title: Technische tutorial - Sms instellen voor Adobe Campaign
 description: Leer hoe u een sms-account configureert voor SMTP-providers en hoe u de configuratie analyseert en problemen oplost.
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: 1fc6cbddbfa5e591704d59c494ce7d2f107a444f
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 87%
 
 ---
 
@@ -25,12 +25,12 @@ De volgende onderwerpen worden behandeld:
 
    *Leer hoe u de sms-connector aanpast aan uw SMPP-provider. Pas uw sms-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
 
-* **[De sms-connector aanpassen voor uw SMPP-provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[Pas de sms-connector aan voor uw SMPP-provider](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
    *Leer hoe u uw sms-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
 
-* **Analyse en probleemoplossing**
-Binnenkort beschikbaar
+* **[SMPP-protocol, diepe duik en probleemoplossing]**(help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
+   *Leer hoe de verbindingen SMPP worden gevestigd en hoe SMPP gegevens door PDUs ruilt. Begrijp hoe te om verbindingen problemen op te lossen.*
 
 >[!NOTE]
 >
