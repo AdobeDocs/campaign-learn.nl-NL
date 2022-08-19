@@ -3,10 +3,10 @@ title: Technische tutorial - Sms instellen voor Adobe Campaign
 description: Leer hoe u een sms-account configureert voor SMTP-providers en hoe u de configuratie analyseert en problemen oplost.
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: a54253d309e4be47c7a8abd5528c00d23278fd1c
+source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 88%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ De volgende onderwerpen worden behandeld:
 
    *Leer hoe u uw sms-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
 
-* **[SMPP-protocol, diepe duik en probleemoplossing](help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[SMPP-protocol, diepe duik en probleemoplossing](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
    *Leer hoe de verbindingen SMPP worden gevestigd en hoe SMPP gegevens door PDUs ruilt. Begrijp hoe te om verbindingen problemen op te lossen.*
 
