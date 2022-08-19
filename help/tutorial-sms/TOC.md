@@ -2,10 +2,10 @@
 user-guide-title: Sms instellen voor Adobe Campaign
 user-guide-description: Leer hoe u een sms-account configureert voor SMTP-providers, hoe Adobe Campaign omgaat met sms en hoe u de configuratie analyseert en problemen oplost. 
 breadcrumb-title: Sms instellen
-source-git-commit: f20c47d0b3f260d19c1c938f3b8f1d521a0f069e
+source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 83%
+source-wordcount: '89'
+ht-degree: 80%
 
 ---
 
@@ -20,4 +20,3 @@ ht-degree: 83%
 + Terug naar Tutorials {#campaign-tutorials}
    + [Adobe Campaign V8-tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=en)
    + [Adobe Campaign V7-tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-   + [Adobe Campaign Standard-tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)
