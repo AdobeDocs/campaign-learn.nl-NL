@@ -1,21 +1,21 @@
 ---
-title: SMPP-protocol, diepe duik en probleemoplossing
-description: Leer hoe de verbindingen SMPP worden gevestigd en hoe SMPP gegevens door PDUs ruilt. Begrijp hoe te om verbindingen problemen op te lossen.
+title: 'SMPP-protocol: meer details en probleemoplossing'
+description: Leer hoe SMPP-verbindingen tot stand komen en hoe SMPP gegevens uitwisselt via PDU's. Begrijp hoe u problemen met verbindingen kunt oplossen.
 feature: SMS
 thumbnail: 346489.jpg
 kt: 9739
-source-git-commit: 2e93092e1a433ae57515f08f8a70afa4b85bccf4
-workflow-type: tm+mt
+exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
+source-git-commit: ea2db5e52d4e1d14485eb64388d9afde9209b6ee
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-
-# SMPP-protocol, diepe duik en probleemoplossing
+# SMPP-protocol: meer details en probleemoplossing
 
 ![Geldt voor V7 en V8](../assets/V7-V8-stamp.png)
 
-Leer hoe de verbindingen SMPP worden gevestigd en hoe SMPP gegevens door PDUs ruilt. Begrijp hoe te om verbindingen problemen op te lossen.
+Leer hoe SMPP-verbindingen tot stand komen en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12)
