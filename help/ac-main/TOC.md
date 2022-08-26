@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
 source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '417'
+ht-degree: 100%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 0%
    + [De activiteit van de updatelijst gebruiken](/help/process-management/use-the-update-list-activity.md)
    + [Verrijkingsactiviteiten configureren](/help/process-management/enrichment-activity.md)
    + [Een schema maken en uitbreiden](/help/data-management/create-and-extend-a-schema.md)
-   + [Datareplicatie](/help/data-management/data-replication.md)
+   + [Gegevensreplicatie](/help/data-management/data-replication.md)
    + [API-stagingmechanisme](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=nl)
 + Verbinden met andere oplossingen {#connect}
