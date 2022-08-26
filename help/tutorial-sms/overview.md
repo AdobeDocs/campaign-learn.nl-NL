@@ -4,9 +4,9 @@ description: Leer hoe u een sms-account configureert voor SMTP-providers en hoe 
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '211'
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ De volgende onderwerpen worden behandeld:
 
    *Leer hoe u uw sms-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
 
-* **[SMPP-protocol, diepe duik en probleemoplossing](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[SMPP-protocol, meer details en probleemoplossing](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
-   *Leer hoe de verbindingen SMPP worden gevestigd en hoe SMPP gegevens door PDUs ruilt. Begrijp hoe te om verbindingen problemen op te lossen.*
+   *Leer hoe SMPP-verbindingen tot stand worden gebracht en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.*
 
 >[!NOTE]
 >
