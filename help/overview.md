@@ -1,41 +1,42 @@
 ---
 title: 'Adobe Campaign V8-tutorials: overzicht'
-description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaalklantervaringen en biedt een omgeving voor visuele campagneorchestratie, interactiebeheer in real time en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
-workflow-type: ht
-source-wordcount: '480'
-ht-degree: 100%
+source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+workflow-type: tm+mt
+source-wordcount: '464'
+ht-degree: 77%
 
 ---
 
 # Adobe Campaign V8-tutorials: overzicht
 
-Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign V8.
+Adobe Campaign biedt een platform voor het ontwerpen van interkanaalklantervaringen en biedt een omgeving voor visuele campagneorchestratie, interactiebeheer in real time en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign V8.
 
 >[!INFO]
 > Hebt u vragen? Wilt u uw ervaring delen of gedachten uitwisselen met uw collega&#39;s? Of hebt u feedback over de leercontent voor het Adobe-team? Neem deel aan het gesprek in de [Adobe Campaign Learning Community-discussie](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 
 >[!NOTE]
-> Campaign V8 is momenteel alleen beschikbaar als een Managed Cloud Service en kan niet worden geïmplementeerd in een on-premise of hybride omgeving. Migratie vanuit een bestaande Campaign Classic v7-omgeving is nog niet beschikbaar.
->Raadpleeg de [Classic v7 naar V8 productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=nl) voor meer informatie over de verschillen tussen de twee versies. Zie ook de sectie [Campaign Classic V7-tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl) voor video&#39;s.
+> Campaign V8 is momenteel alleen beschikbaar als een Managed Cloud Service en kan niet worden geïmplementeerd in een on-premise of hybride omgeving. Geautomatiseerde migratie vanuit een bestaande Campaign Classic v7-omgeving is nog niet beschikbaar.
+>
+>Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) voor meer informatie over de overgang van Classic v7 naar V8.
 
-## Wat is nieuw?
+## Nieuwe functies
 
 * **[SMPP-protocol: meer details en probleemoplossing](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=nl)**
 
    *Leer hoe SMPP-verbindingen tot stand worden gebracht en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.*
 
-* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=nl){target=&quot;_blank&quot;}**
+* **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
 
    *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
 
-* **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=nl){target=&quot;_blank&quot;}**
+* **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
 
    *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
 
