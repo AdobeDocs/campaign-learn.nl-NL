@@ -4,8 +4,9 @@ description: Leer hoe SMPP-verbindingen tot stand komen en hoe SMPP gegevens uit
 feature: SMS
 thumbnail: 346489.jpg
 kt: 9739
+last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
-source-git-commit: ea2db5e52d4e1d14485eb64388d9afde9209b6ee
+source-git-commit: 285afc4062984320423816e8364f863973834f71
 workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
