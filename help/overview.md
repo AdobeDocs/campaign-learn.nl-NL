@@ -6,15 +6,14 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-recommendations: noDisplay, noCatalog
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '0'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# Adobe Campaign V8-tutorials: overzicht
+# Adobe Campaign V8-zelfstudies
 
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign V8.
 
@@ -53,7 +52,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 <div id="staff-picks-section">
 
-## Aanbevolen door medewerkers van Adobe
+## Personeelsselectie
 
 <table>
 <tr>
