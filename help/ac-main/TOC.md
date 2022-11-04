@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
-workflow-type: ht
-source-wordcount: '417'
-ht-degree: 100%
+source-git-commit: ecdb463b01351c9d777cb8161a46f1a33f7892ea
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -75,6 +75,7 @@ ht-degree: 100%
       + [Goedkeuringen voor campagnes configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [Goedkeuringen voor leveringen configureren ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Een goedkeuringsactiviteit maken in een workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Leer van uw collega&#39;s - Workflowtips](/help/process-management/workflow-best-practices-for-marketers.md)
 + Data management {#data-management}
    + [Grondbeginselen van data management met workflows](/help/data-management/data-management-fundamentals.md)
    + [Databron wijzigen](/help/data-management/change-data-source.md)
