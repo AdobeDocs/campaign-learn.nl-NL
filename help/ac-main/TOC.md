@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: e866b1e1130a30d43d4ef59e17f8c58c1b5d6a81
+source-git-commit: 175d322861d8af211e7cfd919da0a55fab9a410f
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 98%
+source-wordcount: '431'
+ht-degree: 97%
 
 ---
 
@@ -100,6 +100,6 @@ ht-degree: 98%
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target="_blank"}
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
 + Strategie &amp; leiderschap{#strategy}
-   + [10 Aanbevolen procedures voor Adobe Campaign Success voor Marketers](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Tien beste praktijken aan Adobe Campaign Succes voor Marketers](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Maximaliseer het rendement van investering van e-mail en best practices voor hernieuwde betrokkenheid van leden](/help/strategy-and-thought-leadrship/campaign-maximize-email-best-practices.md)
    + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
