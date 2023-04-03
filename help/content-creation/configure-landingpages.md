@@ -10,8 +10,8 @@ team: DOC
 role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ Met Adobe Campaign kunt u verschillende landingspagina&#39;s op de server ontwer
 
 In deze video ziet u hoe u door de webapplicatie-editor van Adobe Campaign kunt navigeren door een voorkeurscentrum te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on)
