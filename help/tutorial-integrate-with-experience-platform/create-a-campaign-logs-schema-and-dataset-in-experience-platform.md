@@ -10,8 +10,8 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Leer hoe u een schema en dataset in Adobe Experience Platform kunt maken die kunnen worden gebruikt om campagnelogboekgegevens in Platform in te voeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12&learn=on)
