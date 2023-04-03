@@ -6,9 +6,9 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -20,4 +20,4 @@ Met een [!UICONTROL leveringsactiviteit] kunt u een leveringsactie maken. Deze k
 
 In deze video wordt uitgelegd hoe u een sjabloon voor e-maillevering kunt distribueren. Het verschil tussen een e-maillevering en een leveringsworkflow wordt uitgelegd.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)
