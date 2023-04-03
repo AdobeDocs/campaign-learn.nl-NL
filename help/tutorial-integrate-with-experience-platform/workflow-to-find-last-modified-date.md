@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Leer in dit eerste deel van de tutorial Een exportworkflow maken hoe u een workflow kunt maken die de laatste wijzigingsdatum voor een lijst met ontvangers van een segment van Experience Platform zoekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on)
 
 ## Assets
 
