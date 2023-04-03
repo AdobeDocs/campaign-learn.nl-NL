@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 297db41d-38d6-4fd4-b72b-0615ce23b981
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
@@ -21,4 +21,4 @@ In een cross-channel campagne wordt één marketingmededeling verzonden via vers
 
 Leer hoe u een cross-channel campagne kunt maken met gebruik van e-mail en directe-mailleveringen op basis van de reactie van de klant op de eerste levering.
 
->[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on)
