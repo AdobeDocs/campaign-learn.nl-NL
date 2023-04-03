@@ -6,10 +6,10 @@ thumbnail: 340957.jpg
 kt: 9743
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 267e8394-7499-45ef-8394-b216c513649a
-source-git-commit: 285afc4062984320423816e8364f863973834f71
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Ontdek sms, de rol van de serviceprovider van sms, en hoe Adobe Campaign verbinding maakt met de serviceprovider. Begrijp welke informatie door de serviceprovider wordt doorgegeven en welke technische notities beschikbaar zijn.
 
->[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on)
 
 Zie [Sms-connectorprotocol en instellingen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=nl#sending-messages) voor meer informatie over het SMPP-protocol, details over externe accountinstellingen of het oplossen van de meest voorkomende problemen.
