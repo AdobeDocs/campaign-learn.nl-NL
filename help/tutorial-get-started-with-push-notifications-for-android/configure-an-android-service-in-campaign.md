@@ -10,8 +10,8 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: fc4abd2a-a7a7-4564-b1a2-736a6b2cb5d4
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Leer hoe u een [!DNL Android™]-service configureert en een mobiele [!DNL Android™]-applicatie maakt in Campaign. Deze stap is vereist, zodat u de mobiele doelapplicatie voor de pushmelding kunt bepalen.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on)
 
 **Vorige stap**
 
