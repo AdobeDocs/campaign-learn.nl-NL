@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
 breadcrumb-title: Tutorials
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '434'
 ht-degree: 97%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [Een meertalige nieuwsbrief maken met voorwaardelijke content](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Interactieve e-mailcontent definiëren met AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Landingspagina’s configureren](/help/content-creation/configure-landingpages.md)
+   + [Een enquête maken](/help/content-creation/create-a-survey.md)
 + Berichten verzenden{#sending-messages}
    + E-mail {#email}
       + [Proefdrukken voor e-maillevering verzenden en valideren](/help/send-messages/email/send-and-validate-proofs.md)
