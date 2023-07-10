@@ -2,7 +2,7 @@
 title: Een exportworkflow maken (deel 1) - De laatste wijzigingsdatum zoeken voor een lijst met ontvangers
 description: Leer in dit eerste deel van de tutorial Een exportworkflow maken hoe u een workflow kunt maken die de laatste wijzigingsdatum voor een lijst met ontvangers van een segment van Experience Platform zoekt.
 feature: Data Import/Export, Workflows
-kt: 8162
+jira: KT-8162
 thumbnail: 336387.jpg
 doc-type: feature video
 activity: setup
@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
