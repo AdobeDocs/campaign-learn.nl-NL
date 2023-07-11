@@ -1,8 +1,11 @@
 ---
 user-guide-title: Sms instellen voor Adobe Campaign
 user-guide-description: Leer hoe u een sms-account configureert voor SMTP-providers, hoe Adobe Campaign omgaat met sms en hoe u de configuratie analyseert en problemen oplost. 
+Role: Admin, Developer
+Level: Advanced
+Feature: SMS
 breadcrumb-title: Sms instellen
-source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
+source-git-commit: 78ad0bc4c42706a63e1f508e0570414991fd2e85
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
