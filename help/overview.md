@@ -6,9 +6,9 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
+source-git-commit: 52c41223e6f3c155bcace3ea3427d3030ebfeb01
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '443'
 ht-degree: 100%
 
 ---
@@ -30,16 +30,13 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 ## Nieuwe functies
 
 * **[SMPP-protocol: meer details en probleemoplossing](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=nl)**
-
-   *Leer hoe SMPP-verbindingen tot stand worden gebracht en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.*
+  *Leer hoe SMPP-verbindingen tot stand worden gebracht en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.*
 
 * **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=nl){target="_blank"}**
-
-   *Leer hoe u het gebruik van tijdelijke opslag voor uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
+  *Leer hoe u het gebruik van tijdelijke opslag voor uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
 
 * **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=nl){target="_blank"}**
-
-   *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
+  *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
 
 </div>
 
@@ -142,5 +139,3 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 </table>
 
 </div>
-
-Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=nl) voor meer informatie over deze functie.
