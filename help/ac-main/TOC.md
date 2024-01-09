@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign-tutorials
-user-guide-description: Met Adobe Campaign kunnen marketeers klantoverschrijdende ervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en cross-channel uitvoering.
-breadcrumb-title: Tutorials
+user-guide-description: Video's en zelfstudies voor Adobe Campaign v8.
+breadcrumb-title: Campagne v8 Tutorials
 auto-video-transcripts: true
-source-git-commit: c755b1608247d34490d4196f63a6ba6f73dfccf7
+source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 97%
+source-wordcount: '379'
+ht-degree: 94%
 
 ---
 
