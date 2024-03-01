@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign V8 Client Console kunt gebruiken.
 breadcrumb-title: 'Clientconsole: tutorials'
 auto-video-transcripts: true
-source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
+source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 96%
+source-wordcount: '394'
+ht-degree: 95%
 
 ---
 
@@ -105,3 +105,4 @@ ht-degree: 96%
    + [Tien beste praktijken aan het succes van Adobe Campaign voor marketers](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximaliseer het rendement van investering van e-mail en best practices voor hernieuwde betrokkenheid van leden](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
++ [Zelfstudies voor Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
