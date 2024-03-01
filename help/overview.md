@@ -1,29 +1,35 @@
 ---
-title: 'Adobe Campaign V8-tutorials: overzicht'
-description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+title: Adobe Campaign V8 Client Console-Tutorials
+description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video's en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign V8 Client Console.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1ba89be839ba4ee1440377697db7da12451758ea
-workflow-type: ht
-source-wordcount: '332'
-ht-degree: 100%
+source-git-commit: 3618aa08e8bd36c3825543ed160c7d0f1abd04bb
+workflow-type: tm+mt
+source-wordcount: '368'
+ht-degree: 74%
 
 ---
 
-# Adobe Campaign V8-tutorials
+# Adobe Campaign v8 Client Console-Tutorials
 
-Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign V8.
+Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign V8 Client Console.
+
+Zie
 
 >[!INFO]
 > Hebt u vragen? Wilt u uw ervaring delen of gedachten uitwisselen met uw collega&#39;s? Of hebt u feedback over de leercontent voor het Adobe-team? Neem deel aan het gesprek in de [Adobe Campaign Learning Community-discussie](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
+> 
+> Deze zelfstudies zijn niet waar u naar op zoek bent.
+> Zie de [Zelfstudies voor Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) voor begeleiding op hoe te om het Gebruikersinterface van het Web van de Campagne te gebruiken.
 
 >[!NOTE]
 > Campaign V8 is momenteel alleen beschikbaar als een Managed Cloud Service en kan niet worden geïmplementeerd in een on-premise of hybride omgeving. Geautomatiseerde migratie vanuit een bestaande Campaign Classic v7-omgeving is nog niet beschikbaar.
 >
->Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=nl) voor meer informatie over de overgang van Classic v7 naar V8.
+>Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=nl) voor meer informatie over de overgang van Classic v7 naar V8.
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
