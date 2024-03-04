@@ -1,19 +1,19 @@
 ---
-title: Zelfstudies voor Adobe Campaign V8-clientconsole
+title: Adobe Campaign V8 Client Console-Tutorials
 description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video's en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign V8 Client Console.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 9e502bab7f860db031e69efa486864bc5825b159
+source-git-commit: aa704e40bd85ac4d0712a75bc7c3b9d025fae9c2
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 74%
 
 ---
 
-# Zelfstudies voor Adobe Campaign v8 Client Console
+# Adobe Campaign v8 Client Console-Tutorials
 
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign V8 Client Console.
 
