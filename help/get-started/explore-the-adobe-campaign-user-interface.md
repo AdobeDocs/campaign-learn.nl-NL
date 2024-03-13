@@ -1,5 +1,5 @@
 ---
-title: De Adobe Campaign-gebruikersinterface verkennen
+title: De gebruikersinterface van de Adobe Campaign v8 Client Console verkennen
 description: Leer meer over de Adobe Campaign V8-gebruikersinterface en hoe u door de hoofdfuncties kunt navigeren.
 feature: Overview
 jira: KT-7828
@@ -10,14 +10,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 69d47d92-2590-4b3b-801b-493fbe4df2ce
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: 1844c9ee8f8ad62275fe7a1d306019ed1a92f6f2
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 95%
+source-wordcount: '50'
+ht-degree: 64%
 
 ---
 
-# De Adobe Campaign-gebruikersinterface verkennen
+# De gebruikersinterface van de Adobe Campaign v8 Client Console verkennen
 
 Leer meer over de Adobe Campaign V8-gebruikersinterface en hoe u door de hoofdfuncties kunt navigeren.
 
