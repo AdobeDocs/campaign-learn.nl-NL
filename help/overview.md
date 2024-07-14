@@ -6,7 +6,7 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
-source-git-commit: f4fb362adce9b576e3fc815cce775c52bfcc80f3
+source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 74%
@@ -23,12 +23,12 @@ Zie
 > Hebt u vragen? Wilt u uw ervaring delen of gedachten uitwisselen met uw collega&#39;s? Of hebt u feedback over de leercontent voor het Adobe-team? Neem deel aan het gesprek in de [Adobe Campaign Learning Community-discussie](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 > 
 > Deze zelfstudies zijn niet waar u naar op zoek bent.
-> Zie de [Zelfstudies voor Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) voor begeleiding op hoe te om het Gebruikersinterface van het Web van de Campagne te gebruiken.
+> Zie de [ zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) voor begeleiding op hoe te om het Gebruikersinterface van het Web van de Campagne te gebruiken.
 
 >[!NOTE]
 > Campaign V8 is momenteel alleen beschikbaar als een Managed Cloud Service en kan niet worden geïmplementeerd in een on-premise of hybride omgeving. Geautomatiseerde migratie vanuit een bestaande Campaign Classic v7-omgeving is nog niet beschikbaar.
 >
->Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=nl) voor meer informatie over de overgang van Classic v7 naar V8.
+>Zie de [ productdocumentatie ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=nl) voor meer informatie over de overgang van Klassieke v7 aan V8.
 
 
 <div id="recs-overview-body-1"></div>
