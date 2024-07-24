@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign-tutorials
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign V8 Client Console kunt gebruiken.
 breadcrumb-title: 'Clientconsole: tutorials'
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 92%
@@ -49,6 +49,8 @@ ht-degree: 92%
       + [Controlegroepen gebruiken](/help/send-messages/email/use-control-groups.md)
       + [Problemen met de levering van e-mail oplossen](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [E-mails ontwerpen voor leverbaarheid](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [Maximaliseer het rendement van investering van e-mail en best practices voor hernieuwde betrokkenheid van leden](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
    + Sms {#sms}
       + [Een sms-levering maken](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
@@ -103,6 +105,4 @@ ht-degree: 92%
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
 + Strategie &amp; leiderschap{#strategy}
    + [Tien beste praktijken aan het succes van Adobe Campaign voor marketers](/help/strategy/10-best-practices-for-marketers.md)
-   + [Maximaliseer het rendement van investering van e-mail en best practices voor hernieuwde betrokkenheid van leden](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
-+ [Zelfstudies voor Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [ Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
