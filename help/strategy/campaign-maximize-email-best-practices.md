@@ -1,15 +1,15 @@
 ---
-title: Maximaliseer uw rendement op investering voor e-mail en leer best practices voor hernieuwde betrokkenheid van leden
-description: Leer hoe u uw e-mailrendement kunt maximaliseren en ontdek de best practices voor hernieuwde betrokkenheid van leden. Ontdek de strategieën om de betrokkenheid van uw leden te verbeteren en krijg inzicht in het algemene succes van uw e-mailcampagnes.
+title: Maximaliseer uw ROI voor e-mail en leer beste praktijken voor abonneeherbetrokkenheid
+description: Leer hoe u uw e-mailrendement kunt maximaliseren en de beste werkwijzen voor herbetrokkenheid van abonnees leert. Ontdek de strategieën om uw betrokkenheid van abonnees te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen.
 solution: Campaign
 role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
+source-git-commit: 01b114a7da816d25abcad8b0a12c7c02c6ebba02
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 2%
+source-wordcount: '1475'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ In dit artikel bekijken we vier strategieën om de betrokkenheid van uw abonnees
 
 ## Wat is leverbaarheid?
 
-Er kan verwarring ontstaan tussen de leveringsvoorwaarden en de leveringsvoorwaarden. Leverbaarheid is een maat voor succes bij e-mailcampagnes; of zij aan inbox van de abonnee, junk omslag, of geblokkeerd door ISP worden geleverd. Als we het als een vergelijking zouden zien, dan zou het de bedoeling zijn om een e-mail te sturen plus de mogelijkheid om in de postbus te landen + de capaciteit om het continu te doen.
+Er kan verwarring ontstaan tussen de leveringsvoorwaarden en de leveringsvoorwaarden. De levering is een maat van succes voor e-mailcampagnes; of zij aan inbox van de abonnee, junkfolder, of geblokkeerd door ISP worden geleverd. Als we het als een vergelijking zouden zien, dan zou het de bedoeling zijn om een e-mail te sturen plus de mogelijkheid om in de postbus te landen + de capaciteit om het continu te doen.
 
 Hoe goed volgt uw organisatie de leverbaarheid van uw e-mailcampagnes en weet u waar uw e-mails terechtkomen?
 
@@ -48,10 +48,10 @@ Hier zijn vier belangrijke strategieën om uw ROI te maximaliseren:
 
 * ISPs volgt uw gemiddelde verzendt van een IP adres, zo verdeel het volume zoveel mogelijk om het creëren van een rode vlag te vermijden en die naar spam wordt verzonden
 * Stel uw inhoudkalender vooraf in en bereid uw inhoudsauteurs voor op een verhoging van het verzendende volume
-* Denk na over hoe je je e-mailberichten kunt plannen en een enorme spiraal in het verzenden van het volume kunt voorkomen. Neem enkele tactieken in overweging, zoals:
+* Denk na over hoe je je e-mailberichten kunt plannen en een enorme spiraal bij het verzenden van het volume kunt voorkomen. Neem enkele tactieken in overweging, zoals:
    * Niet tegelijkertijd maar over een paar dagen een ontploffing verzenden
    * Plan strategisch rond tijden van de dag wanneer de mensen e-mailoverbelasting, zoals 8-10 uur ontvangen
-   * Als je het niet over dagen kunt verspreiden, probeer het dan urenlang
+   * Als je het niet over dagen kunt verspreiden, probeer het dan uren
 
 ### 2. Infrastructuur
 
@@ -78,7 +78,7 @@ Hier zijn vier belangrijke strategieën om uw ROI te maximaliseren:
 
 ## Hoe vergroot u de betrokkenheid bij e-mail en verhelpt u moeheid met e-mail
 
-De e-mailvermoeidheid treedt op wanneer uw abonnees uw e-mailberichten niet meer kunnen ontvangen. E-mailvermoeidheid kan om een aantal redenen plaatsvinden; misschien staan ze al te lang op je lijst en zijn ze er moe van om van je te horen of je laatste inhoud is niet meer relevant . Het is aan u en uw team om te bepalen welke klanten e-mailvermoeidheid ervaren en waarom. Dus, wat zijn de signalen om op te kijken?
+De e-mailvermoeidheid treedt op wanneer uw abonnees uw e-mailberichten niet meer kunnen ontvangen. Moeilijkheden met e-mail kunnen om verschillende redenen voorkomen. Misschien staan ze al te lang op uw lijst en zijn ze het beu om van u te horen of uw nieuwste inhoud is niet langer relevant. Het is aan u en uw team om te bepalen welke klanten e-mailvermoeidheid ervaren en waarom. Dus, wat zijn de signalen om op te kijken?
 
 Belangrijke meetgegevens die moeten worden gecontroleerd zijn:
 
@@ -97,18 +97,18 @@ Helaas is er geen juist antwoord op het aantal e-mails dat per week moet worden 
 * Waar is uw klant in de levenscyclus van de klant?
 * Hoe erg zijn ze betrokken bij je e-mails?
    * E-mailadres voor verlaten mandje vs nieuwsbrief
-   * E-mail opnieuw activeren en verkoop starten
+   * E-mail opnieuw activeren en de uitverkoop starten
    * E-mailadres voor verlaten van mandje vs nieuwe productintroductie
 * Wat is de capaciteit van uw klant om inhoud van uw merk te ontvangen?
 * Wat zijn de seizoensvoorkeuren van uw klant?
 
-### 2. De status van uw abonnees identificeren
+### 2. Geef de status van uw abonnees aan
 
 De status van uw abonnees (actief, verlopen of inactief) hangt af van hoe vaak u deze inhoud verzendt. Daar kun je bepalen hoe betrokken ze zijn.
 
 Hier volgt een eenvoudige tabel die u tijdens uw controle kan helpen:
 
-![abonneestatus](assets/subscriber-status.png)
+![ abonneestatus ](assets/subscriber-status.png)
 
 Als u bijvoorbeeld dagelijks klanten per e-mail verzendt, hebben ze in de afgelopen maand contact gehad met een van deze e-mails om als actief en betrokken te worden beschouwd. Omgekeerd geldt dat als u maandelijks klanten per e-mail verzendt en ze binnen 9 tot 14 maanden geen interactie hebben gehad, ze als inactief kunnen worden beschouwd.
 
@@ -116,28 +116,29 @@ Voor geannuleerde en inactieve gebruikers kunt u de datum bekijken waarop de geb
 
 ### 3. Implementeren van strategieën voor hernieuwde betrokkenheid
 
-Verdeel dit proces in twee aandachtsgebieden: a) het verzenden van e-mails en b) de creatieve inhoud van de e-mails zelf. Hieronder volgt een meer gedetailleerd overzicht van elk van deze gebieden:
+Verdeel dit proces in twee aandachtsgebieden: a) e-mailverzendpatronen en b) de creatieve inhoud van de e-mails zelf. Hieronder volgt een meer gedetailleerd overzicht van elk van deze gebieden:
 
-**Verzendpatronen en -schema&#39;s bijwerken**
+**Update uw verzendende patronen en programma&#39;s**
 
-* **Langzaam starten** - Het is een marathon, geen sprint. Het is geen oplossing die je in een dag kunt implementeren. U kunt overwegen te beginnen met een klein percentage van uw publiek, ongeveer 4-5%, en de prestaties zorgvuldig te controleren.
+* **Begin langzaam** - het is een marathon geen sprint. Het is geen oplossing die je in een dag kunt implementeren. U kunt overwegen te beginnen met een klein percentage van uw publiek, ongeveer 4-5%, en de prestaties zorgvuldig te controleren.
 
-* **Houd rekening met de reputatie van uw merk** - Zorg ervoor dat e-mailverkeer naar inactieve segmenten geen problemen met de reputatie veroorzaakt.
+* **overweeg merkreputatie** - verzeker e-mailverkeer aan inactieve segmenten geen reputatiekwesties veroorzaakt.
 
-* **Workflows automatiseren** - Houd uw lijsten schoon en netjes.
+* **automatiseer werkschema&#39;s** - houd uw lijsten schoon en opzichtig.
 
-* **Drukvoorschriften** - Abonnees in het programma voor herbetrokkenheid uitsluiten van het ontvangen van andere e-mails.
+* **Regels van de Druk** - sluit abonnees in het re-betrokkenheidsprogramma van het ontvangen van een andere e-mail uit.
 
 **Creatief en inhoud**
 
-* **Een duidelijke OPT-IN/OPT-OUT aanbieden** - Maak het voor gebruikers gemakkelijk om snel te beslissen of zij van u willen horen. U kunt worden beloond met een opt-in om aan hun behoeften eerst te voldoen, eerder dan zich te concentreren op de bedrijfsbehoeften voor betrokkenheid.
+* **bied een duidelijke OPT-IN/OPT-OUT** aan - maak het voor gebruikers gemakkelijk om snel te besluiten of zij van u willen horen. U kunt worden beloond met een opt-in om aan hun behoeften eerst te voldoen, eerder dan zich te concentreren op de bedrijfsbehoeften voor betrokkenheid.
 
-* **Een voorkeurscentrum maken** - Dit is een kans om extra controle aan uw abonnees te geven, die hen toestaan om uit verschillende e-mailinhoud zoals nieuwsbrieven, promotieaanbiedingen, gebeurtenissen, etc., evenals verschillende regelmatigheid te selecteren. Houd er rekening mee dat als u besluit dit aan te bieden, u het publiek goed kunt volgen en segmenteren om aan deze voorkeuren te voldoen.
+* **creeer een Centrum van de Voorkeur** - dit is een kans om extra controle aan uw abonnees te geven, die hen toestaan om van verschillende e-mailinhoud zoals nieuwsbrieven, promotieaanbiedingen, gebeurtenissen, etc., evenals verschillende regelmatigheid te selecteren. Houd er rekening mee dat als u besluit dit aan te bieden, u het publiek goed kunt volgen en segmenteren om aan deze voorkeuren te voldoen.
 
-* **Sterke onderwerpregel** - Zorg ervoor dat ze opvallen tegen andere merken
+* **Sterke onderwerplijnen** - zorg ervoor zij uit andere merkinhoud opvallen
 
-* **Testen en leren** - een goed testplan is belangrijk om ervoor te zorgen dat uw inspanningen het gewenste effect hebben. Leer wat werkt en wat niet is en voer de informatie dienovereenkomstig uit.
+* **Test en leer** - een goed testend plan is belangrijk om ervoor te zorgen dat uw inspanningen het gewenste effect hebben. Leer wat werkt en wat niet is en voer de informatie dienovereenkomstig uit.
 
-Voor een overzicht van dit artikel en een live demo over het implementeren van strategieën voor herbetrokkenheid, bekijkt u onze [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+Voor een overzicht van dit artikel en een levende demo van het uitvoeren van re-engagement strategieën, bekijk ons [ webinar ](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Meer informatie over strategie en leiderschap bij de [Klant geslaagd](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.
+Leer meer over strategie en gedachte leiderschap bij de [ hub van het Succes van de Klant ](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+
