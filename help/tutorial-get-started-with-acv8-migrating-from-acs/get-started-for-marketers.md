@@ -4,10 +4,10 @@ description: Deze zelfstudie geeft een overzicht van de belangrijkste functies v
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
+source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 4%
+source-wordcount: '849'
+ht-degree: 2%
 
 ---
 
@@ -29,8 +29,6 @@ U hebt toegang tot Adobe Campaign v8 via de clientconsole of de webgebruikersint
 2. [ doorbladeren en de Lijst van de Filter ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
 
 ## Hulp en begeleiding zoeken
-
-Gebruik de [ AI-Gerichte contextafhankelijke hulp ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai) {target="_blank"} om tot de productdocumentatie binnen UI toegang te hebben.
 
 [ Documentatie van het Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
