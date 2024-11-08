@@ -8,18 +8,18 @@ activity: understand
 thumbnail: 342081.jpg
 team: PM
 role: Admin
-level: Beginner
+level: Intermediate
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 98%
+source-wordcount: '90'
+ht-degree: 65%
 
 ---
 
 # Audit Trail
 
-[!UICONTROL Audit Trail] legt in real time een uitgebreide lijst vast met acties en gebeurtenissen die plaatsvinden binnen Adobe Campaign.[!UICONTROL Audit Trail] bevat een manier om zelf toegang te krijgen tot een geschiedenis van gegevens om vragen te beantwoorden zoals:
+[!UICONTROL Audit Trail] legt in real time een uitgebreide lijst met acties en gebeurtenissen vast die plaatsvinden in Adobe Campaign.[!UICONTROL Audit Trail] bevat een manier om zelf toegang te krijgen tot een geschiedenis met gegevens die u helpen bij het beantwoorden van vragen zoals:
 
 * Wat is er met een object gebeurd?
 * Wie heeft het voor het laatst gewijzigd en wanneer?
