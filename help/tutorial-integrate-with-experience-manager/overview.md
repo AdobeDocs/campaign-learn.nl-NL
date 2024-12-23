@@ -8,10 +8,10 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 7c877275-a160-41a8-950a-756e9e932302
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: 8386506fc6f99a15ca4f6f265322565c60626e78
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 96%
+source-wordcount: '63'
+ht-degree: 100%
 
 ---
 
@@ -22,3 +22,4 @@ Verbind Adobe Campaign met Adobe Experience Manager om sjablonen, assets en form
 In de volgende video wordt uitgelegd wat u gaat leren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+
