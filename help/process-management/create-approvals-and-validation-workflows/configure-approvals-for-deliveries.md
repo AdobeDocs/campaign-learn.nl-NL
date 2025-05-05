@@ -22,4 +22,4 @@ Leer hoe u goedkeuringen en revisoren op leveringsniveau configureert.  
 
 Goedkeuringen instellen op leveringsniveau als de stappen voor de goedkeuring en de revisoren verschillen tussen de publicaties.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437651?quality=12&learn=on&captions=dut){transcript=true}

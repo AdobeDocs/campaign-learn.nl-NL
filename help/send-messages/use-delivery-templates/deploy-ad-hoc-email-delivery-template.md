@@ -21,4 +21,4 @@ ht-degree: 96%
 
 In deze video wordt uitgelegd hoe u een sjabloon voor ad hoc e-maillevering kunt distribueren en wordt het verschil tussen een e-maillevering en een leveringsworkflow uitgelegd.
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444963?quality=12&learn=on&captions=dut){transcript=true}

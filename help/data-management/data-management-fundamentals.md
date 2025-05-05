@@ -20,4 +20,4 @@ ht-degree: 96%
 
 Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452599?quality=12&learn=on&captions=dut){transcript=true}

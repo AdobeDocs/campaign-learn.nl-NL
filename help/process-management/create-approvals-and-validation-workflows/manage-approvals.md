@@ -23,4 +23,4 @@ Met goedkeuringen kunnen operators beslissingen nemen over een workflow of de vo
 
 Leer hoe u goedkeuringen en een campagne instelt en hoe u onderscheid kunt maken tussen leverings- en workflowgoedkeuringen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426631?quality=12&learn=on&captions=dut){transcript=true}

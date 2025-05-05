@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Leer hoe u gegevens deelt tussen Campaign en Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441270?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Verdere bronnen
 

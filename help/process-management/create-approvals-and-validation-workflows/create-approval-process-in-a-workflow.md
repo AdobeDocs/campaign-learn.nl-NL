@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Leer hoe u binnen een workflow een goedkeuringsproces maakt waarmee de targetingselectielogica kan worden gecontroleerd en goedgekeurd voordat de levering wordt gestart.
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442040?quality=12&learn=on&captions=dut){transcript=true}

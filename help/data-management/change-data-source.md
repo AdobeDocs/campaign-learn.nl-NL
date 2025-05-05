@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Leer hoe u de databron van een werkende workflowtabel kunt wijzigen met behulp van de activiteit Databron wijzigen om flexibel gegevens te beheren over verschillende databronnen, zoals FDA, FFDA en lokale database.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449536?quality=12&learn=on&captions=dut){transcript=true}
 
 Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=nl#change-data-source-activity) voor meer informatie over deze functie.

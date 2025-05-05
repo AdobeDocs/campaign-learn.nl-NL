@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Leer hoe u de integratie tussen Experience Manager en Campaign instelt, inclusief belangrijke instellingen om te zoeken en mogelijke &#39;gotchas&#39; om te voorkomen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445902?quality=12&learn=on&captions=dut){transcript=true}

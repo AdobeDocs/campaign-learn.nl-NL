@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Leer hoe u een nieuwsbrief, gemaakt in Experience Manager, kunt testen en verzenden in Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444754?quality=12&learn=on&captions=dut){transcript=true}

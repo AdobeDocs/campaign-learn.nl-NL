@@ -21,4 +21,4 @@ ht-degree: 64%
 
 Leer meer over de Adobe Campaign V8-gebruikersinterface en hoe u door de hoofdfuncties kunt navigeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426441?quality=12&learn=on&captions=dut){transcript=true}

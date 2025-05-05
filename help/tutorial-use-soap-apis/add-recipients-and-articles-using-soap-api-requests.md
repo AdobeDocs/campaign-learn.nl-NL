@@ -18,6 +18,6 @@ ht-degree: 97%
 
 Leer hoe u de SOAP-API van Campaign kunt gebruiken om een nieuwe ontvanger te maken. Begrijp hoe u een gegevensschema voor een aangepast artikel maakt en een artikel met de SOAP-API verzendt.
 
->[!VIDEO](https://video.tv.adobe.com/v/336386?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453538?quality=12&learn=on&captions=dut){transcript=true}
 
 Volgende video om te bekijken: [Stap 3 - Gebruikers lid maken via SOAP-API](/help/tutorial-use-soap-apis/subscribe-users-via-soap-api.md)

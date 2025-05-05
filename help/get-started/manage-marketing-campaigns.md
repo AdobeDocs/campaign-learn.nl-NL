@@ -21,4 +21,4 @@ ht-degree: 95%
 
 Krijg inzicht in de belangrijkste concepten van [!UICONTROL Adobe Campaign] die helpen bij het efficiënt plannen, uitvoeren en meten van cross-channel marketingcampagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/335608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449650?quality=12&learn=on&captions=dut){transcript=true}

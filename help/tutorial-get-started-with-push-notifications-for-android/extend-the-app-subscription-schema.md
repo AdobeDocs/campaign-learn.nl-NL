@@ -21,7 +21,7 @@ ht-degree: 97%
 
 Leer hoe u het [!UICONTROL schema voor app-lidmaatschappen] kunt uitbreiden om personaliseringswaarden op te slaan die [!DNL Campaign] van een mobiele app ontvangt.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445558?quality=12&learn=on&captions=dut){transcript=true}
 
 **Volgende stap**
 

@@ -21,4 +21,4 @@ ht-degree: 97%
 
 In de volgende video wordt uitgelegd hoe u de Adobe Campaign-clientconsole kunt downloaden en installeren, hoe u uw verbindingen met meerdere omgevingen kunt maken en beheren en hoe u de toegang tot de Adobe Campaign-clientconsole kunt controleren.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449887?quality=12&learn=on&captions=dut){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u de belasting op de instantie kunt controleren en workflowschema&#39;s dienovereenkomstig kunt plannen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445403?quality=12&learn=on&captions=dut){transcript=true}

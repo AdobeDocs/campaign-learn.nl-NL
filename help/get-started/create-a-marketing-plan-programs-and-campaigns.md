@@ -22,4 +22,4 @@ ht-degree: 97%
 Ontdek hoe u een marketingplan, -programma en -campagne maakt, eigenschappen voor een campagne instelt en de planning gebruikt.
 De video begeleidt u door een oefening die u in uw eigen instantie kunt volgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449907?quality=12&learn=on&captions=dut){transcript=true}

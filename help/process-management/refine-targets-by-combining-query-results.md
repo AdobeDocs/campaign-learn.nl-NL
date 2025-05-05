@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Leer hoe u uw doel kunt verfijnen door intersectie- of samenvoegingsactiviteiten te gebruiken om queryresultaten in een workflow te combineren.
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429336?quality=12&learn=on&captions=dut){transcript=true}

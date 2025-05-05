@@ -21,4 +21,4 @@ ht-degree: 97%
 
 Leer hoe u gegevens tot twee segmenten samenvoegt, een e-mail met een artikelwaarschuwing maakt en deze op maat maakt op basis van gegevens die zijn ontvangen van een externe API. De workflow die in de vorige stap is gemaakt, wordt verder opgebouwd: video van [Query-artikelen en lidmaatschapswaarden voor ontvangers](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449570?quality=12&learn=on&captions=dut){transcript=true}

@@ -23,4 +23,4 @@ Begrijp het concept van profielen. Leer hoe u toegang krijgt tot profielgegevens
 
 In deze video wordt ook uitgelegd hoe Adobe Campaign voldoet aan de Algemene Verordening Gegevensbescherming (AVG) en de California Consumer Privacy Act (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452097?quality=12&learn=on&captions=dut){transcript=true}

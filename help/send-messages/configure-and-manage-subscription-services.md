@@ -21,4 +21,4 @@ ht-degree: 93%
 
 Leer lidmaatschappen instellen en beheren en leden targeten.
 
->[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426562?quality=12&learn=on&captions=dut){transcript=true}

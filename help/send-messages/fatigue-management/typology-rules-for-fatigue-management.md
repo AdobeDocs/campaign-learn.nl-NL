@@ -23,4 +23,4 @@ Vermoeidheidsbeheer bepaalt de frequentie en de hoeveelheid van de berichten om 
 
 Leer hoe u vermoeidheidsbeheer in Adobe Campaign implementeert met behulp van typologische regels.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448337?quality=12&learn=on&captions=dut){transcript=true}

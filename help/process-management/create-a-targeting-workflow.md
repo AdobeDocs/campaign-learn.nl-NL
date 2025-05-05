@@ -24,4 +24,4 @@ Adobe Campaign maakt gebruik van workflows voor het uitvoeren van targetingcampa
 
 Leer hoe u verschillende leveringsdoelen definieert met behulp van een targetingworkflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450194?quality=12&learn=on&captions=dut){transcript=true}

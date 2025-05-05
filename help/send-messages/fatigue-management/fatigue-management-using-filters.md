@@ -22,4 +22,4 @@ ht-degree: 95%
 Vermoeidheidsbeheer bepaalt de frequentie en de hoeveelheid van de berichten om de ontvangers niet te overspoelen.
 Leer hoe u vermoeidheidsbeheer in Adobe Campaign implementeert met behulp van filters.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444606?quality=12&learn=on&captions=dut){transcript=true}

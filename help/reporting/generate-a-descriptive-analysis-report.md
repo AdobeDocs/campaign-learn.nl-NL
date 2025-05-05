@@ -21,4 +21,4 @@ ht-degree: 75%
 
 Leer hoe u een [!UICONTROL descriptive analysis report] genereert op basis van een workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448835?quality=12&learn=on&captions=dut){transcript=true}

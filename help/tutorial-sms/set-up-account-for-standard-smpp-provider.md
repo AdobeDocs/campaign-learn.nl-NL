@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Leer hoe u een SMPP-account instelt bij Adobe Campaign, hoe u de resultaten van de sms-levering analyseert en de SR-verwerking aanpast aan de specificaties van uw SMPP-provider.
 
->[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454246?quality=12&learn=on&captions=dut){transcript=true}
 
 Zie [Sms-connectorprotocol en instellingen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=nl#sending-messages) voor meer informatie over het SMPP-protocol, details over externe accountinstellingen of het oplossen van de meest voorkomende problemen.

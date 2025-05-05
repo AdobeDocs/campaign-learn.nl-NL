@@ -39,10 +39,10 @@ De terugkomende en ononderbroken leveringen verschillen in de manier waarop cont
 
 In de video wordt uitgelegd hoe u een terugkerende levering en een planneractiviteit configureert.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446880?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Een doorlopende levering instellen {#how-to-set-up-a-continuous-delivery}
 
 Deze video laat zien hoe u een doorlopende levering configureert met een stapsgewijze query.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444573?quality=12&learn=on&captions=dut){transcript=true}

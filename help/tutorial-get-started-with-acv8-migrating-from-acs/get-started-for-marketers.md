@@ -23,7 +23,7 @@ U hebt toegang tot Adobe Campaign v8 via de clientconsole of de webgebruikersint
 
 ## Toegang tot en onderzoek de gebruikersinterface van het Web van de Campagne
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453428?quality=12&learn=on&captions=dut){transcript=true}
 
 1. [ ontdekt de interface ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/start/user-interface)
 2. [ doorbladeren en de Lijst van de Filter ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/start/list-filters)
@@ -40,13 +40,13 @@ Het algemene concept van het creëren en beheren van publiek in Campaign v8 is h
 
 1. Leer om tot profielen toegang te hebben, te beheren en te onderzoeken gebruikend het Web van de Campagne Gebruikersinterface.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3448370?quality=12&learn=on&captions=dut){transcript=true}
 
    Zie [ begonnen worden met Profielen ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}  voor meer informatie.
 
 2. Leer hoe te om publiek te bouwen en te beheren, hoe te om publiek voor een levering te selecteren, en controlegroepen te bepalen.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453208?quality=12&learn=on&captions=dut){transcript=true}
 
    Zie [ begonnen worden met Soorten publiek ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}  voor meer informatie.
 
@@ -99,7 +99,7 @@ Gebruik Adobe Campaign Web om uw services, zoals nieuwsbrieven, te beheren en te
 
 1. Begrijp hoe de werkschema&#39;s werken en hoe te om een het richten werkschema tot stand te brengen.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453978?quality=12&learn=on&captions=dut){transcript=true}
 
 1. [ Werk met werkschemaactiviteiten ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"} 
 1. [ Grafieken en beperkingen voor werkschema&#39;s ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/wf/guardrails){target="_blank"} 
@@ -110,23 +110,23 @@ Gebruik Adobe Campaign Web om uw services, zoals nieuwsbrieven, te beheren en te
 
 Leer hoe u een volledig nieuwe e-maillevering maakt, het publiek definieert, de inhoud ontwerpt, voorvertoning simuleert en een proefdruk verzendt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454011?quality=12&learn=on&captions=dut){transcript=true}
 
 1. **Ontwerp en bepaal inhoud**
 
    Begrijp hoe u door de Designer-e-mail kunt navigeren. Leer hoe u een geheel nieuwe e-mail kunt structureren en ontwerpen, hoe u uw e-mail kunt personaliseren en testen.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453571?quality=12&learn=on&captions=dut){transcript=true}
 
    Leer hoe u een e-mail maakt door HTML te uploaden, hoe u deze compatibel maakt met de e-mail-Designer en hoe u deze kunt converteren naar een sjabloon.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3447038?quality=12&learn=on&captions=dut){transcript=true}
 
 2. **Voorproef en test**
 
    Leer hoe u een voorbeeld kunt weergeven van de inhoud en de persoonlijke weergave van e-mailberichten, testleveringen (proefdrukken) kunt verzenden en de rendering van e-mailberichten kunt controleren bij populaire desktops, mobiele en webclients.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3450343?quality=12&learn=on&captions=dut){transcript=true}
 
 3. **verzend e-mail en controlelogboeken**
 

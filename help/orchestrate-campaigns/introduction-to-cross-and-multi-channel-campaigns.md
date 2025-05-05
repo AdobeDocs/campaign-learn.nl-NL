@@ -21,4 +21,4 @@ ht-degree: 94%
 
 Begrijp het verschil tussen multi-channel en cross-channel campagnes en het gebruik ervan.
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447204?quality=12&learn=on&captions=dut){transcript=true}

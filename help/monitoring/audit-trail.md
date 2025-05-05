@@ -27,6 +27,6 @@ ht-degree: 65%
 
 Leer hoe u toegang krijgt tot de Audit Trail-logboeken en welke instellingen geconfigureerd kunnen worden.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444240?quality=12&learn=on&captions=dut){transcript=true}
 
 Voor meer informatie raadpleegt u de [Audit Trail-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=nl).

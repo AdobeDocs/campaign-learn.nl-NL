@@ -19,6 +19,6 @@ ht-degree: 97%
 
 Leer hoe u Soap-API&#39;s van Adobe Campaign kunt gebruiken en een geavanceerde leveringsworkflow kunt maken op basis van de gegevens die via de API zijn ontvangen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438341?quality=12&learn=on&captions=dut){transcript=true}
 
 Volgende video om te bekijken: [Stap 1: aan de slag met SOAP-API&#39;s](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

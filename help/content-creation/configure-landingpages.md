@@ -23,4 +23,4 @@ Met Adobe Campaign kunt u verschillende landingspagina&#39;s op de server ontwer
 
 In deze video ziet u hoe u door de webapplicatie-editor van Adobe Campaign kunt navigeren door een voorkeurscentrum te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450220?quality=12&learn=on&captions=dut){transcript=true}

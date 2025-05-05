@@ -23,4 +23,4 @@ In een multi-channel campagne gebruikt één marketingmededeling meerdere kanale
 
 Leer hoe u een multi-channel campagne kunt maken met e-mail, sms en een direct-maillevering op basis van het voorkeurskanaal van de ontvanger.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452509?quality=12&learn=on&captions=dut){transcript=true}

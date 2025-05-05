@@ -21,6 +21,6 @@ ht-degree: 97%
 
 Leer hoe u een query op gegevens kunt uitvieren met verschillende dimensies voor targeting en filteren, en hoe u de output kunt samenvoegen met een intersectie voor het gebruiksscenario van het maken van een geautomatiseerde levering van de contentsamenvatting.
 
->[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452896?quality=12&learn=on&captions=dut){transcript=true}
 
 Volgende stap: [Een levering naar ontvangers met lidmaatschap verzenden](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

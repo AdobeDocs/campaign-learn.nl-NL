@@ -23,4 +23,4 @@ De verrijkingsactiviteit is een workflowobject dat gegevens aan de werktabel toe
 
 Leer hoe u een verrijkingsactiviteit kunt configureren op basis van het leveringslogboek.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452174?quality=12&learn=on&captions=dut){transcript=true}

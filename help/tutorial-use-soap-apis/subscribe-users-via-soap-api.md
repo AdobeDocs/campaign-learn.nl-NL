@@ -18,6 +18,6 @@ ht-degree: 96%
 
 Leer hoe u een nieuwsbrief maakt en een ontvanger lid maakt met SOAP API-oproepen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446023?quality=12&learn=on&captions=dut){transcript=true}
 
 Doorgaan naar: [Stap 4 - Een inhoudsoverzicht maken met een workflow](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)

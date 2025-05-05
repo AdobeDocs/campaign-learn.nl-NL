@@ -21,4 +21,4 @@ ht-degree: 94%
 
 Leer hoe u een campagne uitvoert en hoe u een e-maillevering en de leveringseigenschappen bekijkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/334908?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452966?quality=12&learn=on&captions=dut){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 93%
 
 Hier leert u hoe u de eigenschappen van de leveringssjabloon kunt instellen en wordt elke eigenschap in detail uitgelegd.
 
->[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443407?quality=12&learn=on&captions=dut){transcript=true}

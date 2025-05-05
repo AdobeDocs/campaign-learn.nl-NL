@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Leer hoe u gegevens via een bronconnector in Experience Platform kunt opnemen om de profielgegevens bij te werken met geëxporteerde campagnelogboeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452031?quality=12&learn=on&captions=dut){transcript=true}

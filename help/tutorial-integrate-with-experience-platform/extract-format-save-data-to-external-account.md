@@ -21,7 +21,7 @@ ht-degree: 97%
 
 Leer in dit tweede deel van de tutorial Een exportworkflow maken hoe u de exportgegevens kunt opmaken en hoe u de gegevens naar een extern account kunt opslaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449919?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Assets
 

@@ -21,4 +21,4 @@ ht-degree: 97%
 
 Leer hoe u een extern account in Adobe Campaign configureert voor het importeren van ontvangergegevens van Adobe Experience Platform in Campaign. Begrijp hoe u een workflow maakt om de ontvangers te uploaden en te targeten die van Experience Platform worden ontvangen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453483?quality=12&learn=on&captions=dut){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 94%
 
 Begrijp ingebouwde rapportage en analyse in Adobe Campaign en leer hoe u een leveringsrapport kunt genereren.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448289?quality=12&learn=on&captions=dut){transcript=true}

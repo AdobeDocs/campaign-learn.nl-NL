@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Leer hoe u uw doel kunt verfijnen door een standaarduitsluiting toe te passen op een workflow. Leer hoe u vooraf gedefinieerde filters kunt maken en hoe u problemen met uw workflow kunt oplossen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452937?quality=12&learn=on&captions=dut){transcript=true}

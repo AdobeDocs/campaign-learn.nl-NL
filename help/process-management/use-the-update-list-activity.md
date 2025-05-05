@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Begrijp het concept van lijsten in Adobe Campaign en leer hoe u een lijst kunt maken met de activiteit van de updatelijst in een workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426463?quality=12&learn=on&captions=dut){transcript=true}

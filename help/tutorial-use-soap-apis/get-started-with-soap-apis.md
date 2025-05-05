@@ -18,6 +18,6 @@ ht-degree: 96%
 
 Leer hoe u een sessietoken kunt genereren met Postman voor gebruik in API-verzoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449481?quality=12&learn=on&captions=dut){transcript=true}
 
 Volgende video om te kijken: [Stap 2 - Ontvangers en artikelen toevoegen en SOAP API-verzoek gebruiken](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

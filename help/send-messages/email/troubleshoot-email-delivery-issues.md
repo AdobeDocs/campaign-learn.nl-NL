@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Leer hoe u problemen met de levering van e-mail kunt oplossen in Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/334907?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426603?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Verdere bronnen
 

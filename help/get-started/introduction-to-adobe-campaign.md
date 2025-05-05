@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Begrijp hoe Adobe Campaign past in de Adobe Digital Experience-portfolio en leer over de belangrijkste functies en mogelijkheden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453318?quality=12&learn=on&captions=dut){transcript=true}

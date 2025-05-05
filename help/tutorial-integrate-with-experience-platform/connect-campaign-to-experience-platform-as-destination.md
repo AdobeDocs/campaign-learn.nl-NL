@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Leer hoe u een segment van Adobe Experience Platform activeert naar een bestemming met het S3-verbindingstype van Amazon.
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453127?quality=12&learn=on&captions=dut){transcript=true}

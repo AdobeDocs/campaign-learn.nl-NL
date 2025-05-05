@@ -23,4 +23,4 @@ Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personali
 
 Deze video laat zien hoe u voorwaardelijke content aan een levering kunt toevoegen, bijvoorbeeld aan een meertalige nieuwsbrief.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426537?quality=12&learn=on&captions=dut){transcript=true}
