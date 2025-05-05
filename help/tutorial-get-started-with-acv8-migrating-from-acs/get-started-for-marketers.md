@@ -42,15 +42,15 @@ Het algemene concept van het creëren en beheren van publiek in Campaign v8 is h
 
    >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
 
-   Zie [ begonnen worden met Profielen ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients) {target="_blank"} voor meer informatie.
+   Zie [ begonnen worden met Profielen ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}  voor meer informatie.
 
 2. Leer hoe te om publiek te bouwen en te beheren, hoe te om publiek voor een levering te selecteren, en controlegroepen te bepalen.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
 
-   Zie [ begonnen worden met Soorten publiek ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/audiences/manage-audience) {target="_blank"} voor meer informatie.
+   Zie [ begonnen worden met Soorten publiek ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}  voor meer informatie.
 
-3. [ creeer en beheer testprofielen ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles) {target="_blank"}
+3. [ creeer en beheer testprofielen ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"} 
 
 ### Lidmaatschappen beheren
 
@@ -91,9 +91,9 @@ Gebruik Adobe Campaign Web om uw services, zoals nieuwsbrieven, te beheren en te
 
 ### Een campagne maken
 
-1. [ worden begonnen met campagnes ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns) {target="_blank"}
-2. [ toegang en beheer uw campagnes ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns) {target="_blank"}
-3. [ creeer uw eerste campagne ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns) {target="_blank"}
+1. [ worden begonnen met campagnes ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/gs-campaigns){target="_blank"} 
+2. [ toegang en beheer uw campagnes ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/manage-campaigns){target="_blank"} 
+3. [ creeer uw eerste campagne ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaigns/create-campaigns){target="_blank"} 
 
 ### Een workflow maken
 
@@ -101,8 +101,8 @@ Gebruik Adobe Campaign Web om uw services, zoals nieuwsbrieven, te beheren en te
 
    >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
 
-1. [ Werk met werkschemaactiviteiten ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities) {target="_blank"}
-1. [ Grafieken en beperkingen voor werkschema&#39;s ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails) {target="_blank"}
+1. [ Werk met werkschemaactiviteiten ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"} 
+1. [ Grafieken en beperkingen voor werkschema&#39;s ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/guardrails){target="_blank"} 
 
 ## Leveringen maken en beheren
 
@@ -130,9 +130,9 @@ Leer hoe u een volledig nieuwe e-maillevering maakt, het publiek definieert, de 
 
 3. **verzend e-mail en controlelogboeken**
 
-   * [ voorbereidingen treffen en verzendt e-mail ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send) {target="_blank"}
-   * [ Plan het verzenden van een levering ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending) {target="_blank"}
-   * [ Logboeken van de levering van de Monitor ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs) {target="_blank"}
+   * [ voorbereidingen treffen en verzendt e-mail ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send){target="_blank"} 
+   * [ Plan het verzenden van een levering ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending){target="_blank"} 
+   * [ Logboeken van de levering van de Monitor ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs){target="_blank"} 
 
 ### Sms-levering
 
@@ -198,12 +198,12 @@ Adobe Campaign v8 ondersteunt zowel Android™ als iOS Push Channel. Maak verbin
 ### Direct mail
 
 1. [ creeer Directe levering van de Post ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
-2. [ bepalen inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/content-direct-mail) {target="_blank"}
-3. [ Voorproef en verzendt ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/send-direct-mail) {target="_blank"}
+2. [ bepalen inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"} 
+3. [ Voorproef en verzendt ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"} 
 
 ### Best practices voor verzending
 
-* [ de leveringsmalplaatjes van het Gebruik ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template) {target="_blank"}
+* [ de leveringsmalplaatjes van het Gebruik ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template){target="_blank"} 
 
 ## Landingspagina&#39;s maken en beheren
 
@@ -239,18 +239,18 @@ Adobe Campaign v8 ondersteunt zowel Android™ als iOS Push Channel. Maak verbin
 
 ## Inhoudsbeheer
 
-* [ personaliseer inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/personalize) {target="_blank"}
-* [ Voorwaardelijke inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/conditions) {target="_blank"}
-* [ blokken van de Inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/content-blocks) {target="_blank"}
-* [ de fragmenten van de Inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/fragments) {target="_blank"}
-* [ voeg visuele fragmenten aan uw e-mails toe ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/use-visual-fragments) {target="_blank"}
-* [ voeg aanbiedingen aan uw berichten ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers) toe {target="_blank"}
-* [ creeer e-mailmalplaatjes ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/create-email-templates) {target="_blank"}
+* [ personaliseer inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/personalize){target="_blank"} 
+* [ Voorwaardelijke inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/conditions){target="_blank"} 
+* [ blokken van de Inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/content-blocks){target="_blank"} 
+* [ de fragmenten van de Inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/fragments){target="_blank"} 
+* [ voeg visuele fragmenten aan uw e-mails toe ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/use-visual-fragments){target="_blank"} 
+* [ voeg aanbiedingen aan uw berichten ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers){target="_blank"} toe 
+* [ creeer e-mailmalplaatjes ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/create-email-templates){target="_blank"} 
 
 ## Leveringen verzenden
 
-* [ Plan een stand-alone levering ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule) {target="_blank"}
-* [ Plan een levering in een werkschema ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending#schedule-a-delivery-in-a-campaign-workflow) {target="_blank"}
+* [ Plan een stand-alone levering ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule){target="_blank"} 
+* [ Plan een levering in een werkschema ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending#schedule-a-delivery-in-a-campaign-workflow){target="_blank"} 
 
 
 ## Rapportage
@@ -302,16 +302,16 @@ Adobe Campaign biedt drie verschillende rapporten:
 
 ### Adobe Experience Manager
 
-* [ beheert activa met Adobe Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets) {target="_blank"}
-* [ beheert malplaatjes met Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content) {target="_blank"}
+* [ beheert activa met Adobe Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets){target="_blank"} 
+* [ beheert malplaatjes met Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content){target="_blank"} 
 
 ### Overige
 
 De volgende integratie is beschikbaar bij de Adobe Campaign-clientconsole en nog niet beschikbaar in de Campagne Web User Interface. Gebruik de beschikbare koppelingen om te bladeren in de documentatie bij Campagne v8 (clientconsole) en meer informatie te krijgen over deze integratie:
 
-* Adobe Analytics-gegevensgebruik en delen via KPI. [ leer meer ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa) {target="_blank"}
-* Publiek delen met Adobe Experience Cloud (Adobe Audience Manager). [ leer meer ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud) {target="_blank"}
-* Integratie met Adobe Target. [ leer meer ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at) {target="_blank"}
-* Integratie met Adobe Experience Cloud Triggers. [ leer meer ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers) {target="_blank"}
+* Adobe Analytics-gegevensgebruik en delen via KPI. [ leer meer ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa){target="_blank"} 
+* Publiek delen met Adobe Experience Cloud (Adobe Audience Manager). [ leer meer ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud){target="_blank"} 
+* Integratie met Adobe Target. [ leer meer ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at){target="_blank"} 
+* Integratie met Adobe Experience Cloud Triggers. [ leer meer ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers){target="_blank"} 
 
 
