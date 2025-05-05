@@ -18,7 +18,7 @@ Deze zelfstudie geeft een overzicht van de belangrijkste functies voor beheer en
 
 ## De v8-architectuur voor campagne begrijpen
 
-Zie [ Begonnen krijgen met de architectuur van de Campagne ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"}  om de architectuur van de Campagne te begrijpen alvorens te beginnen om uw instantie te structureren en te organiseren.
+Zie [ Begonnen krijgen met de architectuur van de Campagne ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/config/architecture/architecture){target="_blank"}  om de architectuur van de Campagne te begrijpen alvorens te beginnen om uw instantie te structureren en te organiseren.
 
 
 ## De clientconsole installeren
@@ -27,7 +27,7 @@ De belangrijkste beleids en configuratietaken worden uitgevoerd in de [ Admin Co
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-Voor meer informatie, zie [ verbinden met Campagne met de cliëntconsole ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"} .
+Voor meer informatie, zie [ verbinden met Campagne met de cliëntconsole ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/new/connect){target="_blank"} .
 
 ## Toegang instellen en beheren
 
@@ -37,17 +37,17 @@ Met Adobe Campaign kunt u de rechten definiëren en beheren die aan gebruikers z
 * Toegang tot bepaalde gegevens
 * Toegang tot bepaalde handelingen (maken, wijzigen, verwijderen)
 
-  Zie [ gebruikerstoestemmingen beheren ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}  voor meer details.
+  Zie [ gebruikerstoestemmingen beheren ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}  voor meer details.
 
 ## Uw instantie configureren
 
-* Herzie de [ de implementatierichtlijnen van de Campagne ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}  leren hoe te om Adobe Campaign aan de vereisten van uw bedrijf en structuur aan te passen en uw implementatie te organiseren.
-* [ Reeks van het Kanaal hier ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"} 
-* [ Experience Cloud Triggers configuratie ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"} 
+* Herzie de [ de implementatierichtlijnen van de Campagne ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}  leren hoe te om Adobe Campaign aan de vereisten van uw bedrijf en structuur aan te passen en uw implementatie te organiseren.
+* [ Reeks van het Kanaal hier ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"} 
+* [ Experience Cloud Triggers configuratie ](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"} 
 
 ## Implementatie
 
-* [ de invoer/de uitvoer van het Pakket ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/packages){target="_blank"} 
+* [ de invoer/de uitvoer van het Pakket ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/developer/packages){target="_blank"} 
 
 ## Data management
 

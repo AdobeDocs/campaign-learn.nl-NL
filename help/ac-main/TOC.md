@@ -19,7 +19,7 @@ ht-degree: 90%
 + [Belangrijkste mogelijkheden van Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=nl)
 + Aan de slag {#getting-started}
    + [Inleiding tot Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [ de Gids van de Goedkeuring van Adobe Campaign v8 ](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [ de Gids van de Goedkeuring van Adobe Campaign v8 ](https://experienceleague.adobe.com/nl/docs/campaign-web/acs-to-ac/home)
    + [Adobe Campaign-clientconsole installeren en instellen](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [De Adobe Campaign-gebruikersinterface verkennen](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Marketingcampagnes beheren](/help/get-started/manage-marketing-campaigns.md)
@@ -107,4 +107,4 @@ ht-degree: 90%
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
 + Strategie &amp; leiderschap{#strategy}
    + [Tien beste praktijken aan het succes van Adobe Campaign voor marketers](/help/strategy/10-best-practices-for-marketers.md)
-+ [ Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [ Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=nl-NL)
