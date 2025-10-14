@@ -19,7 +19,7 @@ Welkom bij Adobe Campaign v8!
 
 Deze naslaggids is ontworpen voor gebruikers die van Campaign Standard naar Campagne v8 zijn gemigreerd. Het helpt u met uw nieuwe instantie van de Campagne vertrouwd te maken en u door de stappen te lopen die worden vereist om aan de slag te gaan voor uw rol.
 
-1. Begin door over de belangrijkste mogelijkheden en de terminologie van Campaign v8 te leren. Herzie de [ overgang van het Campaign Standard aan de gids van de Campagne v8 ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/start/acs-migration)
+1. Begin door over de belangrijkste mogelijkheden en de terminologie van Campaign v8 te leren. Herzie de [&#x200B; overgang van het Campaign Standard aan de gids van de Campagne v8 &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/start/acs-migration)
 
 2. Selecteer vervolgens hieronder uw rol voor toegang tot de relevante naslaggids voor uw rol:
 

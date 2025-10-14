@@ -19,18 +19,18 @@ Deze handleiding geeft een overzicht van de belangrijkste functies van Campaign 
 U hebt toegang tot Adobe Campaign v8 via de clientconsole of de webgebruikersinterface. Met de webinterface kunt u belangrijke marketingacties maken, beheren en uitvoeren.
 
 >[!NOTE]
-> De gebruikersinterfaceversies van het Web van Adobe Campaign werken op een ononderbroken leveringsmodel, dat voor een scalable, gefaseerde benadering van eigenschapplaatsing toestaat. Gelieve te controleren de [ Nota&#39;s van de Versie ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/release-notes/release-notes) regelmatig voor de recentste updates.
+> De gebruikersinterfaceversies van het Web van Adobe Campaign werken op een ononderbroken leveringsmodel, dat voor een scalable, gefaseerde benadering van eigenschapplaatsing toestaat. Gelieve te controleren de [&#x200B; Nota&#39;s van de Versie &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/release-notes/release-notes) regelmatig voor de recentste updates.
 
 ## Toegang tot en onderzoek de gebruikersinterface van het Web van de Campagne
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453428?quality=12&learn=on&captions=dut){transcript=true}
 
-1. [ ontdekt de interface ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/start/user-interface)
-2. [ doorbladeren en de Lijst van de Filter ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/start/list-filters)
+1. [&#x200B; ontdekt de interface &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/start/user-interface)
+2. [&#x200B; doorbladeren en de Lijst van de Filter &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/start/list-filters)
 
 ## Hulp en begeleiding zoeken
 
-[ Documentatie van het Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/campaign-web-home)
+[&#x200B; Documentatie van het Gebruikersinterface van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/campaign-web-home)
 
 ## Profielen en soorten publiek maken en beheren
 
@@ -42,15 +42,15 @@ Het algemene concept van het creëren en beheren van publiek in Campaign v8 is h
 
    >[!VIDEO](https://video.tv.adobe.com/v/3448370?quality=12&learn=on&captions=dut){transcript=true}
 
-   Zie [ begonnen worden met Profielen ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}  voor meer informatie.
+   Zie [&#x200B; begonnen worden met Profielen &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}  voor meer informatie.
 
 2. Leer hoe te om publiek te bouwen en te beheren, hoe te om publiek voor een levering te selecteren, en controlegroepen te bepalen.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3453208?quality=12&learn=on&captions=dut){transcript=true}
 
-   Zie [ begonnen worden met Soorten publiek ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}  voor meer informatie.
+   Zie [&#x200B; begonnen worden met Soorten publiek &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}  voor meer informatie.
 
-3. [ creeer en beheer testprofielen ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"} 
+3. [&#x200B; creeer en beheer testprofielen &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/audiences/work-with-profiles/test-profiles){target="_blank"} 
 
 ### Lidmaatschappen beheren
 
@@ -87,13 +87,13 @@ Gebruik Adobe Campaign Web om uw services, zoals nieuwsbrieven, te beheren en te
 
 ## Kanaaloverschrijdende campagnes en workflows maken en beheren
 
-![ stroom van de Campagne ](/help/tutorial-get-started-with-acv8-migrating-from-acs/_assets/campaign-flow.png)
+![&#x200B; stroom van de Campagne &#x200B;](/help/tutorial-get-started-with-acv8-migrating-from-acs/_assets/campaign-flow.png)
 
 ### Een campagne maken
 
-1. [ worden begonnen met campagnes ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/campaigns/gs-campaigns){target="_blank"} 
-2. [ toegang en beheer uw campagnes ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/campaigns/manage-campaigns){target="_blank"} 
-3. [ creeer uw eerste campagne ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/campaigns/create-campaigns){target="_blank"} 
+1. [&#x200B; worden begonnen met campagnes &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/campaigns/gs-campaigns){target="_blank"} 
+2. [&#x200B; toegang en beheer uw campagnes &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/campaigns/manage-campaigns){target="_blank"} 
+3. [&#x200B; creeer uw eerste campagne &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/campaigns/create-campaigns){target="_blank"} 
 
 ### Een workflow maken
 
@@ -101,8 +101,8 @@ Gebruik Adobe Campaign Web om uw services, zoals nieuwsbrieven, te beheren en te
 
    >[!VIDEO](https://video.tv.adobe.com/v/3453978?quality=12&learn=on&captions=dut){transcript=true}
 
-1. [ Werk met werkschemaactiviteiten ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"} 
-1. [ Grafieken en beperkingen voor werkschema&#39;s ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/wf/guardrails){target="_blank"} 
+1. [&#x200B; Werk met werkschemaactiviteiten &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"} 
+1. [&#x200B; Grafieken en beperkingen voor werkschema&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/wf/guardrails){target="_blank"} 
 
 ## Leveringen maken en beheren
 
@@ -130,9 +130,9 @@ Leer hoe u een volledig nieuwe e-maillevering maakt, het publiek definieert, de 
 
 3. **verzend e-mail en controlelogboeken**
 
-   * [ voorbereidingen treffen en verzendt e-mail ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/email/monitor/prepare-send){target="_blank"} 
-   * [ Plan het verzenden van een levering ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/email/monitor/schedule-sending){target="_blank"} 
-   * [ Logboeken van de levering van de Monitor ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/email/monitor/delivery-logs){target="_blank"} 
+   * [&#x200B; voorbereidingen treffen en verzendt e-mail &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/email/monitor/prepare-send){target="_blank"} 
+   * [&#x200B; Plan het verzenden van een levering &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/email/monitor/schedule-sending){target="_blank"} 
+   * [&#x200B; Logboeken van de levering van de Monitor &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/email/monitor/delivery-logs){target="_blank"} 
 
 ### Sms-levering
 
@@ -197,13 +197,13 @@ Adobe Campaign v8 ondersteunt zowel Android™ als iOS Push Channel. Maak verbin
 
 ### Direct mail
 
-1. [ creeer Directe levering van de Post ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
-2. [ bepalen inhoud ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"} 
-3. [ Voorproef en verzendt ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"} 
+1. [&#x200B; creeer Directe levering van de Post &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/direct-mail/create-direct-mail)
+2. [&#x200B; bepalen inhoud &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/direct-mail/content-direct-mail){target="_blank"} 
+3. [&#x200B; Voorproef en verzendt &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/direct-mail/send-direct-mail){target="_blank"} 
 
 ### Best practices voor verzending
 
-* [ de leveringsmalplaatjes van het Gebruik ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/delivery-template){target="_blank"} 
+* [&#x200B; de leveringsmalplaatjes van het Gebruik &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/delivery-template){target="_blank"} 
 
 ## Landingspagina&#39;s maken en beheren
 
@@ -239,18 +239,18 @@ Adobe Campaign v8 ondersteunt zowel Android™ als iOS Push Channel. Maak verbin
 
 ## Inhoudsbeheer
 
-* [ personaliseer inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/personalize){target="_blank"} 
-* [ Voorwaardelijke inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/conditions){target="_blank"} 
-* [ blokken van de Inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/content-blocks){target="_blank"} 
-* [ de fragmenten van de Inhoud ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/fragments){target="_blank"} 
-* [ voeg visuele fragmenten aan uw e-mails toe ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/use-visual-fragments){target="_blank"} 
-* [ voeg aanbiedingen aan uw berichten ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/offers){target="_blank"} toe 
-* [ creeer e-mailmalplaatjes ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/create-email-templates){target="_blank"} 
+* [&#x200B; personaliseer inhoud &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/personalize){target="_blank"} 
+* [&#x200B; Voorwaardelijke inhoud &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/conditions){target="_blank"} 
+* [&#x200B; blokken van de Inhoud &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/content-blocks){target="_blank"} 
+* [&#x200B; de fragmenten van de Inhoud &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/fragments){target="_blank"} 
+* [&#x200B; voeg visuele fragmenten aan uw e-mails toe &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/use-visual-fragments){target="_blank"} 
+* [&#x200B; voeg aanbiedingen aan uw berichten &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/offers){target="_blank"} toe 
+* [&#x200B; creeer e-mailmalplaatjes &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/manage-reusable-content/create-email-templates){target="_blank"} 
 
 ## Leveringen verzenden
 
-* [ Plan een stand-alone levering ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule){target="_blank"} 
-* [ Plan een levering in een werkschema ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/email/monitor/schedule-sending#schedule-a-delivery-in-a-campaign-workflow){target="_blank"} 
+* [&#x200B; Plan een stand-alone levering &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/gs-deliveries#gs-schedule){target="_blank"} 
+* [&#x200B; Plan een levering in een werkschema &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/msg/email/monitor/schedule-sending#schedule-a-delivery-in-a-campaign-workflow){target="_blank"} 
 
 
 ## Rapportage
@@ -302,16 +302,16 @@ Adobe Campaign biedt drie verschillende rapporten:
 
 ### Adobe Experience Manager
 
-* [ beheert activa met Adobe Experience Manager Assets as a Cloud Service ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/integrations/aem-assets){target="_blank"} 
-* [ beheert malplaatjes met Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/integrations/aem-content){target="_blank"} 
+* [&#x200B; beheert activa met Adobe Experience Manager Assets as a Cloud Service &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/integrations/aem-assets){target="_blank"} 
+* [&#x200B; beheert malplaatjes met Adobe Experience Manager as a Cloud Service &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/v8/integrations/aem-content){target="_blank"} 
 
 ### Overige
 
 De volgende integratie is beschikbaar bij de Adobe Campaign-clientconsole en nog niet beschikbaar in de Campagne Web User Interface. Gebruik de beschikbare koppelingen om te bladeren in de documentatie bij Campagne v8 (clientconsole) en meer informatie te krijgen over deze integratie:
 
-* Adobe Analytics-gegevensgebruik en delen via KPI. [ leer meer ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/connect/ac-aa){target="_blank"} 
-* Publiek delen met Adobe Experience Cloud (Adobe Audience Manager). [ leer meer ](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud){target="_blank"} 
-* Integratie met Adobe Target. [ leer meer ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/connect/ac-at){target="_blank"} 
-* Integratie met Adobe Experience Cloud Triggers. [ leer meer ](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/connect/ac-triggers){target="_blank"} 
+* Adobe Analytics-gegevensgebruik en delen via KPI. [&#x200B; leer meer &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/connect/ac-aa){target="_blank"} 
+* Publiek delen met Adobe Experience Cloud (Adobe Audience Manager). [&#x200B; leer meer &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud){target="_blank"} 
+* Integratie met Adobe Target. [&#x200B; leer meer &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/connect/ac-at){target="_blank"} 
+* Integratie met Adobe Experience Cloud Triggers. [&#x200B; leer meer &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/connect/ac-triggers){target="_blank"} 
 
 
