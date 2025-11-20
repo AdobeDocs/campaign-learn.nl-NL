@@ -107,4 +107,4 @@ ht-degree: 84%
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
    + [Tien beste praktijken aan het succes van Adobe Campaign voor marketers](/help/strategy/10-best-practices-for-marketers.md)
-+ [&#x200B; Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [&#x200B; Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=nl-NL)
