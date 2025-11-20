@@ -8,18 +8,18 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 90%
+ht-degree: 84%
 
 ---
 
 
-# Adobe Campaign v8 Client Console-Tutorials {#tutorials}
+# Zelfstudies voor Adobe Campaign v8-clientconsole {#tutorials}
 
-+ [Campagne v8 Client Console-Tutorials](/help/overview.md)
++ [Zelfstudies voor Campagne v8 Client Console](/help/overview.md)
 + [Belangrijkste mogelijkheden van Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=nl)
 + Aan de slag {#getting-started}
    + [Inleiding tot Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [&#x200B; de Gids van de Goedkeuring van Adobe Campaign v8 &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/acs-to-ac/home)
+   + [ de Gids van de Goedkeuring van Adobe Campaign v8 ](https://experienceleague.adobe.com/nl/docs/campaign-web/acs-to-ac/home)
    + [Adobe Campaign-clientconsole installeren en instellen](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [De Adobe Campaign-gebruikersinterface verkennen](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Marketingcampagnes beheren](/help/get-started/manage-marketing-campaigns.md)
@@ -29,13 +29,13 @@ ht-degree: 90%
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
    + [Profielen importeren](/help/profile-management/import-profiles.md)
    + [Profielen targeten in een workflow](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Campagneorkestratie {#campaign-orchestration}
++ Campagne-orkestatie {#campaign-orchestration}
    + [Een campagne uitvoeren](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Inleiding tot multi- en cross-campagnes](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Multi-channel campagnes maken](/help/orchestrate-campaigns/multi-channel-campaigns.md)
    + [Cross-channel campagnes maken](/help/orchestrate-campaigns/cross-channel-campaigns.md)
 + Inhoud maken {#content-creation}
-   + E-mail {#email}
+   + Email {#email}
       + [E-mailverzendingen maken en ontwerpen](/help/content-creation/create-and-design-email-deliveries.md)
       + [Dynamische inhoud configureren](/help/content-creation/configure-dynamic-content.md)
       + [E-mails personaliseren met dynamische contentblokken](/help/content-creation/personalize-using-dynamic-content-blocks.md)
@@ -45,7 +45,7 @@ ht-degree: 90%
    + [Landingspagina’s configureren](/help/content-creation/configure-landingpages.md)
    + [Een enquête maken](/help/content-creation/create-a-survey.md)
 + Berichten verzenden{#sending-messages}
-   + E-mail {#email}
+   + Email {#email}
       + [Proefdrukken voor e-maillevering verzenden en valideren](/help/send-messages/email/send-and-validate-proofs.md)
       + [Controlegroepen gebruiken](/help/send-messages/email/use-control-groups.md)
       + [Problemen met de levering van e-mail oplossen](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
@@ -63,14 +63,14 @@ ht-degree: 90%
       + [Een leveringssjabloon maken](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering distribueren](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Vermoeidheidsbeheer{#fatigue-management}
+   + Vermogensbeheer{#fatigue-management}
       + [Typologische regels](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Lidmaatschapsservices configureren en beheren](/help/send-messages/configure-and-manage-subscription-services.md)
 + Procesbeheer en -automatisering{#process-management}
    + [Workflow maken](/help/process-management/create-a-workflow.md)
    + [Herhalende en doorlopende leveringen maken](/help/process-management/recurring-deliveries.md)
-   + Targetingworkflows {#targeting-workflows}
+   + Workflows voorbereiden {#targeting-workflows}
       + [Een targetingworkflow maken](/help/process-management/create-a-targeting-workflow.md)
       + [Doelen verfijnen door queryresultaten te combineren](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Doelen verfijnen door queryresultaten uit te sluiten](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -78,7 +78,7 @@ ht-degree: 90%
       + [Inleiding](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Goedkeuringen beheren](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Goedkeuringen voor campagnes configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Goedkeuringen voor leveringen configureren &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Goedkeuringen voor leveringen configureren ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Een goedkeuringsactiviteit maken in een workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Leer van uw collega&#39;s - best practices voor workflows](/help/process-management/workflow-best-practices-for-marketers.md)
 + Data management {#data-management}
@@ -90,7 +90,7 @@ ht-degree: 90%
    + [Gegevensreplicatie](/help/data-management/data-replication.md)
    + [API-stagingmechanisme](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: SOAP-API&#39;s gebruiken](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=nl)
-+ Verbinden met andere oplossingen {#connect}
++ Verbinding maken met andere oplossingen {#connect}
    + [Integreren met Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=nl)
    + [Integreren met Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=nl)
    + [Integreren met Adobe Target](/help/connect/target-integration.md)
@@ -98,13 +98,13 @@ ht-degree: 90%
 + Rapportage {#reporting}
    + [Ingebouwde rapporten openen](/help/reporting/access-built-in-reports.md)
    + [Een beschrijvend analyserapport genereren](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Controleren {#monitoring}
++ Controle {#monitoring}
    + [Workflow heatmap](/help/monitoring/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring/audit-trail.md)
 + Beheer {#administration}
    + [Gebruikersmachtigingen beheren](/help/administration/manage-user-permissions.md)
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target="_blank"}
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
-+ Strategie &amp; leiderschap{#strategy}
++ Strategie en leiderschap{#strategy}
    + [Tien beste praktijken aan het succes van Adobe Campaign voor marketers](/help/strategy/10-best-practices-for-marketers.md)
-+ [&#x200B; Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=nl-NL)
++ [ Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
