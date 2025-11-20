@@ -19,7 +19,7 @@ ht-degree: 84%
 + [Belangrijkste mogelijkheden van Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=nl)
 + Aan de slag {#getting-started}
    + [Inleiding tot Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [ de Gids van de Goedkeuring van Adobe Campaign v8 ](https://experienceleague.adobe.com/nl/docs/campaign-web/acs-to-ac/home)
+   + [&#x200B; de Gids van de Goedkeuring van Adobe Campaign v8 &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-web/acs-to-ac/home)
    + [Adobe Campaign-clientconsole installeren en instellen](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [De Adobe Campaign-gebruikersinterface verkennen](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Marketingcampagnes beheren](/help/get-started/manage-marketing-campaigns.md)
@@ -78,7 +78,7 @@ ht-degree: 84%
       + [Inleiding](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Goedkeuringen beheren](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Goedkeuringen voor campagnes configureren](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Goedkeuringen voor leveringen configureren ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Goedkeuringen voor leveringen configureren &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Een goedkeuringsactiviteit maken in een workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Leer van uw collega&#39;s - best practices voor workflows](/help/process-management/workflow-best-practices-for-marketers.md)
 + Data management {#data-management}
@@ -107,4 +107,4 @@ ht-degree: 84%
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
    + [Tien beste praktijken aan het succes van Adobe Campaign voor marketers](/help/strategy/10-best-practices-for-marketers.md)
-+ [ Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign ](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [&#x200B; Zelfstudies van het Gebruikersinterface van het Web van Adobe Campaign &#x200B;](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
