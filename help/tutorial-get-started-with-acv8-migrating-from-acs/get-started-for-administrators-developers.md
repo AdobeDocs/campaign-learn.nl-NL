@@ -18,7 +18,7 @@ Deze zelfstudie geeft een overzicht van de belangrijkste functies voor beheer en
 
 ## De v8-architectuur voor campagne begrijpen
 
-Zie [&#x200B; Begonnen krijgen met de architectuur van de Campagne &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} om de architectuur van de Campagne te begrijpen alvorens te beginnen om uw instantie te structureren en te organiseren.
+Zie [&#x200B; Begonnen krijgen met de architectuur van de Campagne &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} om de architectuur van de Campagne te begrijpen alvorens te beginnen om uw instantie te structureren en te organiseren.
 
 
 ## De clientconsole installeren
@@ -27,11 +27,11 @@ De belangrijkste beleids en configuratietaken worden uitgevoerd in [ Admin Conso
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-Voor meer informatie, zie [&#x200B; verbinden met Campagne met de cliëntconsole &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}.
+Voor meer informatie, zie [&#x200B; verbinden met Campagne met de cliëntconsole &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
 ## Toegang instellen en beheren
 
-1. **[krijg begonnen met toestemmingen in Campagne v8.](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+1. **[krijg begonnen met toestemmingen in Campagne v8.](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
 Leer over het algemene toestemmingsmodel: exploitanten, exploitantgroepen (rollen), genoemde rechten, en omslagtoestemmingen.
 
 2. Leer hoe u gebruikersmachtigingen beheert in de clientconsole. Leer hoe u
@@ -43,17 +43,17 @@ Leer over het algemene toestemmingsmodel: exploitanten, exploitantgroepen (rolle
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} voor een geschreven gedetailleerde stap door stapgids.
+Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} voor een geschreven gedetailleerde stap door stapgids.
 
 ## Uw instantie configureren
 
-* Herzie de [&#x200B; implementatierichtlijnen van de Campagne &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"} om te leren hoe te om Adobe Campaign aan de vereisten van uw bedrijf en structuur aan te passen en uw implementatie te organiseren.
-* [&#x200B; Reeks van het Kanaal hier &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [&#x200B; Experience Cloud Triggers configuratie &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* Herzie de [&#x200B; implementatierichtlijnen van de Campagne &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/config/implement/implement){target="_blank"} om te leren hoe te om Adobe Campaign aan de vereisten van uw bedrijf en structuur aan te passen en uw implementatie te organiseren.
+* [&#x200B; Reeks van het Kanaal hier &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [&#x200B; Experience Cloud Triggers configuratie &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## Implementatie
 
-* [&#x200B; de invoer/de uitvoer van het Pakket &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/packages){target="_blank"}
+* [&#x200B; de invoer/de uitvoer van het Pakket &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/developer/packages){target="_blank"}
 
 ## Data management
 
