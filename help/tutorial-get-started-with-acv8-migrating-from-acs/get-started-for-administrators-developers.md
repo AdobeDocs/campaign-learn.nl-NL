@@ -25,7 +25,7 @@ Zie [&#x200B; Begonnen krijgen met de architectuur van de Campagne &#x200B;](htt
 
 De belangrijkste beleids en configuratietaken worden uitgevoerd in [ Admin Console ]. De eerste stap is het instellen van uw omgeving. In de volgende video wordt uitgelegd hoe u de Adobe Campaign Client Console kunt downloaden en installeren en hoe u de verbinding met uw instantie kunt beheren.
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449887?captions=dut&quality=12&learn=on){transcript=true}
 
 Voor meer informatie, zie [&#x200B; verbinden met Campagne met de cliëntconsole &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign/campaign-v8/new/connect){target="_blank"}.
 
@@ -61,7 +61,7 @@ Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.co
 
 Leer wat targetingdimensies en werktabellen zijn en hoe Adobe Campaign gegevens beheert over verschillende databronnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452599?captions=dut&quality=12&learn=on){transcript=true}
 
 
 ### Een schema maken en uitbreiden
