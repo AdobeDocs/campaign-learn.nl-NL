@@ -19,6 +19,6 @@ ht-degree: 40%
 
 Leer hoe u de sms-connector aanpast voor uw SMPP-provider. Pas uw SMS-instellingen aan om verbindingslimieten af te handelen. Begrijp hoe te opstelling de maximumproductie, het verzendende venster, en encryptie met TLS.
 
->[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453881?captions=dut&quality=12&learn=on){transcript=true}
 
 Zie [Sms-connectorprotocol en instellingen](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) voor meer informatie over het SMPP-protocol, details over externe accountinstellingen of het oplossen van de meest voorkomende problemen.

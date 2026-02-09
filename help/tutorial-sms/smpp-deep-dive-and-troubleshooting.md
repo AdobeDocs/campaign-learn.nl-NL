@@ -19,4 +19,4 @@ ht-degree: 92%
 
 Leer hoe SMPP-verbindingen tot stand komen en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453417?captions=dut&quality=12&learn=on){transcript=true}

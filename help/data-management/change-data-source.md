@@ -20,4 +20,4 @@ ht-degree: 10%
 
 Leer hoe u de gegevensbron van een werkstroomwerktabel wijzigt met de Source-activiteit Gegevens wijzigen om gegevens op flexibele wijze te beheren in verschillende gegevensbronnen, zoals FDA, FFDA en de lokale database.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449536?captions=dut&quality=12&learn=on){transcript=true}
