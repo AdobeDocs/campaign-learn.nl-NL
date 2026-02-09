@@ -21,4 +21,4 @@ Leer hoe u de sms-connector aanpast voor uw SMPP-provider. Pas uw SMS-instelling
 
 >[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
 
-Zie [Sms-connectorprotocol en instellingen](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) voor meer informatie over het SMPP-protocol, details over externe accountinstellingen of het oplossen van de meest voorkomende problemen.
+Zie [Sms-connectorprotocol en instellingen](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) voor meer informatie over het SMPP-protocol, details over externe accountinstellingen of het oplossen van de meest voorkomende problemen.

@@ -140,5 +140,5 @@ Verdeel dit proces in twee aandachtsgebieden: a) e-mailverzendpatronen en b) de 
 
 Voor een overzicht van dit artikel en een levende demo van het uitvoeren van re-engagement strategieën, bekijk ons [&#x200B; webinar &#x200B;](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Leer meer over strategie en gedachte leiderschap bij de [&#x200B; hub van het Succes van de Klant &#x200B;](https://experienceleague.adobe.com/en/docs/customer-success/customer-success/overview).
+Leer meer over strategie en gedachte leiderschap bij de [&#x200B; hub van het Succes van de Klant &#x200B;](https://experienceleague.adobe.com/nl/docs/customer-success/customer-success/overview).
 

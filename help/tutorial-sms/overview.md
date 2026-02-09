@@ -33,4 +33,4 @@ De volgende onderwerpen worden behandeld:
 
 >[!NOTE]
 >
->Deze tutorial geldt voor Adobe Campaign V7 en Campaign V8. Aanvullende bronnen zijn te vinden in de productdocumentatie: [Sms-connectorprotocol en -instellingen](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
+>Deze tutorial geldt voor Adobe Campaign V7 en Campaign V8. Aanvullende bronnen zijn te vinden in de productdocumentatie: [Sms-connectorprotocol en -instellingen](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
