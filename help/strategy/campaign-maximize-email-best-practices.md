@@ -108,7 +108,7 @@ De status van uw abonnees (actief, verlopen of inactief) hangt af van hoe vaak u
 
 Hier volgt een eenvoudige tabel die u tijdens uw controle kan helpen:
 
-![ abonneestatus ](assets/subscriber-status.png)
+![&#x200B; abonneestatus &#x200B;](assets/subscriber-status.png)
 
 Als u bijvoorbeeld dagelijks klanten per e-mail verzendt, hebben ze in de afgelopen maand contact gehad met een van deze e-mails om als actief en betrokken te worden beschouwd. Omgekeerd geldt dat als u maandelijks klanten per e-mail verzendt en ze binnen 9 tot 14 maanden geen interactie hebben gehad, ze als inactief kunnen worden beschouwd.
 
@@ -138,4 +138,4 @@ Verdeel dit proces in twee aandachtsgebieden: a) e-mailverzendpatronen en b) de 
 
 * **Test en leer** - een goed testend plan is belangrijk om ervoor te zorgen dat uw inspanningen het gewenste effect hebben. Leer wat werkt en wat niet is en voer de informatie dienovereenkomstig uit.
 
-Leer meer over strategie en gedachte leiderschap bij de [ hub van Perspectieven ](https://experienceleague.adobe.com/en/perspectives).
+Leer meer over strategie en gedachte leiderschap bij de [&#x200B; hub van Perspectieven &#x200B;](https://experienceleague.adobe.com/en/perspectives).
