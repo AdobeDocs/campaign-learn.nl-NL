@@ -138,4 +138,4 @@ Verdeel dit proces in twee aandachtsgebieden: a) e-mailverzendpatronen en b) de 
 
 * **Test en leer** - een goed testend plan is belangrijk om ervoor te zorgen dat uw inspanningen het gewenste effect hebben. Leer wat werkt en wat niet is en voer de informatie dienovereenkomstig uit.
 
-Leer meer over strategie en gedachte leiderschap bij de [&#x200B; hub van Perspectieven &#x200B;](https://experienceleague.adobe.com/en/perspectives).
+Leer meer over strategie en gedachte leiderschap bij de [&#x200B; hub van Perspectieven &#x200B;](https://experienceleague.adobe.com/nl/perspectives).
