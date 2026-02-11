@@ -6,9 +6,9 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1461'
 ht-degree: 0%
 
 ---
@@ -108,7 +108,7 @@ De status van uw abonnees (actief, verlopen of inactief) hangt af van hoe vaak u
 
 Hier volgt een eenvoudige tabel die u tijdens uw controle kan helpen:
 
-![&#x200B; abonneestatus &#x200B;](assets/subscriber-status.png)
+![ abonneestatus ](assets/subscriber-status.png)
 
 Als u bijvoorbeeld dagelijks klanten per e-mail verzendt, hebben ze in de afgelopen maand contact gehad met een van deze e-mails om als actief en betrokken te worden beschouwd. Omgekeerd geldt dat als u maandelijks klanten per e-mail verzendt en ze binnen 9 tot 14 maanden geen interactie hebben gehad, ze als inactief kunnen worden beschouwd.
 
@@ -138,7 +138,4 @@ Verdeel dit proces in twee aandachtsgebieden: a) e-mailverzendpatronen en b) de 
 
 * **Test en leer** - een goed testend plan is belangrijk om ervoor te zorgen dat uw inspanningen het gewenste effect hebben. Leer wat werkt en wat niet is en voer de informatie dienovereenkomstig uit.
 
-Voor een overzicht van dit artikel en een levende demo van het uitvoeren van re-engagement strategieën, bekijk ons [&#x200B; webinar &#x200B;](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
-
-Leer meer over strategie en gedachte leiderschap bij de [&#x200B; hub van het Succes van de Klant &#x200B;](https://experienceleague.adobe.com/nl/docs/customer-success/customer-success/overview).
-
+Leer meer over strategie en gedachte leiderschap bij de [ hub van Perspectieven ](https://experienceleague.adobe.com/en/perspectives).
