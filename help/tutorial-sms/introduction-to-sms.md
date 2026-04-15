@@ -21,4 +21,4 @@ Leer wat SMS is, de rol van de dienstverlener van SMS, en hoe Adobe Campaign met
 
 >[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
 
-Zie [ de schakelaarprotocol en montages van SMS ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) voor meer informatie over het protocol SMPP, details over externe rekeningsmontages, of het oplossen van problemen van de gemeenschappelijkste kwesties.
+Zie [&#x200B; de schakelaarprotocol en montages van SMS &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol) voor meer informatie over het protocol SMPP, details over externe rekeningsmontages, of het oplossen van problemen van de gemeenschappelijkste kwesties.
