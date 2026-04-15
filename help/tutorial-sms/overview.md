@@ -1,36 +1,36 @@
 ---
-title: Technische tutorial - Sms instellen voor Adobe Campaign
-description: Leer hoe u een sms-account configureert voor SMTP-providers en hoe u de configuratie analyseert en problemen oplost.
+title: Technische zelfstudie - SMS instellen voor Adobe Campaign
+description: Leer hoe te om een rekening van SMS voor leveranciers te vormen SMTP en hoe te om de configuratie te analyseren en problemen op te lossen.
 feature: SMS
 role: Admin, Developer
-badgeV7V8: label = &quot;Van toepassing op v7 en v8" type="Positive"
+badgeV7V8: label="Van toepassing op v7 en v8" type="Positive"
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 41760d0ba303997abffa6cd79b6ae73d9ca54b3e
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 69%
+source-wordcount: '224'
+ht-degree: 0%
 
 ---
 
-# Technische tutorial - Sms instellen voor Adobe Campaign
+# Technische zelfstudie - SMS instellen voor Adobe Campaign
 
-De tutorials in dit gedeelte zijn bedoeld voor beheerders die belast zijn met het opzetten van het sms-kanaal voor Adobe Campaign.
+De zelfstudies in deze sectie zijn ontworpen voor beheerders die zijn belast met het instellen van het SMS-kanaal voor Adobe Campaign.
 
 De volgende onderwerpen worden behandeld:
 
-* **[Inleiding tot sms](/help/tutorial-sms/introduction-to-sms.md)**:
-  *Leer hoe sms werkt en hoe Adobe Campaign sms verzendt*
+* **[Inleiding aan SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+  *leer hoe SMS werkt en hoe Adobe Campaign SMS* verzendt
 
-* **[Een sms-account instellen voor een standaard SMPP-provider](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-  *Leer hoe u de sms-connector aanpast aan uw SMPP-provider. Pas uw SMS-instellingen aan om verbindingslimieten af te handelen.  Begrijp hoe te opstelling de maximumproductie, het verzendende venster, en encryptie met TLS.*
+* **[Opstelling een rekening van SMS voor een standaardleverancier SMPP](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
+  *Leer hoe te om de schakelaar van SMS aan uw leverancier aan te passen SMPP. Pas uw SMS-instellingen aan om verbindingslimieten af te handelen.  Begrijp hoe te opstelling de maximumproductie, het verzendende venster, en encryptie met TLS.*
 
 * **[pas de schakelaar van SMS aan uw leverancier SMPP aan](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
   *Leer hoe te om uw montages van SMS te verfijnen om verbindingsgrenzen te behandelen. Begrijp hoe te opstelling de maximumproductie, een verzendend venster, en encryptie met TLS.*
 
-* **[SMPP-protocol, meer details en probleemoplossing](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
-  *Leer hoe SMPP-verbindingen tot stand worden gebracht en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.*
+* **[SMPP-protocol diep duiken en problemen oplossen](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+  *Leer hoe de verbindingen SMPP worden gevestigd en hoe SMPP gegevens door PDUs ruilt. Begrijp hoe te om verbindingen problemen op te lossen.*
 
 >[!NOTE]
 >
->Deze tutorial geldt voor Adobe Campaign V7 en Campaign V8. Aanvullende bronnen zijn te vinden in de productdocumentatie: [Sms-connectorprotocol en -instellingen](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
+>Deze zelfstudie is van toepassing op Adobe Campaign V7 en Campagne V8. De extra middelen kunnen in de productdocumentatie worden gevonden: [ het schakelaarprotocol en de montages van SMS ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
