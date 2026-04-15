@@ -33,4 +33,4 @@ De volgende onderwerpen worden behandeld:
 
 >[!NOTE]
 >
->Deze zelfstudie is van toepassing op Adobe Campaign V7 en Campagne V8. De extra middelen kunnen in de productdocumentatie worden gevonden: [&#x200B; het schakelaarprotocol en de montages van SMS &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
+>Deze zelfstudie is van toepassing op Adobe Campaign V7 en Campagne V8. De extra middelen kunnen in de productdocumentatie worden gevonden: [&#x200B; het schakelaarprotocol en de montages van SMS &#x200B;](https://experienceleague.adobe.com/nl/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
