@@ -29,4 +29,4 @@ In de onderstaande video wordt uitgelegd hoe u AMP in Adobe Campaign kunt active
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
-Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email) voor meer details.
+Zie de [&#x200B; productdocumentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=nl-NL#about-amp-for-email) voor meer details.
